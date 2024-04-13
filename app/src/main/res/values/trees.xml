@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tree_names">
+        <item>Allegheny Serviceberry</item>
+        <item>American Beech</item>
+        <item>American Holly</item>
+        <item>American Hophornbeam</item>
+        <item>American Hornbeam</item>
+        <item>American Linden</item>
+        <item>Bald Cypress</item>
+        <item>Bigleaf Magnolia</item>
+        <item>Black Cherry</item>
+        <item>Black Locust</item>
+        <item>Black Oak</item>
+        <item>Black Walnut</item>
+        <item>Black Gum</item>
+        <item>Blue Ash</item>
+        <item>Bur Oak</item>
+        <item>Chestnut Oak</item>
+        <item>Chinkapin Oak</item>
+        <item>Cockspur Hawthorn</item>
+        <item>Common Witchhazel</item>
+        <item>Cucumbertree Magnolia</item>
+        <item>Downy Serviceberry</item>
+        <item>Canadian Hemlock</item>
+        <item>Eastern Redbud</item>
+        <item>Eastern White Pine</item>
+        <item>Flowering Dogwood</item>
+        <item>White Fringetree</item>
+        <item>Green Hawthorn</item>
+        <item>Green Ash</item>
+        <item>Honeylocust</item>
+        <item>Kentucky Coffeetree</item>
+        <item>Carolina Silverbell</item>
+        <item>Mountain Stewartia</item>
+        <item>Northern Catalpa</item>
+        <item>Red Oak</item>
+        <item>Ohio Buckeye</item>
+        <item>Pagoda Dogwood</item>
+        <item>Pawpaw</item>
+        <item>Pecan</item>
+        <item>Common Persimmon</item>
+        <item>Pignut Hickory</item>
+        <item>Pin Oak</item>
+        <item>Red Buckeye</item>
+        <item>Red Maple</item>
+        <item>River Birch</item>
+        <item>Sassafras</item>
+        <item>Scarlet Oak</item>
+        <item>Shagbark Hickory</item>
+        <item>Shadblow Serviceberry</item>
+        <item>Shellbark Hickory</item>
+        <item>Shingle Oak</item>
+        <item>Sourwood</item>
+        <item>Sugar Hackberry</item>
+        <item>Sugar Maple</item>
+        <item>Sweet Birch</item>
+        <item>Sweetgum</item>
+        <item>American Sycamore</item>
+        <item>Tulip Poplar</item>
+        <item>Umbrella Magnolia</item>
+        <item>Virginia Pine</item>
+        <item>White Ash</item>
+        <item>White Oak</item>
+        <item>Willow Oak</item>
+        <item>Yellow Buckeye</item>
+        <item>Yellowwood</item>
+    </string-array>
+</resources>

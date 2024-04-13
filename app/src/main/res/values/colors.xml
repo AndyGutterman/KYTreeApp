@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name = "kentucky_gold">#EDB200</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="custom_green">#66BB6A</color>
+    <color name="custom_red">#EF5350</color>
+    <color name="custom_text_white">#FFFFFF</color>
+    <color name="deep_blue">#003366</color>
+
+</resources>
