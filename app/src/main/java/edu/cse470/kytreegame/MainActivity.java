@@ -258,8 +258,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void resetButtonColors() {
-        int defaultButtonColor = getResources().getColor(R.color.deep_blue);
-        int defaultTextColor = getResources().getColor(android.R.color.white);
+        int defaultButtonColor = ContextCompat.getColor(this, R.color.deep_blue);
+        int defaultTextColor = ContextCompat.getColor(this, R.color.white);
 
         button1.setBackgroundColor(defaultButtonColor);
         button1.setTextColor(defaultTextColor);
