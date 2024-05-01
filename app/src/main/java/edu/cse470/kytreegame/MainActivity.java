@@ -5,6 +5,7 @@ import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
@@ -20,6 +21,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
@@ -32,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
     private Random random;
     private List<String> treeFolders;
     private String currentTreeFolder;
-    private List<String> currentTreeNames;
     private String correctTreeName;
     private boolean isGameWon = false;
     private int currentStreak = 0;
@@ -68,9 +69,9 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             AssetManager assetManager = getAssets();
-            treeFolders = Arrays.asList(assetManager.list("trees"));
+            treeFolders = Arrays.asList(Objects.requireNonNull(assetManager.list("trees")));
         } catch (IOException e) {
-            e.printStackTrace();
+            Log.e("MainActivity, onCreate(),", "An error occurred", e);
         }
 
         restoreGameState();
@@ -118,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
             AssetManager assetManager = getAssets();
             imageFiles = assetManager.list("trees/" + currentTreeFolder);
         } catch (IOException e) {
-            e.printStackTrace();
+            Log.e("MainActivity, startGame(),", "An error occurred", e);
             return;
         }
 
@@ -127,6 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         // Select three distinct image files from the current folder
+        assert imageFiles != null;
         List<String> imageFileList = Arrays.asList(imageFiles);
         Collections.shuffle(imageFileList);
         List<String> chosenImages = imageFileList.subList(0, 3);
@@ -137,12 +139,12 @@ public class MainActivity extends AppCompatActivity {
     private void displayRandomTreeImages(List<String> chosenImages) {
         try {
             AssetManager assetManager = getAssets();
-            List<String> imageFileList = new ArrayList<>(chosenImages); // Create a copy of chosenImages
+            List<String> imageFileList = new ArrayList<>(chosenImages);
 
             // Shuffle the list of images
             Collections.shuffle(imageFileList);
 
-            // Ensure the indices of the two chosen images are different
+            // Ensures the indices of the two chosen images are different
             int index1 = random.nextInt(imageFileList.size());
             int index2;
             do {
@@ -162,7 +164,7 @@ public class MainActivity extends AppCompatActivity {
             inputStream1.close();
             inputStream2.close();
         } catch (IOException e) {
-            e.printStackTrace();
+            Log.e("MainActivity, displayRandomTreeImages(),", "An error occurred", e);
         }
     }
 
@@ -229,38 +231,35 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private Button wrongFeedback(String selectedTreeName, Button clickedButton){
+    private void wrongFeedback(String selectedTreeName, Button clickedButton){
         String article = startsWithVowel(selectedTreeName) ? "an" : "a";
-        feedbackTextView.setText("This is not " + article + " " + selectedTreeName + " tree.");
-        feedbackTextView.setTextColor(getResources().getColor(R.color.custom_red));
+        String feedback = "This is not " + article + " " + selectedTreeName + " tree.";
+        feedbackTextView.setText(feedback);
+        feedbackTextView.setTextColor(ContextCompat.getColor(this, R.color.custom_red));
 
-        clickedButton.setBackgroundColor(getResources().getColor(R.color.custom_red));
-        clickedButton.setTextColor(getResources().getColor(R.color.custom_text_white));
-        return clickedButton;
+        clickedButton.setBackgroundColor(ContextCompat.getColor(this, R.color.custom_red));
+        clickedButton.setTextColor(ContextCompat.getColor(this, R.color.custom_text_white));
     }
 
-    private Button correctFeedback(String incorrectTreeName, Button clickedButton){
+    private void correctFeedback(String incorrectTreeName, Button clickedButton){
         String article = startsWithVowel(incorrectTreeName) ? "an" : "a";
-        feedbackTextView.setText("This is " + article + " " + incorrectTreeName + " tree.");
-        feedbackTextView.setTextColor(getResources().getColor(R.color.custom_green));
+        String feedback = "This is " + article + " " + incorrectTreeName + " tree.";
+        feedbackTextView.setText(feedback);
+        feedbackTextView.setTextColor(ContextCompat.getColor(this, R.color.custom_green));
 
-        clickedButton.setBackgroundColor(getResources().getColor(R.color.custom_green));
-        clickedButton.setTextColor(getResources().getColor(R.color.custom_text_white));
-        return clickedButton;
+        clickedButton.setBackgroundColor(ContextCompat.getColor(this, R.color.custom_green));
+        clickedButton.setTextColor(ContextCompat.getColor(this, R.color.custom_text_white));
     }
 
     private boolean startsWithVowel(String word) {
-        // Convert the word to lowercase for case insensitivity
         word = word.toLowerCase();
-        // Check if the first character is a vowel
         char firstChar = word.charAt(0);
         return firstChar == 'a' || firstChar == 'e' || firstChar == 'i' || firstChar == 'o' || firstChar == 'u';
     }
 
     private void resetButtonColors() {
-        // Get the deep blue color from the color resource
         int defaultButtonColor = getResources().getColor(R.color.deep_blue);
-        int defaultTextColor = getResources().getColor(android.R.color.white); // White text color
+        int defaultTextColor = getResources().getColor(android.R.color.white);
 
         button1.setBackgroundColor(defaultButtonColor);
         button1.setTextColor(defaultTextColor);
