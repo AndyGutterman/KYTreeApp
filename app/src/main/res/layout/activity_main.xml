@@ -7,6 +7,52 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <TextView
+        android:id="@+id/highScoreLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="2dp"
+        />
+
+    <TextView
+        android:id="@+id/highScoreTextView"
+        android:layout_below="@id/highScoreLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="4dp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/streakLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="2dp"
+    />
+
+    <TextView
+        android:id="@+id/streakTextView"
+        android:layout_below="@id/streakLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="20dp"
+    />
+
 
     <LinearLayout
         android:id="@+id/imagesLinearLayout"
@@ -14,7 +60,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center_horizontal"
-        android:layout_marginTop = "16dp"
+        android:layout_marginTop ="16dp"
         android:layout_alignParentTop="true">
 
         <ImageView
