@@ -36,14 +36,23 @@ public class TreeGuessingGame extends AppCompatActivity {
     private TextView feedbackTextView;
     private Random random;
     private List<String> treeFolders;
-    private String currentTreeFolder;
-    private String correctTreeName;
     private boolean isGameWon = false;
     private int currentStreak = 0;
     private TextView highScoreTextView;
     private TextView highScoreLabelTextView;
     private TextView streakLabelTextView;
     private TextView streakTextView;
+
+    private String correctTreeName;
+
+    private String incorrectTreeName1;
+
+    private String incorrectTreeName2;
+
+    private int correctPos = -1;
+    private int incorrectPos1 = -1;
+    private int incorrectPos2 = -1;
+
 
 
     @Override
@@ -85,34 +94,36 @@ public class TreeGuessingGame extends AppCompatActivity {
 
     private void restoreGameState() {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
-        currentTreeFolder = sharedPreferences.getString("currentTreeFolder", "");
         correctTreeName = sharedPreferences.getString("correctTreeName", "");
         currentStreak = sharedPreferences.getInt("currentStreak", 0);
         isGameWon = sharedPreferences.getBoolean("isGameWon", false);
         startGame();
     }
 
-    private void startGame() {
-        isGameWon = false;
-
-        feedbackTextView.setText("");
-        streakTextView.setText(String.valueOf(currentStreak));
+    private void newRandomTree(){
         resetButtonColors();
-
         int randomIndex = random.nextInt(treeFolders.size());
-        currentTreeFolder = treeFolders.get(randomIndex);
-        correctTreeName = currentTreeFolder;
+        correctTreeName = treeFolders.get(randomIndex);
 
         // Retrieve all tree names excluding the correct tree name
         List<String> allTreeNames = new ArrayList<>(treeFolders);
         allTreeNames.remove(correctTreeName);
 
-        // Shuffle the list of tree names and choose two incorrect tree names
         Collections.shuffle(allTreeNames);
-        String incorrectTreeName1 = allTreeNames.get(0);
-        String incorrectTreeName2 = allTreeNames.get(1);
+        incorrectTreeName1 = allTreeNames.get(0);
+        incorrectTreeName2 = allTreeNames.get(1);
+    }
+
+
+    private void startGame() {
+        isGameWon = false;
+        feedbackTextView.setText("");
+        streakTextView.setText(String.valueOf(currentStreak));
+        newRandomTree();  // Generates new random tree
 
         List<String> buttonOptions = Arrays.asList(correctTreeName, incorrectTreeName1, incorrectTreeName2);
+        saveButtons(buttonOptions);
+
         Collections.shuffle(buttonOptions);
 
         button1.setText(buttonOptions.get(0));
@@ -122,7 +133,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         String[] imageFiles;
         try {
             AssetManager assetManager = getAssets();
-            imageFiles = assetManager.list("trees/" + currentTreeFolder);
+            imageFiles = assetManager.list("trees/" + correctTreeName);
         } catch (IOException e) {
             Log.e("MainActivity, startGame(),", "An error occurred", e);
             return;
@@ -132,11 +143,12 @@ public class TreeGuessingGame extends AppCompatActivity {
         currentStreak = loadStreak();
 
 
-        // Select three distinct image files from the current folder
         assert imageFiles != null;
         List<String> imageFileList = Arrays.asList(imageFiles);
         Collections.shuffle(imageFileList);
-        List<String> chosenImages = imageFileList.subList(0, 3);
+        List<String> chosenImages = imageFileList.subList(0, 2);
+
+
 
         displayRandomTreeImages(chosenImages);
     }
@@ -150,15 +162,20 @@ public class TreeGuessingGame extends AppCompatActivity {
             Collections.shuffle(imageFileList);
 
             // Ensures the indices of the two chosen images are different
+
             int index1 = random.nextInt(imageFileList.size());
             int index2;
             do {
                 index2 = random.nextInt(imageFileList.size());
             } while (index2 == index1);
 
+            String imagePath1 = "trees/" + correctTreeName + "/" + imageFileList.get(index1);
+            String imagePath2 = "trees/" + correctTreeName + "/" + imageFileList.get(index2);
+            saveImagePaths(imagePath1, imagePath2);
+
             // Open the input streams for the chosen images
-            InputStream inputStream1 = assetManager.open("trees/" + currentTreeFolder + "/" + imageFileList.get(index1));
-            InputStream inputStream2 = assetManager.open("trees/" + currentTreeFolder + "/" + imageFileList.get(index2));
+            InputStream inputStream1 = assetManager.open(imagePath1);
+            InputStream inputStream2 = assetManager.open(imagePath2);
 
             // Decode the images and set them to the ImageViews
             Bitmap bitmap1 = BitmapFactory.decodeStream(inputStream1);
@@ -175,14 +192,10 @@ public class TreeGuessingGame extends AppCompatActivity {
 
     private void setupBackToMainMenuButton() {
         ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
-        backButtonImageView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // Navigate back to the main menu activity
-                Intent intent = new Intent(TreeGuessingGame.this, MainActivity.class);
-                startActivity(intent);
-                finish(); // Finish the current activity to prevent going back to it
-            }
+        backButtonImageView.setOnClickListener(v -> {
+            Intent intent = new Intent(TreeGuessingGame.this, MainActivity.class);
+            startActivity(intent);
+            finish();
         });
     }
 
@@ -196,6 +209,39 @@ public class TreeGuessingGame extends AppCompatActivity {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         return sharedPreferences.getInt("currentStreak", 0);
     }
+
+    private String loadImage1(){
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        return sharedPreferences.getString("ImagePath1", "-1");
+    }
+
+    private String loadImage2(){
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        return sharedPreferences.getString("ImagePath2", "-2");
+    }
+    private void saveImagePaths(String path1, String path2){
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString("ImagePath1", path1);
+        editor.putString("ImagePath2", path2);
+        editor.apply();
+    }
+
+    private void saveButtons(List<String> buttons){
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+
+        String correctTreeString = buttons.get(0);
+        String incorrectTreeName1 = buttons.get(1);
+        String incorrectTreeName2 = buttons.get(2);
+
+        editor.putString("correct", correctTreeString);
+        editor.putString("incorrect1", incorrectTreeName1);
+        editor.putString("incorrect2", incorrectTreeName2);
+
+    }
+
+
 
     private void saveHighScore(int highScore) {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
