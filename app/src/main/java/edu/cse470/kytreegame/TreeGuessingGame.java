@@ -5,6 +5,7 @@ import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -51,7 +52,9 @@ public class TreeGuessingGame extends AppCompatActivity {
         setContentView(R.layout.tree_guessing_game);
 
         Window window = getWindow();
-        window.setStatusBarColor(ContextCompat.getColor(this, R.color.deep_blue));
+        window.setStatusBarColor(ContextCompat.getColor(this, R.color.coffee_statusbar));
+        window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.coffee)));
+
 
         highScoreLabelTextView = findViewById(R.id.highScoreLabelTextView);
         highScoreTextView = findViewById(R.id.highScoreTextView);

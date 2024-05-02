@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_marginTop="2dp"
@@ -23,6 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -34,6 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_alignParentEnd="true"
@@ -45,7 +48,8 @@
         android:layout_below="@id/streakLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="-"
+        android:text=""
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_alignParentEnd="true"
@@ -95,12 +99,12 @@
             android:orientation="vertical"
             android:paddingBottom="16dp">
 
-            <!-- Answer Text -->
             <TextView
                 android:id="@+id/feedbackTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="12dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="18dp"
                 android:gravity="center"
                 android:text=""
                 android:textColor="#FF0000"
@@ -136,6 +140,5 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!-- LinearLayout for answer text and buttons at the bottom, centered -->
 
 </RelativeLayout>

@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name = "kentucky_gold">#EDB200</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="goldenrod_gold">#CDA739</color>
+
+    <color name="deep_blue">#003366</color>
+    <color name="light_blue">#F5F5F5</color>
+    <color name="coffee">#3E2723</color>
+    <color name="coffee_statusbar">#755E52</color>
+
+
+
+
     <color name="custom_green">#66BB6A</color>
     <color name="custom_red">#EF5350</color>
     <color name="custom_text_white">#FFFFFF</color>
-    <color name="deep_blue">#003366</color>
+
+    <color name="seafoam_green">#2E8B57</color>
+    <color name="dark_green">#006400</color>
+    <color name="contrasting_green">#2E7D32</color>
+
 
 </resources>

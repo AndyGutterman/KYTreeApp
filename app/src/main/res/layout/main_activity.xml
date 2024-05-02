@@ -14,25 +14,44 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="32dp"
         android:src="@drawable/playstore"/>
+
+    <TextView
+        android:id="@+id/native_trees_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/native_tree_game_and_gallery"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:layout_below="@id/logo_image"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:id="@+id/start_game_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Start Game"
-        android:layout_below="@id/logo_image"
+        android:text="@string/start_game"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:layout_below="@id/native_trees_textview"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"/>
+        android:layout_marginTop="48dp"
+        android:backgroundTint="@color/goldenrod_gold" />
+
+
 
     <Button
         android:id="@+id/tree_gallery_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tree Gallery"
+        android:text="@string/tree_gallery"
+        android:textColor="@color/white"
+        android:textSize="28sp"
         android:layout_below="@id/start_game_button"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="24dp"/>
+        android:layout_marginTop="28dp"
+        android:backgroundTint="@color/goldenrod_gold"
+        android:elevation="8dp" />
 
 </RelativeLayout>
