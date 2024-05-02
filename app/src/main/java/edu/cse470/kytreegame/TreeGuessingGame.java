@@ -91,7 +91,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         }
         setupBackToMainMenuButton();
         loadStats();
-        startNewGame();
+        startGame();
     }
 
     private void setupBackToMainMenuButton() {
@@ -109,15 +109,18 @@ public class TreeGuessingGame extends AppCompatActivity {
         updateHighScoreText();
     }
 
+
     private void updateStreakText(){
         currentStreak = getStreak();
         streakTextView.setText(String.valueOf(currentStreak));
     }
 
+
     private int getStreak() {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         return sharedPreferences.getInt("currentStreak", 0);
     }
+
 
     private void updateHighScoreText() {
         int highScore = getHighScore();
@@ -126,13 +129,14 @@ public class TreeGuessingGame extends AppCompatActivity {
         streakLabelTextView.setText("    THIS\n STREAK");
     }
 
+
     private int getHighScore() {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         return sharedPreferences.getInt("highScore", 0); // 0 is the default value if high score is not found
     }
 
 
-    private void startNewGame() {
+    private void startGame() {
         isGameWon = false;
         feedbackTextView.setText("");
         resetButtonColors();
@@ -145,10 +149,12 @@ public class TreeGuessingGame extends AppCompatActivity {
         loadButtons();
     }
 
+
     private void newCorrectTree(){
         int randomIndex = random.nextInt(treeFolders.size());
         correctTreeName = treeFolders.get(randomIndex);
     }
+
 
     private void newWrongTrees(){
         List<String> allTreeNames = new ArrayList<>(treeFolders);
@@ -157,7 +163,6 @@ public class TreeGuessingGame extends AppCompatActivity {
         incorrectTreeName1 = allTreeNames.get(0);
         incorrectTreeName2 = allTreeNames.get(1);
     }
-
 
 
     private void loadImages(List<String> chosenImages) {
@@ -192,6 +197,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         }
     }
 
+
     private void loadButtons(){
         List<String> buttonOptions = Arrays.asList(correctTreeName, incorrectTreeName1, incorrectTreeName2);
         Collections.shuffle(buttonOptions);
@@ -199,6 +205,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         button2.setText(buttonOptions.get(1));
         button3.setText(buttonOptions.get(2));
     }
+
 
     private List<String> shuffledFolder(){
         String[] imageFiles = new String[0];
@@ -215,6 +222,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         return imageFileList.subList(0, 2);
     }
 
+
     private void saveCorrectImagePaths(){
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPreferences.edit();
@@ -223,12 +231,14 @@ public class TreeGuessingGame extends AppCompatActivity {
         editor.apply();
     }
 
+
     private void saveHighScore(int highScore) {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPreferences.edit();
         editor.putInt("highScore", highScore);
         editor.apply();
     }
+
 
     private void saveStreak(int streak) {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
@@ -238,12 +248,14 @@ public class TreeGuessingGame extends AppCompatActivity {
     }
 
 
+
+
     public void onTreeButtonClick(View view) {
         Button clickedButton = (Button) view;
         String selectedTreeName = clickedButton.getText().toString();
 
         if (isGameWon) {
-            startNewGame();
+            startGame();
             isGameWon = false;
             return;
         }
@@ -269,6 +281,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         }
     }
 
+
     private void wrongFeedback(String selectedTreeName, Button clickedButton){
         String article = startsWithVowel(selectedTreeName) ? "an" : "a";
         String feedback = "This is not " + article + " " + selectedTreeName + " tree.";
@@ -278,6 +291,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         clickedButton.setBackgroundColor(ContextCompat.getColor(this, R.color.custom_red));
         clickedButton.setTextColor(ContextCompat.getColor(this, R.color.custom_text_white));
     }
+
 
     private void correctFeedback(String incorrectTreeName, Button clickedButton){
         String article = startsWithVowel(incorrectTreeName) ? "an" : "a";
@@ -289,11 +303,13 @@ public class TreeGuessingGame extends AppCompatActivity {
         clickedButton.setTextColor(ContextCompat.getColor(this, R.color.custom_text_white));
     }
 
+
     private boolean startsWithVowel(String word) {
         word = word.toLowerCase();
         char firstChar = word.charAt(0);
         return firstChar == 'a' || firstChar == 'e' || firstChar == 'i' || firstChar == 'o' || firstChar == 'u';
     }
+
 
     private void resetButtonColors() {
         int defaultButtonColor = ContextCompat.getColor(this, R.color.deep_blue);
