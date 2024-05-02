@@ -53,10 +53,6 @@ public class TreeGuessingGame extends AppCompatActivity {
 
     private String correctImagePath2;
 
-    private int correctButtonPos = -1;
-    private int incorrectButtonPos1 = -1;
-    private int incorrectButtonPos2 = -1;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
