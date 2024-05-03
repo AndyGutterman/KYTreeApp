@@ -1,27 +1,38 @@
 package edu.cse470.kytreegame;
 
+import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.view.View;
+import android.view.Window;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 import java.io.IOException;
 import java.io.InputStream;
+
 
 public class GalleryDetailsActivity extends AppCompatActivity {
 
     private ImageView[] imageViews;
     private TextView treeNameTextView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gallery_details);
 
-        // Initialize ImageView array with references to your ImageViews
+        Window window = getWindow();
+        window.setStatusBarColor(ContextCompat.getColor(this, R.color.coffee_statusbar));
+        window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.coffee)));
+
+        // Initialize ImageView array with references to ImageViews
         imageViews = new ImageView[]{
                 findViewById(R.id.imageView1),
                 findViewById(R.id.imageView2),
@@ -31,42 +42,42 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                 findViewById(R.id.imageView6)
         };
 
-        // Find the TextView for tree name
+        // Find TextView for tree name
         treeNameTextView = findViewById(R.id.treeNameTextView);
 
-        // Load the image into all ImageViews
+        // Load image into ImageViews
         loadImage();
 
-        // Display the tree name
+        // Display tree name
         displayTreeName();
     }
-
     private void loadImage() {
-        try {
-            // Construct the path to the image
-            String imagePath = "trees/Allegheny Serviceberry/image_1.jpg";
+        AssetManager assetManager = getAssets();
+        String treeName = getIntent().getStringExtra("treeName");
 
-            // Load image from assets
-            InputStream inputStream = getAssets().open(imagePath);
-            Bitmap bitmap = BitmapFactory.decodeStream(inputStream);
+        // Loop through each ImageView and set the corresponding image
+        for (int i = 0; i < imageViews.length; i++) {
+            // Construct path to the image
+            String imagePath = "trees/" + treeName + "/image_" + (i + 1) + ".jpg";
 
-            // Loop through each ImageView and set the same image
-            for (ImageView imageView : imageViews) {
-                imageView.setImageBitmap(bitmap);
+            // Try to open the image file
+            try (InputStream inputStream = assetManager.open(imagePath)) {
+                Bitmap bitmap = BitmapFactory.decodeStream(inputStream);
+
+                // Set bitmap to ImageView
+                imageViews[i].setImageBitmap(bitmap);
+            } catch (IOException e) {
+                // If image file doesn't exist, set the corresponding ImageView to invisible
+                imageViews[i].setVisibility(View.INVISIBLE);
             }
-
-            // Close the input stream after use
-            inputStream.close();
-        } catch (IOException e) {
-            e.printStackTrace();
         }
     }
 
     private void displayTreeName() {
-        // Get the tree name passed from GalleryActivity
+        // Get tree name passed from GalleryActivity
         String treeName = getIntent().getStringExtra("treeName");
 
-        // Set the tree name to the TextView
+        // Set tree name to the TextView
         treeNameTextView.setText(treeName);
     }
 }
