@@ -186,20 +186,31 @@ public class TreeGuessingGame extends AppCompatActivity {
     }
 
 
-    private List<String> shuffledFolder(){
-        String[] imageFiles = new String[0];
+    private List<String> shuffledFolder() {
+        List<String> imageFileList = new ArrayList<>();
         try {
             AssetManager assetManager = getAssets();
-            imageFiles = assetManager.list("trees/" + correctTreeName);
+            String[] imageFiles = assetManager.list("trees/" + correctTreeName);
+            if (imageFiles != null && imageFiles.length > 0) {
+                imageFileList = Arrays.asList(imageFiles);
+                Collections.shuffle(imageFileList);
+                // Ensure that the list contains at least two images
+                if (imageFileList.size() < 2) {
+                    // If there are not enough images, reroll the correct tree and get new images
+                    newCorrectTree();
+                    imageFileList = shuffledFolder();
+                }
+            } else {
+                // If the folder is empty, reroll the correct tree and get new images
+                newCorrectTree();
+                imageFileList = shuffledFolder();
+            }
         } catch (IOException e) {
             Log.e("MainActivity, startGame(),", "An error occurred", e);
         }
-        assert imageFiles != null;
-        List<String> imageFileList = Arrays.asList(imageFiles);
-        Collections.shuffle(imageFileList);
-
-        return imageFileList.subList(0, 2);
+        return imageFileList.subList(0, Math.min(2, imageFileList.size()));
     }
+
 
 
     private void saveCorrectImagePaths(){
