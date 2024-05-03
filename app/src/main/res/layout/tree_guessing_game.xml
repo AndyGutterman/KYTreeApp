@@ -15,7 +15,7 @@
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="750dp"
         />
 
     <TextView
@@ -40,7 +40,7 @@
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="750dp"
     />
 
     <TextView
@@ -79,17 +79,17 @@
 
         <ImageView
             android:id="@+id/treeImageView1"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_width="420dp"
+            android:layout_height="325dp"
             android:scaleType="fitCenter"
             android:contentDescription="@string/image_description" />
 
         <ImageView
             android:id="@+id/treeImageView2"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_width="420dp"
+            android:layout_height="325dp"
             android:scaleType="fitCenter"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="8dp"
             android:contentDescription="@string/image_description" />
 
         <LinearLayout
@@ -97,46 +97,46 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="vertical"
-            android:paddingBottom="16dp">
+            android:paddingBottom="4dp">
 
             <TextView
                 android:id="@+id/feedbackTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:layout_marginBottom="18dp"
+                android:layout_marginBottom="15dp"
                 android:gravity="center"
                 android:text=""
                 android:textColor="#FF0000"
                 android:textSize="24sp" />
 
-            <!-- Buttons -->
             <Button
                 android:id="@+id/button1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="8dp"
+                android:layout_margin="7dp"
                 android:onClick="onTreeButtonClick"
                 android:text=""
-                android:textSize="22sp" />
+                android:textSize="20sp" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="8dp"
+                android:layout_margin="7dp"
                 android:onClick="onTreeButtonClick"
                 android:text=""
-                android:textSize="22sp" />
+                android:textSize="20sp" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="8dp"
+                android:layout_margin="7dp"
                 android:onClick="onTreeButtonClick"
                 android:text=""
-                android:textSize="22sp" />
+                android:textSize="20sp" />
+
         </LinearLayout>
     </LinearLayout>
 
