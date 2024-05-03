@@ -64,6 +64,7 @@ public class TreeGuessingGame extends AppCompatActivity {
         window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.coffee)));
 
 
+
         highScoreLabelTextView = findViewById(R.id.highScoreLabelTextView);
         highScoreTextView = findViewById(R.id.highScoreTextView);
 
@@ -72,10 +73,19 @@ public class TreeGuessingGame extends AppCompatActivity {
 
         treeImageView1 = findViewById(R.id.treeImageView1);
         treeImageView2 = findViewById(R.id.treeImageView2);
+
+        feedbackTextView = findViewById(R.id.feedbackTextView);
+
         button1 = findViewById(R.id.button1);
         button2 = findViewById(R.id.button2);
         button3 = findViewById(R.id.button3);
-        feedbackTextView = findViewById(R.id.feedbackTextView);
+
+        ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
+        backButtonImageView.setOnClickListener(v -> {
+            Intent intent = new Intent(TreeGuessingGame.this, MainActivity.class);
+            startActivity(intent);
+            finish();
+        });
 
         random = new Random();
 
@@ -85,55 +95,28 @@ public class TreeGuessingGame extends AppCompatActivity {
         } catch (IOException e) {
             Log.e("MainActivity, onCreate(),", "An error occurred", e);
         }
-        setupBackToMainMenuButton();
+
         loadStats();
         startGame();
     }
 
-    private void setupBackToMainMenuButton() {
-        ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
-        backButtonImageView.setOnClickListener(v -> {
-            Intent intent = new Intent(TreeGuessingGame.this, MainActivity.class);
-            startActivity(intent);
-            finish();
-        });
-    }
 
 
     private void loadStats(){
-        updateStreakText();
-        updateHighScoreText();
-    }
-
-
-    private void updateStreakText(){
-        currentStreak = getStreak();
-        streakTextView.setText(String.valueOf(currentStreak));
-    }
-
-
-    private int getStreak() {
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
-        return sharedPreferences.getInt("currentStreak", 0);
-    }
+        int highScore = sharedPreferences.getInt("highScore", 0);
 
-
-    private void updateHighScoreText() {
-        int highScore = getHighScore();
+        currentStreak = sharedPreferences.getInt("currentStreak", 0);
+        streakTextView.setText(String.valueOf(currentStreak));
         highScoreTextView.setText(String.valueOf(highScore));
         highScoreLabelTextView.setText(" HIGH\nSCORE");
         streakLabelTextView.setText("    THIS\n STREAK");
     }
 
 
-    private int getHighScore() {
-        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
-        return sharedPreferences.getInt("highScore", 0); // 0 is the default value if high score is not found
-    }
 
 
     private void startGame() {
-        isGameWon = false;
         feedbackTextView.setText("");
         resetButtonColors();
 
@@ -247,6 +230,8 @@ public class TreeGuessingGame extends AppCompatActivity {
 
 
     public void onTreeButtonClick(View view) {
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+
         Button clickedButton = (Button) view;
         String selectedTreeName = clickedButton.getText().toString();
 
@@ -261,9 +246,9 @@ public class TreeGuessingGame extends AppCompatActivity {
             streakTextView.setText(String.valueOf(currentStreak));
             saveStreak(currentStreak);
 
-            if (currentStreak > getHighScore()) {
+            if (currentStreak > sharedPreferences.getInt("highScore", 0)) {
                 saveHighScore(currentStreak);
-                updateHighScoreText();
+                loadStats();
             }
             correctFeedback(selectedTreeName, clickedButton);
             isGameWon = true;

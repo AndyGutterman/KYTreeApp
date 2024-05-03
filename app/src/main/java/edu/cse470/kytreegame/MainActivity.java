@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button startGameButton = findViewById(R.id.start_game_button);
-        Button treeGalleryButton = findViewById(R.id.tree_gallery_button);
         startGameButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -32,16 +31,22 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        treeGalleryButton.setOnClickListener(new View.OnClickListener() {
+        Button galleryButton = findViewById(R.id.tree_gallery_button);
+        galleryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               //
+                openGalleryActivity();
             }
         });
 
-        // Add onClickListeners for other buttons as needed
+
+
     }
 
+    private void openGalleryActivity() {
+        Intent intent = new Intent(this, GalleryActivity.class);
+        startActivity(intent);
+    }
     private void startGame() {
         // Start the game activity or perform other actions
         Intent intent = new Intent(this, TreeGuessingGame.class);
