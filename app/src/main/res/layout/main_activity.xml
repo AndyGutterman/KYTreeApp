@@ -23,8 +23,9 @@
         android:layout_height="wrap_content"
         android:text="@string/native_tree_game_and_gallery"
         android:textColor="@android:color/white"
-        android:textSize="28sp"
+        android:textSize="36sp"
         android:layout_below="@id/logo_image"
+        android:layout_marginTop="16dp"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -33,10 +34,10 @@
         android:layout_height="wrap_content"
         android:text="@string/start_game"
         android:textColor="@color/white"
-        android:textSize="28sp"
+        android:textSize="32sp"
         android:layout_below="@id/native_trees_textview"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="64dp"
         android:backgroundTint="@color/goldenrod_gold" />
 
 
@@ -47,7 +48,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tree_gallery"
         android:textColor="@color/white"
-        android:textSize="28sp"
+        android:textSize="32sp"
         android:layout_below="@id/start_game_button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp"

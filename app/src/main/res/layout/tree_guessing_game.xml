@@ -84,6 +84,7 @@
             android:scaleType="fitCenter"
             android:contentDescription="@string/image_description" />
 
+
         <ImageView
             android:id="@+id/treeImageView2"
             android:layout_width="420dp"
