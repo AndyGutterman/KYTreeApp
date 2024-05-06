@@ -5,9 +5,7 @@ import android.content.res.AssetManager;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
 import android.view.Window;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -29,7 +27,7 @@ public class GalleryActivity extends AppCompatActivity {
         List<String> treeNames = getTreeNames();
 
         ListView listView = findViewById(R.id.listView);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.list_item_layout, treeNames);
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.list_item_layout, treeNames);
         listView.setAdapter(adapter);
 
         Window window = getWindow();
@@ -37,15 +35,12 @@ public class GalleryActivity extends AppCompatActivity {
         window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.coffee)));
 
         // Set click listener for list items
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                // Handle item click, navigate to GalleryDetailsActivity
-                String treeName = treeNames.get(position);
-                Intent intent = new Intent(GalleryActivity.this, GalleryDetailsActivity.class);
-                intent.putExtra("treeName", treeName); // Pass tree name to details activity
-                startActivity(intent);
-            }
+        listView.setOnItemClickListener((parent, view, position, id) -> {
+            // Handle item click, navigate to GalleryDetailsActivity
+            String treeName = treeNames.get(position);
+            Intent intent = new Intent(GalleryActivity.this, GalleryDetailsActivity.class);
+            intent.putExtra("treeName", treeName); // Pass tree name to details activity
+            startActivity(intent);
         });
     }
 
