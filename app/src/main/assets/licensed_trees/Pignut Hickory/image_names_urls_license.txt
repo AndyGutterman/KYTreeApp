@@ -1,0 +1,57 @@
+Image Name: Carya glabra (Pignut Hickory) (35052583791).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/cf/Carya_glabra_%28Pignut_Hickory%29_%2835052583791%29.jpg
+Date/Time: 2019-12-16T03:26:06Z
+User: Ser Amantio di Nicolao
+Comment: Transferred from Flickr via #flickr2commons
+Dimensions: 1800 x 1200
+File Size: 699689 bytes
+License: CC BY-SA 2.0
+
+Image Name: Carya glabra AA.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/ae/Carya_glabra_AA.jpg
+Date/Time: 2020-05-19T21:04:41Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 5070 x 3648
+File Size: 7678401 bytes
+License: CC BY-SA 4.0
+
+Image Name: Carya glabra NRCS-1.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e0/Carya_glabra_NRCS-1.jpg
+Date/Time: 2011-09-08T00:53:20Z
+User: File Upload Bot (Magnus Manske)
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+{{Information
+|Description={{en|Robert H. Mohlenbrock @ USDA-NRCS PLANTS Database / USDA SCS. 1991. Southern wetland flora: Field offic
+Dimensions: 600 x 900
+File Size: 103042 bytes
+License: Public domain
+
+Image Name: Carya glabra bud.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/Carya_glabra_bud.jpg
+Date/Time: 2020-05-19T21:04:41Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 1637 x 1809
+File Size: 639088 bytes
+License: CC BY-SA 4.0
+
+Image Name: Carya glabra bud break.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/3/3a/Carya_glabra_bud_break.jpg
+Date/Time: 2020-05-21T18:12:47Z
+User: Akgarb
+Comment: Uploaded a work by Kristel Schoonderwoerd from https://www.flickr.com/photos/43398391@N07/49918952652/ with UploadWizard
+Dimensions: 4871 x 4000
+File Size: 4133690 bytes
+License: CC BY-SA 2.0
+
+Image Name: Carya glabra immature fruit.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b6/Carya_glabra_immature_fruit.jpg
+Date/Time: 2020-05-19T21:04:43Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 1867 x 2540
+File Size: 1439198 bytes
+License: CC BY-SA 4.0
+

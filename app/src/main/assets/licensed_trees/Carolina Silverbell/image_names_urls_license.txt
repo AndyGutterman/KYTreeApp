@@ -1,0 +1,33 @@
+Image Name: HalesiaTetraptera.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/bb/HalesiaTetraptera.jpg
+Date/Time: 2012-01-29T17:54:33Z
+User: BotMultichillT
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A photograph of the flowers of Halesia tetraptera.}}
+|date=April 10, 2010
+|sou
+Dimensions: 4000 x 3000
+File Size: 4162871 bytes
+License: Public domain
+
+Image Name: Halesia tetraptera.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/8/8c/Halesia_tetraptera.jpg
+Date/Time: 2009-05-12T20:06:39Z
+User: Chrumps
+Comment: Encoding Error
+Dimensions: 2385 x 2048
+File Size: 2335957 bytes
+License: CC BY-SA 4.0
+
+Image Name: Halesia tetraptera3.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b8/Halesia_tetraptera3.jpg
+Date/Time: 2005-05-02T06:03:55Z
+User: Raul654
+Comment: Pictures from [[w:en:Longwood Gardens|Longwood Gardens]] taken by [[user:Raul654|Raul654]] On May 1, 2005. {{GFDL}}
+Dimensions: 1512 x 2016
+File Size: 814857 bytes
+License: CC BY-SA 3.0
+

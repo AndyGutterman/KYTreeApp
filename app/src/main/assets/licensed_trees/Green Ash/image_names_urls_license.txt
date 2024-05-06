@@ -1,0 +1,30 @@
+Image Name: Fraxinus pennsylvanica.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/ad/Fraxinus_pennsylvanica.jpg
+Date/Time: 2007-11-13T17:14:33Z
+User: MPF
+Comment: Hi-res, same source
+
+Dimensions: 1098 x 1650
+File Size: 545213 bytes
+License: Public domain
+
+Image Name: Fraxinus pensylvanica a1.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a2/Fraxinus_pensylvanica_a1.jpg
+Date/Time: 2007-03-17T01:11:29Z
+User: Selso
+Comment: Encoding Error
+Dimensions: 1600 x 1200
+File Size: 290950 bytes
+License: CC BY-SA 3.0
+
+Image Name: Green Ash Fraxinus pennsylvanica Bark 2000px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Green_Ash_Fraxinus_pennsylvanica_Bark_2000px.jpg
+Date/Time: 2007-08-17T01:03:33Z
+User: Ram-Man
+Comment: {{Location_dec|39.934536|-75.440809}}
+{{Information
+|Description=Photograph of the bark of the {{MultiLink|Green Ash}} ({{BioLinkSpecies|Fraxinus pennsylvanica}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where its species was identifie
+Dimensions: 2000 x 3008
+File Size: 3734764 bytes
+License: GFDL 1.2
+

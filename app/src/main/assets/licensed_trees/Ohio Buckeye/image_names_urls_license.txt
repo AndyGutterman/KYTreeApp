@@ -1,0 +1,59 @@
+Image Name: AesculusGlabraBark.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c5/AesculusGlabraBark.jpg
+Date/Time: 2012-01-29T17:57:34Z
+User: BotMultichillT
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A picture of the trunk of Aesculus glabra.}}
+|date=July 25, 2009
+|source=I ([[
+Dimensions: 2816 x 2112
+File Size: 4427694 bytes
+License: Public domain
+
+Image Name: Aesculus glabra.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5f/Aesculus_glabra.jpg
+Date/Time: 2021-04-30T06:51:06Z
+User: Masebrock
+Comment: {{Information
+|Description={{en| ''[[:en:Aesculus glabra|Aesculus glabra]]'' base of limestone slope forest at Aiken Mountain, [[:en:Morgan County, Alabama|Morgan County, Alabama]].}}
+|Source={{own}}
+|Date=2021-04-23
+|Author=Mason Brock ([[:en:User:Masebrock|Masebrock]])
+|Permission=No copyright
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Masebrock}}
+
+[[Category:Aesculus glabra]]
+Dimensions: 2448 x 2586
+File Size: 1853241 bytes
+License: Public domain
+
+Image Name: Aesculus glabra USDA.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/1/12/Aesculus_glabra_USDA.jpg
+Date/Time: 2006-05-10T23:39:32Z
+User: MPF
+Comment: ''[[Aesculus glabra]]'' - USDA photo
+
+Dimensions: 1512 x 1016
+File Size: 866763 bytes
+License: Public domain
+
+Image Name: Aesculus glabra var. glabra.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/53/Aesculus_glabra_var._glabra.jpg
+Date/Time: 2005-06-29T10:13:00Z
+User: Isfisk
+Comment: A photo of the tree [[Aesculus glabra]] taken by me in [[Århus]], [[Denmark]].
+
+{{GFDL}}
+Dimensions: 767 x 1024
+File Size: 490090 bytes
+License: CC BY-SA 3.0
+
+
+

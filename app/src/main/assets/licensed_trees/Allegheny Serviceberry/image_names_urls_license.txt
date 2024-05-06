@@ -1,0 +1,32 @@
+Image Name: Allegheny Serviceberry (41909182552).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/f/fb/Allegheny_Serviceberry_%2841909182552%29.jpg
+Date/Time: 2019-10-28T02:40:36Z
+User: Ser Amantio di Nicolao
+Comment: Transferred from Flickr via #flickr2commons
+Dimensions: 4032 x 2268
+File Size: 2201303 bytes
+License: CC0
+
+Image Name: Amelanchier laevis.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/d/d0/Amelanchier_laevis.jpg
+Date/Time: 2012-11-14T02:02:36Z
+User: Tim1357
+Comment: {{Information
+|Description= Amelanchier laevis bark and leaf
+|Source=http://plants.usda.gov/java/largeImage?imageID=amarc_001_avp.tif
+|Date=1991
+|Author=Robert H. Mohlenbrock
+|Permission= Robert H. Mohlenbrock @ USDA-NRCS PLANTS Database / USDA SCS. 19...
+Dimensions: 1071 x 1635
+File Size: 411978 bytes
+License: Public domain
+
+Image Name: Amelanchier laevis 5393665.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5a/Amelanchier_laevis_5393665.jpg
+Date/Time: 2013-04-13T03:39:03Z
+User: Nonenmac
+Comment: User created page with UploadWizard
+Dimensions: 2522 x 1892
+File Size: 2181597 bytes
+License: CC BY 3.0
+

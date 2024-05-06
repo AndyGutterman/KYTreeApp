@@ -1,0 +1,50 @@
+Image Name: Andricus dimorphus galls on Bur Oak leaf.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Andricus_dimorphus_galls_on_Bur_Oak_leaf.jpg
+Date/Time: 2020-11-18T19:06:25Z
+User: Friesen5000
+Comment: Uploaded using [[COM:MOA|Commons Mobile App]]
+Dimensions: 3024 x 4032
+File Size: 1609258 bytes
+License: CC BY-SA 4.0
+
+Image Name: Big Tree with spring picnic.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Tree_with_spring_picnic.jpg
+Date/Time: 2020-11-26T04:51:56Z
+User: Grey Wanderer
+Comment: Uploaded a work by Heath Cajandig from https://flickr/p/GPPsKb with UploadWizard
+Dimensions: 5607 x 3964
+File Size: 13973809 bytes
+License: CC BY 2.0
+
+Image Name: Bur-oak-savanna.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/4/4c/Bur-oak-savanna.jpg
+Date/Time: 2011-12-31T21:19:02Z
+User: Steepcone
+Comment: 
+Dimensions: 640 x 480
+File Size: 123599 bytes
+License: CC BY-SA 3.0
+
+Image Name: Bur Oak Winter Form.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/0/04/Bur_Oak_Winter_Form.jpg
+Date/Time: 2012-08-20T13:48:33Z
+User: Bulwersator
+Comment: file moved from enwiki - the same author/licence/filename/description etc 
+Dimensions: 1539 x 2023
+File Size: 1365028 bytes
+License: Public domain
+
+Image Name: QuercusMacrocarpa.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/21/QuercusMacrocarpa.jpg
+Date/Time: 2012-01-29T19:59:53Z
+User: BotMultichillT
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A picture of the bark of Quercus macrocarpa var. oliviformis.}}
+|date=June 6, 
+Dimensions: 2816 x 2112
+File Size: 4468118 bytes
+License: Public domain
+

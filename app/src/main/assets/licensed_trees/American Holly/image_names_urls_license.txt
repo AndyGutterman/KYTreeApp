@@ -1,0 +1,32 @@
+Image Name: American Holly Ilex opaca Branch 3008px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/American_Holly_Ilex_opaca_Branch_3008px.jpg
+Date/Time: 2007-11-24T23:59:24Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Something}} ({{BioLinkSpecies|Some species}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = Nikon D50
+| lens = Sigma
+| focallengt
+Dimensions: 3008 x 2000
+File Size: 2439346 bytes
+License: GFDL 1.2
+
+Image Name: Ilex opaca USDA.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c1/Ilex_opaca_USDA.jpg
+Date/Time: 2007-09-28T10:10:09Z
+User: MPF
+Comment: ''[[Ilex opaca]]'' - USDA photo
+
+Dimensions: 1650 x 1120
+File Size: 425160 bytes
+License: Public domain
+
+Image Name: Ilex opaca winter.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/6b/Ilex_opaca_winter.jpg
+Date/Time: 2017-12-16T03:40:04Z
+User: Medeis
+Comment: User created page with UploadWizard
+Dimensions: 3072 x 2304
+File Size: 1083014 bytes
+License: CC BY-SA 4.0
+

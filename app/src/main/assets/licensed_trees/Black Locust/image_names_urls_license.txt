@@ -1,0 +1,56 @@
+Image Name: 20130528Robinia pseudoacacia Hockenheim4.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/d/d3/20130528Robinia_pseudoacacia_Hockenheim4.jpg
+Date/Time: 2013-05-29T19:11:28Z
+User: AnRo0002
+Comment: == {{int:filedesc}} ==
+{{Information
+|Description={{de|Blühende Robinie (''Robinia pseudoacacia'') in Hockenheim}}
+|Source={{own}}
+|Author=[[User:AnRo0002|AnRo0002]]
+|Date=2013-05-28
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{sel...
+Dimensions: 1500 x 2000
+File Size: 1245924 bytes
+License: CC0
+
+Image Name: Black Locust Leaf Close Up.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/8/86/Black_Locust_Leaf_Close_Up.jpg
+Date/Time: 2015-10-06T00:07:21Z
+User: HoHey22
+Comment: User created page with UploadWizard
+Dimensions: 1872 x 3328
+File Size: 1695817 bytes
+License: CC BY-SA 4.0
+
+Image Name: Robinia pseudacacia02.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/9e/Robinia_pseudacacia02.jpg
+Date/Time: 2010-11-17T16:00:11Z
+User: Androstachys
+Comment: {{Information
+|Description={{en|1=Bark of Robinia pseudacacia - cultivated tree from Johannesburg, South Africa}}
+|Source={{own}}
+|Author=[[User:Androstachys|Androstachys]]
+|Date=4 February 2005
+|Permission=Public domain
+|other_versions=
+}}
+
+[[Category:Ro
+Dimensions: 2048 x 3072
+File Size: 1078582 bytes
+License: Public domain
+
+Image Name: Robinia pseudoacacia 'Frisia'.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/Robinia_pseudoacacia_%27Frisia%27.jpg
+Date/Time: 2011-10-08T16:19:30Z
+User: Colin
+Comment: 
+Dimensions: 2352 x 4592
+File Size: 4641314 bytes
+License: CC BY-SA 3.0
+

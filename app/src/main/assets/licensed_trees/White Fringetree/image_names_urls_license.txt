@@ -1,0 +1,61 @@
+Image Name: ChionanthusVirginicus.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/8/86/ChionanthusVirginicus.jpg
+Date/Time: 2012-01-29T20:32:51Z
+User: BotMultichillT
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A picture of Chionanthus virginicus.}}
+|date=June 6, 2009
+|source=I created th
+Dimensions: 2816 x 2112
+File Size: 4097319 bytes
+License: Public domain
+
+Image Name: Chionanthus virginicus - New York Botanical Garden - 2.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/f/fe/Chionanthus_virginicus_-_New_York_Botanical_Garden_-_2.jpg
+Date/Time: 2014-06-12T06:04:32Z
+User: Declangi
+Comment: User created page with UploadWizard
+Dimensions: 3264 x 2448
+File Size: 6962039 bytes
+License: CC BY 2.0
+
+Image Name: Chionanthus virginicus - Norfolk Botanical Garden.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/0/09/Chionanthus_virginicus_-_Norfolk_Botanical_Garden.jpg
+Date/Time: 2014-06-12T05:34:32Z
+User: Declangi
+Comment: User created page with UploadWizard
+Dimensions: 2048 x 1360
+File Size: 1569676 bytes
+License: CC BY-SA 2.0
+
+Image Name: Chionanthus virginicus Arkansas.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/ad/Chionanthus_virginicus_Arkansas.jpg
+Date/Time: 2020-05-17T14:09:59Z
+User: Eric in SF
+Comment: Uploaded own work with UploadWizard
+Dimensions: 5839 x 3285
+File Size: 27126855 bytes
+License: CC BY-SA 4.0
+
+Image Name: Chionanthus virginicus USDA.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/0/08/Chionanthus_virginicus_USDA.jpg
+Date/Time: 2006-08-28T10:25:44Z
+User: MPF
+Comment: ''[[Chionanthus virginicus]]'' - USDA photo
+
+Dimensions: 1650 x 1146
+File Size: 476710 bytes
+License: Public domain
+
+Image Name: Chionanthus virginicus USDA0.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a6/Chionanthus_virginicus_USDA0.jpg
+Date/Time: 2023-06-15T16:48:03Z
+User: MPF
+Comment: light levels, colour balance
+Dimensions: 729 x 475
+File Size: 821368 bytes
+License: Public domain
+

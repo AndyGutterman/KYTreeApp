@@ -1,0 +1,51 @@
+Image Name: A large northern red oak tree in Glen Abbey, Oakville, Ontario.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/51/A_large_northern_red_oak_tree_in_Glen_Abbey%2C_Oakville%2C_Ontario.jpg
+Date/Time: 2022-01-16T22:04:15Z
+User: Bay & Gables
+Comment: Image made brighter to better see the subject.
+Dimensions: 3000 x 4000
+File Size: 4547054 bytes
+License: CC BY-SA 4.0
+
+Image Name: Jakey Hollow Natural Area (Revisit) (27) (17008356190).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c9/Jakey_Hollow_Natural_Area_%28Revisit%29_%2827%29_%2817008356190%29.jpg
+Date/Time: 2017-08-10T20:43:29Z
+User: XXN
+Comment: Transferred from Flickr via [[Commons:Flickr2Commons|Flickr2Commons]]
+Dimensions: 3456 x 5184
+File Size: 25258372 bytes
+License: CC BY 2.0
+
+Image Name: Quercus rubra @ Tortworth Court.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/d/db/Quercus_rubra_%40_Tortworth_Court.jpg
+Date/Time: 2005-11-02T11:27:05Z
+User: Velela
+Comment: Specimen Red Oak at Tortorth Arboretum - 1st November 2005
+Dimensions: 1748 x 2048
+File Size: 3537283 bytes
+License: Public domain
+
+Image Name: Quercus rubra IP0905004.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b3/Quercus_rubra_IP0905004.jpg
+Date/Time: 2012-01-19T16:17:20Z
+User: Leo Michels
+Comment: {{Information
+|Description    ={{en|1=northern red oak}}
+{{de|1=Rot-Eiche}}
+{{la|1=Quercus rubra}}
+|Source         ={{own}}, [http://www.imagines-plantarum.de www.imagines-plantarum.de]
+|Author         =[[User:Leo Michels|Leo Michels]]
+|Date           =20
+Dimensions: 2547 x 2181
+File Size: 1807405 bytes
+License: CC0
+
+Image Name: Quercus rubra with arborist.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/23/Quercus_rubra_with_arborist.jpg
+Date/Time: 2017-11-27T13:21:47Z
+User: Kshera502
+Comment: User created page with UploadWizard
+Dimensions: 3264 x 1836
+File Size: 2511439 bytes
+License: CC BY-SA 4.0
+

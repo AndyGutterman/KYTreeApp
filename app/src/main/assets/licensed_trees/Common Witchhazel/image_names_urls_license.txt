@@ -1,0 +1,70 @@
+Image Name: Common Witch Hazel Hamamelis virginiana Leaf 2000px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/ca/Common_Witch_Hazel_Hamamelis_virginiana_Leaf_2000px.jpg
+Date/Time: 2007-05-09T03:41:08Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of a leaf of the {{MultiLink|Common Witch Hazel}} ({{BioLinkSpecies|Hamamelis virginiana}}).  Photo taken at the [[:en:Mt. Cuba Center|Mt. Cuba Center]] where it was identified.{{Ram-Man Camera 1
+| camera = Nikon D50
+
+Dimensions: 2000 x 2800
+File Size: 2651640 bytes
+License: CC BY-SA 2.5
+
+Image Name: Hamamelis virginiana.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/4/46/Hamamelis_virginiana.jpg
+Date/Time: 2018-07-12T05:40:06Z
+User: Masebrock
+Comment: {{Information
+|Description={{en|''[[:en:Hamamelis virginiana|Hamamelis virginiana]]'', growing on limestone boulders in front of Wind Cave, [[:en:Jackson County, Kentucky|Jackson County, Kentucky]].}}
+|Source={{own}}
+|Date=created 17 March 2018
+|Author=Mason Brock ([[:en:User:Masebrock|Masebrock]])
+|Permission=No copyright
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Masebrock}}
+
+[[Category:Hamamelis]]
+[[Category:Flora of Kentucky]]
+Dimensions: 2792 x 1872
+File Size: 1197671 bytes
+License: Public domain
+
+Image Name: Hamamelis virginiana Vermont USA 2013-08-27.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/bb/Hamamelis_virginiana_Vermont_USA_2013-08-27.jpg
+Date/Time: 2023-12-04T00:18:57Z
+User: Trscavo
+Comment: Uploaded a work by Susan Elliott (@susanelliott) from https://www.inaturalist.org/photos/475405 with UploadWizard
+Dimensions: 2048 x 1542
+File Size: 593498 bytes
+License: CC BY 4.0
+
+Image Name: Hamamelis virginiana Vermont USA 2016-05-08.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/af/Hamamelis_virginiana_Vermont_USA_2016-05-08.jpg
+Date/Time: 2023-12-04T00:18:57Z
+User: Trscavo
+Comment: Uploaded a work by Susan Elliott (@susanelliott) from https://www.inaturalist.org/photos/3620501 with UploadWizard
+Dimensions: 2048 x 1532
+File Size: 496396 bytes
+License: CC BY 4.0
+
+Image Name: Hamamelis virginiana Vermont USA 2021-07-12.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/94/Hamamelis_virginiana_Vermont_USA_2021-07-12.jpg
+Date/Time: 2023-12-04T01:16:11Z
+User: Trscavo
+Comment: Uploaded a work by Joshua Lincoln (@joshualincoln) from https://www.inaturalist.org/photos/171252376 with UploadWizard
+Dimensions: 2048 x 1545
+File Size: 2344784 bytes
+License: CC BY 4.0
+
+Image Name: Hamamelis virginiana Vermont USA 2021 Jan.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c3/Hamamelis_virginiana_Vermont_USA_2021_Jan.jpg
+Date/Time: 2023-12-03T13:19:11Z
+User: Trscavo
+Comment: Uploaded a work by @brownwaspmantidfly from https://www.inaturalist.org/photos/109781752 with UploadWizard
+Dimensions: 1440 x 1080
+File Size: 205185 bytes
+License: CC BY 4.0
+

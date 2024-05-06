@@ -1,0 +1,70 @@
+Image Name: 2013-05-10 10 32 15 Virginia Pine new growth and pollen cones along the Mount Misery Trail in Brendan T. Byrne State Forest, New Jersey.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b2/2013-05-10_10_32_15_Virginia_Pine_new_growth_and_pollen_cones_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg
+Date/Time: 2013-06-04T01:16:46Z
+User: Famartin
+Comment: User created page with UploadWizard
+Dimensions: 3264 x 2448
+File Size: 2571739 bytes
+License: CC BY-SA 3.0
+
+Image Name: 2013-05-10 11 01 36 Virginia Pine along the Mount Misery Trail in Brendan T. Byrne State Forest, New Jersey.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/3/30/2013-05-10_11_01_36_Virginia_Pine_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg
+Date/Time: 2013-06-01T13:46:34Z
+User: Famartin
+Comment: User created page with UploadWizard
+Dimensions: 1512 x 3120
+File Size: 4065878 bytes
+License: CC BY-SA 3.0
+
+Image Name: Pinus virginiana Scrub Pine Branch 3200px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/9f/Pinus_virginiana_Scrub_Pine_Branch_3200px.jpg
+Date/Time: 2007-03-11T02:45:19Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Scrub Pine}} ({{BioLinkSpecies|Pinus virginiana}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = 8700
+| focallength = 19.9
+| aper
+Dimensions: 3200 x 2400
+File Size: 3410275 bytes
+License: CC BY-SA 2.5
+
+Image Name: Scrub Pine Pinus virginiana 3264px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5f/Scrub_Pine_Pinus_virginiana_3264px.jpg
+Date/Time: 2007-03-11T02:18:42Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Scrub Pine}} ({{BioLinkSpecies|Pinus virginiana}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = 8700
+| focallength = 56.7
+| aper
+Dimensions: 3264 x 2448
+File Size: 2916063 bytes
+License: CC BY-SA 2.5
+
+Image Name: Scrub Pine Pinus virginiana Cone Closeup 2000px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/97/Scrub_Pine_Pinus_virginiana_Cone_Closeup_2000px.jpg
+Date/Time: 2007-11-25T00:25:14Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Something}} ({{BioLinkSpecies|Some species}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = Nikon D50
+| lens = Sigma
+| focallengt
+Dimensions: 2000 x 2500
+File Size: 2559305 bytes
+License: GFDL 1.2
+
+Image Name: Scrub Pine Pinus virginiana Trunk Bark 2000px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e2/Scrub_Pine_Pinus_virginiana_Trunk_Bark_2000px.jpg
+Date/Time: 2007-11-24T22:34:54Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Something}} ({{BioLinkSpecies|Some species}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = Nikon D50
+| lens = Sigma
+| focallengt
+Dimensions: 2000 x 3008
+File Size: 2961172 bytes
+License: GFDL 1.2
+

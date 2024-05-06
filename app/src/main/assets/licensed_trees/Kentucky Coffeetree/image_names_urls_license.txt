@@ -1,0 +1,26 @@
+Image Name: Gymnocladus-dioicus.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/Gymnocladus-dioicus.jpg
+Date/Time: 2012-09-02T22:21:46Z
+User: MGA73bot2
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=''Gymnocladus dioicus'' fruits, self made image taken in mid August.}}
+|dat...
+Dimensions: 1716 x 2442
+File Size: 1315901 bytes
+License: Public domain
+
+Image Name: Kentucky Coffee-tree Gymnocladus dioicus 3264px.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/ce/Kentucky_Coffee-tree_Gymnocladus_dioicus_3264px.jpg
+Date/Time: 2007-03-11T02:14:15Z
+User: Ram-Man
+Comment: {{Information
+|Description=Photograph of the {{MultiLink|Kentucky Coffee-tree}} ({{BioLinkSpecies|Gymnocladus dioicus}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
+| camera = 8700
+| focallength 
+Dimensions: 3264 x 2448
+File Size: 3010717 bytes
+License: CC BY-SA 2.5
+

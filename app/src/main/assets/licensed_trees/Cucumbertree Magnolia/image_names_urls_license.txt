@@ -1,0 +1,58 @@
+Image Name: Cucumber magnolia.jpg
+URL: https://upload.wikimedia.org/wikipedia/en/4/4c/Cucumber_magnolia.jpg
+Date/Time: 2008-06-01T21:18:18Z
+User: MikeParker
+Comment: {{Information
+|Description=Closeup of a fruit of the [[Cucumber Magnolia]] ([[Magnolia acuminata]]) located in [[Bowman's Hill Wildflower Preserve]], [[Bucks County, Pennsylvania|Bucks County]], [[Pennsylvania]].  
+|Source=Photo taken by Michael Parker
+|D
+Dimensions: 374 x 500
+File Size: 91632 bytes
+License: CC-BY-3.0
+
+
+Image Name: Magnolia acuminata.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/ee/Magnolia_acuminata.jpg
+Date/Time: 2009-01-16T22:44:13Z
+User: Bruce Marlin
+Comment: {{Information
+|Description={{en|1=''Magnolia acuminata'', commonly called cucumbertree. Morton Arboretum acc. 1046-3*1. 72 years old at this photo.}}
+|Source=Own work: http://www.cirrusimage.com/tree_cucumbertree.htm
+|Author=[[User:Bruce Marlin|Bruce Marl
+Dimensions: 684 x 800
+File Size: 362619 bytes
+License: CC BY 3.0
+
+Image Name: Magnolia acuminata leaves.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Magnolia_acuminata_leaves.jpg
+Date/Time: 2020-04-13T20:05:42Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 2918 x 2523
+File Size: 2127424 bytes
+License: CC BY-SA 4.0
+
+Image Name: Magnolia acuminata leaves 01 by Line1.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/3/33/Magnolia_acuminata_leaves_01_by_Line1.jpg
+Date/Time: 2009-08-17T14:17:48Z
+User: Liné1
+Comment: {{Information
+|Description=''[[Magnolia acuminata]]'' in [[:Category:Botanical garden of Geneva|]]
+{{Coor|46_13_32_N_06_08_48_E|46° 13' 32" N 6° 8' 48" E}}
+|Source=Picture taken with my Panasonic TZ3
+|Date=04-08-2009(FR)
+|Author=[[User:Liné1|]]
+|Permis
+Dimensions: 3072 x 2304
+File Size: 3400932 bytes
+License: CC BY-SA 3.0
+
+Image Name: Magnolia acuminata mature fruit.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c3/Magnolia_acuminata_mature_fruit.jpg
+Date/Time: 2020-04-13T20:00:37Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 2403 x 2338
+File Size: 1490186 bytes
+License: CC BY-SA 4.0
+

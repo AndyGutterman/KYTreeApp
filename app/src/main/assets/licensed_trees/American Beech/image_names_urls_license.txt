@@ -1,0 +1,62 @@
+Image Name: American Beech.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e6/American_Beech.jpg
+Date/Time: 2006-09-21T19:28:15Z
+User: Kevinlyfellow
+Comment: A leaf of an American Beech and its opened seed.
+Dimensions: 798 x 834
+File Size: 72745 bytes
+License: Public domain
+
+Image Name: American Beech Bark with Lichen.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/6f/American_Beech_Bark_with_Lichen.jpg
+Date/Time: 2018-11-08T00:54:54Z
+User: Quercus2018
+Comment: Cross-wiki upload from en.wikipedia.org
+Dimensions: 3472 x 1952
+File Size: 1902681 bytes
+License: CC BY-SA 4.0
+
+Image Name: Beech with Branches.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/66/Beech_with_Branches.jpg
+Date/Time: 2008-05-17T01:50:16Z
+User: Marqqq
+Comment: {{Information
+|Description=  Beech in Autumn, Hueston Woods, Oxford, Ohio 
+|Source=self-made
+|Date=October 2007
+|Author= [[User:Marqqq|Marqqq]]
+|Permission=
+|other_versions=
+}}
+
+Dimensions: 2112 x 2816
+File Size: 2808311 bytes
+License: CC BY-SA 3.0
+
+Image Name: Fagus grandifolia, beltsville, md 2014-04-16-16.01.20 ZS PMax (13902703865).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/7/74/Fagus_grandifolia%2C_beltsville%2C_md_2014-04-16-16.01.20_ZS_PMax_%2813902703865%29.jpg
+Date/Time: 2014-05-30T17:16:11Z
+User: Tm
+Comment: Transferred from Flickr via Flickr2commons
+Dimensions: 5114 x 3744
+File Size: 6641519 bytes
+License: Public domain
+
+Image Name: Fagus grandifolia beech leaves close.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/4/45/Fagus_grandifolia_beech_leaves_close.jpg
+Date/Time: 2012-04-21T17:40:38Z
+User: Dcrjsr
+Comment: 
+Dimensions: 3100 x 2360
+File Size: 4534178 bytes
+License: CC BY 3.0
+
+Image Name: Fagus grandifolia in winter.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/22/Fagus_grandifolia_in_winter.jpg
+Date/Time: 2023-03-20T13:41:29Z
+User: Gorillo.Chimpo
+Comment: Uploaded own work with UploadWizard
+Dimensions: 6000 x 4000
+File Size: 6138734 bytes
+License: CC BY-SA 4.0
+

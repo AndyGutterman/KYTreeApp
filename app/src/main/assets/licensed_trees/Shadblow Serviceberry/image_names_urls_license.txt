@@ -1,0 +1,20 @@
+Image Name: Amelanchier canadensis berry.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/29/Amelanchier_canadensis_berry.jpg
+Date/Time: 2016-04-01T07:37:52Z
+User: Sesamehoneytart
+Comment: User created page with UploadWizard
+Dimensions: 1014 x 678
+File Size: 789663 bytes
+License: CC BY-SA 4.0
+
+Image Name: Amelanchier canadensis flower.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/28/Amelanchier_canadensis_flower.jpg
+Date/Time: 2005-04-14T15:46:59Z
+User: Rasbak
+Comment: Picture made by myself: Amelanchier canadensis; {{GFDL}}
+
+[[Amelanchier canadensis]]
+Dimensions: 585 x 469
+File Size: 60573 bytes
+License: CC BY-SA 3.0
+

@@ -1,0 +1,57 @@
+Image Name: Cercis canadensis 'Forest Pansy' JPG1Fe.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5a/Cercis_canadensis_%27Forest_Pansy%27_JPG1Fe.jpg
+Date/Time: 2008-12-18T10:55:46Z
+User: Jean-Pol GRANDMONT
+Comment: {{Information
+|Description={{fr|1=Feuilles du ''[[Cercis canadensis]]'' 'Forest Pansy' }}
+|Source=travail personnel (own work)
+|Author=[[User:Jean-Pol GRANDMONT|Jean-Pol GRANDMONT]]
+|Date=13.07.2008 (12:26)
+|Permission=
+|other_versions=
+}}
+<gallery>
+Cerci
+Dimensions: 1936 x 1288
+File Size: 1856274 bytes
+License: CC BY 3.0
+
+Image Name: Columbus Wisconsin Redbud Tree small.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/aa/Columbus_Wisconsin_Redbud_Tree_small.jpg
+Date/Time: 2016-08-26T23:34:09Z
+User: Downspec
+Comment: User created page with UploadWizard
+Dimensions: 600 x 337
+File Size: 167723 bytes
+License: CC BY-SA 4.0
+
+Image Name: Redbud.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Redbud.jpg
+Date/Time: 2010-05-05T01:33:35Z
+User: GreenZmiy
+Comment: {{Information
+|Description={{en|Eastern Redbud Blossoms}}
+|Source=Transferred from [http://en.wikipedia.org en.wikipedia]; transfer was stated to be made by [[User:Hoodedwarbler12]].<br/>
+(Original text : ''I ([[:en:User:Hoodedwarbler12|Hoodedwarbler12]] 
+Dimensions: 2848 x 2134
+File Size: 1462116 bytes
+License: CC BY 3.0
+
+Image Name: RedbudOhio02.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/RedbudOhio02.jpg
+Date/Time: 2012-01-29T23:11:19Z
+User: Greg5030
+Comment: 
+Dimensions: 1600 x 1200
+File Size: 1053057 bytes
+License: CC BY-SA 3.0
+
+Image Name: RedbudsOhio.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/64/RedbudsOhio.jpg
+Date/Time: 2012-01-29T23:08:58Z
+User: Greg5030
+Comment: 
+Dimensions: 1182 x 829
+File Size: 525979 bytes
+License: CC BY-SA 3.0
+

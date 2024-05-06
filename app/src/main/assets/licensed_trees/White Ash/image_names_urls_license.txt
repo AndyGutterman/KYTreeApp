@@ -1,0 +1,42 @@
+Image Name: 2015-10-21 10 57 30 White Ash foliage during autumn along Pennington Road (New Jersey Route 31) in Ewing, New Jersey.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/4/48/2015-10-21_10_57_30_White_Ash_foliage_during_autumn_along_Pennington_Road_%28New_Jersey_Route_31%29_in_Ewing%2C_New_Jersey.jpg
+Date/Time: 2015-12-01T06:42:19Z
+User: Famartin
+Comment: User created page with UploadWizard
+Dimensions: 3264 x 2448
+File Size: 3500042 bytes
+License: CC BY-SA 4.0
+
+Image Name: Fraxinus americana (Oleaceae).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5d/Fraxinus_americana_%28Oleaceae%29.jpg
+Date/Time: 2012-09-28T15:31:55Z
+User: MPF
+Comment: rm watermark
+Dimensions: 3960 x 3240
+File Size: 4401403 bytes
+License: CC BY-SA 3.0
+
+Image Name: Fraxinus americana 002.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/d/d9/Fraxinus_americana_002.jpg
+Date/Time: 2007-09-28T18:15:51Z
+User: Willow
+Comment: {{Information|
+|Description='''de:''' Weiﬂesche (Fraxinus americana) im Neuen Botanischer Garten Marburg, Hessen, Deutschland
+
+'''en:''' White Ash (Fraxinus americana) in the New Botanical Garden Marburg, Hesse, Germany
+|Source=own work
+|Date=22.09.2007
+
+Dimensions: 1944 x 2592
+File Size: 3492401 bytes
+License: CC BY 2.5
+
+Image Name: White Ash Leaves.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/90/White_Ash_Leaves.jpg
+Date/Time: 2018-11-08T17:12:16Z
+User: Quercus2018
+Comment: Cross-wiki upload from en.wikipedia.org
+Dimensions: 3472 x 1952
+File Size: 1187908 bytes
+License: CC BY-SA 4.0
+

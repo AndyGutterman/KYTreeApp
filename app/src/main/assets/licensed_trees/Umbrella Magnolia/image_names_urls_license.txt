@@ -1,0 +1,64 @@
+Image Name: Magnolia Tripetala fruit.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/5c/Magnolia_Tripetala_fruit.jpg
+Date/Time: 2012-09-02T22:19:36Z
+User: MGA73bot2
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Self made picture of ''Magnolia tripetala'' fruit, taken in mid August.}}
+|...
+Dimensions: 1187 x 2078
+File Size: 1068373 bytes
+License: Public domain
+
+Image Name: Magnolia Tripetala fruit1.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/5/51/Magnolia_Tripetala_fruit1.jpg
+Date/Time: 2012-09-02T20:52:40Z
+User: MGA73bot2
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Self made picture of ''Magnolia tripetala'', showing fruit and leaves.}}
+|d...
+Dimensions: 3888 x 2592
+File Size: 2380370 bytes
+License: Public domain
+
+Image Name: Magnolia tripetala 2.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/2/25/Magnolia_tripetala_2.jpg
+Date/Time: 2018-09-08T18:46:47Z
+User: Eric in SF
+Comment: User created page with UploadWizard
+Dimensions: 6000 x 4000
+File Size: 18914996 bytes
+License: CC BY-SA 4.0
+
+Image Name: Magnolia tripetala fruit.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/1/1f/Magnolia_tripetala_fruit.jpg
+Date/Time: 2020-04-15T18:17:07Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 1749 x 2759
+File Size: 1522888 bytes
+License: CC BY-SA 4.0
+
+Image Name: Magnolia tripetala fruit 2.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a6/Magnolia_tripetala_fruit_2.jpg
+Date/Time: 2020-04-15T18:22:46Z
+User: Akgarb
+Comment: Uploaded own work with UploadWizard
+Dimensions: 2518 x 1838
+File Size: 1171417 bytes
+License: CC BY-SA 4.0
+
+Image Name: Tree of Magnolia tripetala.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/0/06/Tree_of_Magnolia_tripetala.jpg
+Date/Time: 2011-11-27T15:19:55Z
+User: Dodshe
+Comment: 
+Dimensions: 1704 x 2272
+File Size: 821309 bytes
+License: CC BY-SA 3.0
+

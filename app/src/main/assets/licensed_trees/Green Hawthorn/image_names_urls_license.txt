@@ -1,0 +1,28 @@
+Image Name: Crataegus pedicellata.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/9/9c/Crataegus_pedicellata.jpg
+Date/Time: 2010-03-15T21:09:02Z
+User: VoDeTan2
+Comment: {{Information
+|Description={{de|1=Scharlach-Weiﬂdorn}}
+|Source={{own}}
+|Author=[[User:VoDeTan2|VoDeTan2]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+[[Category:Crataegus pedicellata]]
+[[Category:Rosaceae]]
+Dimensions: 1024 x 768
+File Size: 167894 bytes
+License: CC BY-SA 3.0
+
+Image Name: Crataegus viridis 'Winter King'.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/ad/Crataegus_viridis_%27Winter_King%27.jpg
+Date/Time: 2009-04-10T16:34:03Z
+User: Flickr upload bot
+Comment: Uploaded from http://flickr.com/photo/12017190@N06/3061581091 using [[User:Flickr upload bot|Flickr upload bot]]
+Dimensions: 2112 x 2816
+File Size: 2959964 bytes
+License: CC BY 2.0
+

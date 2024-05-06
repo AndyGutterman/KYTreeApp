@@ -1,0 +1,15 @@
+Image Name: BetulaLentaBark.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/6f/BetulaLentaBark.jpg
+Date/Time: 2012-01-29T18:18:12Z
+User: BotMultichillT
+Comment: 
+{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A picture of the bark of Betula lenta.}}
+|date=June 6, 2009
+|source=I created 
+Dimensions: 2816 x 2112
+File Size: 3506135 bytes
+License: Public domain
+

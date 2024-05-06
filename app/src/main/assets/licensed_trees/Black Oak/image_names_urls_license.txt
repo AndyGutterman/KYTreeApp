@@ -1,0 +1,51 @@
+Image Name: Bark black oak 8771.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a2/Bark_black_oak_8771.jpg
+Date/Time: 2017-07-01T17:38:03Z
+User: XXN
+Comment: Transferred from [[w:File:Bark black oak 8771.jpg|en.wikipedia]] ([[w:Wikipedia:MTC!|MTC!]])
+Dimensions: 1600 x 1067
+File Size: 838916 bytes
+License: CC BY-SA 3.0
+
+Image Name: Quercus velutina (23537664393).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/6/67/Quercus_velutina_%2823537664393%29.jpg
+Date/Time: 2017-06-21T17:08:12Z
+User: Ser Amantio di Nicolao
+Comment: Transferred from Flickr via [[Commons:Flickr2Commons|Flickr2Commons]]
+Dimensions: 3008 x 2000
+File Size: 955625 bytes
+License: CC BY 2.0
+
+Image Name: Quercus velutina (23837102639).jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/f/fe/Quercus_velutina_%2823837102639%29.jpg
+Date/Time: 2017-06-21T17:09:12Z
+User: Ser Amantio di Nicolao
+Comment: Transferred from Flickr via [[Commons:Flickr2Commons|Flickr2Commons]]
+Dimensions: 3008 x 2000
+File Size: 356987 bytes
+License: CC BY 2.0
+
+Image Name: Quercus velutina 001.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Quercus_velutina_001.jpg
+Date/Time: 2007-10-03T16:28:37Z
+User: Willow
+Comment: {{Information|
+|Description='''de:''' Färber-Eiche (Quercus velutina) im Neuen Botanischer Garten Marburg, Hessen, Deutschland
+
+'''en:''' Dyer's Oak (Quercus velutina) in the New Botanical Garden Marburg, Hesse, Germany
+|Source=own work
+|Date=24.09.2007
+
+Dimensions: 1944 x 2592
+File Size: 2198305 bytes
+License: CC BY 2.5
+
+Image Name: Quercus velutina leaves.jpg
+URL: https://upload.wikimedia.org/wikipedia/commons/3/30/Quercus_velutina_leaves.jpg
+Date/Time: 2014-06-26T00:17:05Z
+User: Rrburke
+Comment: Transferred from en.wikipedia
+Dimensions: 2304 x 3072
+File Size: 3372962 bytes
+License: Public domain
+
