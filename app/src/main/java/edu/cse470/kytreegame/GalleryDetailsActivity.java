@@ -26,7 +26,7 @@ public class GalleryDetailsActivity extends AppCompatActivity {
     private ImageView[] imageViews;
     private TextView treeNameTextView;
     private TextView[] imageTextViews;
-    private TextView licensesTextView; // Add reference to the TextView for licenses
+    private TextView licensesTextView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +37,6 @@ public class GalleryDetailsActivity extends AppCompatActivity {
         window.setStatusBarColor(ContextCompat.getColor(this, R.color.coffee_statusbar));
         window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.coffee)));
 
-        // Initialize ImageView array with references to ImageViews
         imageViews = new ImageView[]{
                 findViewById(R.id.imageView1),
                 findViewById(R.id.imageView2),
@@ -47,7 +46,6 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                 findViewById(R.id.imageView6)
         };
 
-        // Initialize TextView array with references to TextViews for image names
         imageTextViews = new TextView[]{
                 findViewById(R.id.imageNameTextView1),
                 findViewById(R.id.imageNameTextView2),
@@ -57,19 +55,11 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                 findViewById(R.id.imageNameTextView6)
         };
 
-        // Find TextView for tree name
         treeNameTextView = findViewById(R.id.treeNameTextView);
-
-        // Find TextView for licenses
         licensesTextView = findViewById(R.id.licensesTextView);
 
-        // Load image into ImageViews and update image names
         loadImage();
-
-        // Display tree name
         displayTreeName();
-
-        // Display licenses
         displayLicenses();
     }
 
@@ -77,15 +67,11 @@ public class GalleryDetailsActivity extends AppCompatActivity {
         AssetManager assetManager = getAssets();
         String treeName = getIntent().getStringExtra("treeName");
 
-        // Construct path to the image folder
         String imagePath = "licensed_trees/" + treeName + "/";
 
-        // Try to open the image files
         try {
-            // Get all image files in the folder
             String[] imageFiles = assetManager.list(imagePath);
             if (imageFiles != null) {
-                // If there are no image files, hide the license TextView
                 if (imageFiles.length == 0) {
                     licensesTextView.setVisibility(View.GONE);
                 }
@@ -100,7 +86,7 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                     }
                 } else {
                     // Load multiple images
-                    int loadedImageCount = 0; // Track the number of loaded images
+                    int loadedImageCount = 0; // Track number of loaded images
                     for (String fileName : imageFiles) {
                         if (!fileName.endsWith(".txt")) { // Ignore .txt files
                             String imageName = fileName.replaceFirst("[.][^.]+$", "");
@@ -109,12 +95,11 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                                 Bitmap bitmap = BitmapFactory.decodeStream(inputStream);
                                 // Set bitmap to ImageView
                                 imageViews[loadedImageCount].setImageBitmap(bitmap);
-                                // Update image name TextView without the file extension
                                 String caption = "\n\"" + imageName + "\"";
                                 imageTextViews[loadedImageCount].setText(caption);
-                                loadedImageCount++; // Increment the loaded image count
+                                loadedImageCount++;
                                 if (loadedImageCount >= imageViews.length) {
-                                    return; // All images loaded, exit the loop
+                                    return;
                                 }
                             }
                         }
@@ -122,12 +107,11 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                 }
             }
         } catch (IOException e) {
-            // If an error occurs, set the corresponding ImageView to invisible
+            // If error occurs, set corresponding ImageView to invisible
             for (int i = 0; i < imageViews.length; i++) {
                 imageViews[i].setVisibility(View.INVISIBLE);
                 imageTextViews[i].setVisibility(View.INVISIBLE);
             }
-            // Hide the license TextView
             licensesTextView.setVisibility(View.GONE);
             Log.e("GalleryDetailsActivity", "Error loading image: " + e.getMessage()); // Log the error
         }
@@ -138,7 +122,6 @@ public class GalleryDetailsActivity extends AppCompatActivity {
         AssetManager assetManager = getAssets();
         String treeName = getIntent().getStringExtra("treeName"); // Get the tree name passed from GalleryActivity
         try {
-            // Construct the file path for the license based on the tree name
             String filePath = "licensed_trees/" + treeName + "/image_names_urls_license.txt";
             InputStream inputStream = assetManager.open(filePath);
             BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
@@ -151,7 +134,6 @@ public class GalleryDetailsActivity extends AppCompatActivity {
             }
             reader.close();
 
-            // Set licenses to the TextView
             licensesTextView.setText(licenses.toString());
         } catch (IOException e) {
             Log.e("GalleryDetailsActivity", "Error loading licenses: " + e.getMessage()); // Log the error
@@ -161,16 +143,10 @@ public class GalleryDetailsActivity extends AppCompatActivity {
 
 
     private void displayTreeName() {
-        // Get tree name passed from GalleryActivity
+        // Get name passed from GalleryActivity
         String treeName = getIntent().getStringExtra("treeName");
-
-        // Find the corresponding scientific name from treesScientific.xml
         String scientificName = getScientificName(treeName);
-
-        // Construct the display text
         String displayText = treeName + " \n(" + scientificName + ")";
-
-        // Set tree name to the TextView
         treeNameTextView.setText(displayText);
     }
 
@@ -181,7 +157,6 @@ public class GalleryDetailsActivity extends AppCompatActivity {
         // Find the index of the treeName in the non-scientific array
         int index = Arrays.asList(treeNames).indexOf(treeName);
 
-        // If index is found, return the corresponding scientific name
         if (index != -1 && index < treeNamesScientific.length) {
             return treeNamesScientific[index];
         } else {
