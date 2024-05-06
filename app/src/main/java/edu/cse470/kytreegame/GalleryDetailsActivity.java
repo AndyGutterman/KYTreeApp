@@ -165,7 +165,4 @@ public class GalleryDetailsActivity extends AppCompatActivity {
     }
 
 
-
-
-
 }
