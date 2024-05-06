@@ -2,7 +2,6 @@ package edu.cse470.kytreegame;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.view.Window;
 import android.widget.Button;
 import android.graphics.drawable.ColorDrawable;
@@ -24,20 +23,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button startGameButton = findViewById(R.id.start_game_button);
-        startGameButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startGame();
-            }
-        });
+        startGameButton.setOnClickListener(v -> startGame());
 
         Button galleryButton = findViewById(R.id.tree_gallery_button);
-        galleryButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                openGalleryActivity();
-            }
-        });
+        galleryButton.setOnClickListener(v -> openGalleryActivity());
 
 
 
