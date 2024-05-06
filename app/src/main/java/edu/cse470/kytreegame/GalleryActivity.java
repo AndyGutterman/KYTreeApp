@@ -54,7 +54,7 @@ public class GalleryActivity extends AppCompatActivity {
 
         try {
             AssetManager assetManager = getAssets();
-            treeFolders = Arrays.asList(Objects.requireNonNull(assetManager.list("trees")));
+            treeFolders = Arrays.asList(Objects.requireNonNull(assetManager.list("licensed_trees")));
         } catch (IOException e) {
             Log.e("GalleryActivity", "An error occurred", e);
         }

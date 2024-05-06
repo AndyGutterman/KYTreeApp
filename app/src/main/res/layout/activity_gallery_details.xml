@@ -17,8 +17,8 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@android:color/darker_gray"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="14dp"/>
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="20dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -29,18 +29,18 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            >
+            android:orientation="vertical">
 
 
             <!-- ImageViews for displaying images -->
             <ImageView
                 android:id="@+id/imageView1"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitCenter"
+                android:layout_gravity="center"
+                android:layout_marginBottom="2dp"/>
 
             <TextView
                 android:id="@+id/imageNameTextView1"
@@ -48,21 +48,22 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="72dp"
                 />
 
 
 
             <ImageView
                 android:id="@+id/imageView2"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitCenter"
+                android:layout_gravity="center" />
 
             <TextView
                 android:id="@+id/imageNameTextView2"
@@ -70,20 +71,21 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="72dp"
                 />
 
 
             <ImageView
                 android:id="@+id/imageView3"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitCenter"
+                android:layout_gravity="center" />
 
             <TextView
                 android:id="@+id/imageNameTextView3"
@@ -91,80 +93,81 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="72dp"
                 />
 
 
             <ImageView
                 android:id="@+id/imageView4"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="centerCrop" />
-
+                android:scaleType="fitCenter"
+                android:layout_gravity="center" />
             <TextView
                 android:id="@+id/imageNameTextView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="72dp"
                 />
 
 
             <ImageView
                 android:id="@+id/imageView5"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="centerCrop" />
-
+                android:scaleType="fitCenter"
+                android:layout_gravity="center" />
             <TextView
                 android:id="@+id/imageNameTextView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="72dp"
                 />
 
 
             <ImageView
                 android:id="@+id/imageView6"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                android:scaleType="centerCrop" />
-
+                android:scaleType="fitCenter"
+                android:layout_gravity="center" />
             <TextView
                 android:id="@+id/imageNameTextView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="18dp"
                 />
 
             <View
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
                 android:background="@android:color/darker_gray"
-                android:layout_marginBottom="20dp"/>
+                />
 
 
             <TextView
@@ -173,10 +176,10 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text=""
-                android:textSize="16sp"
+                android:textSize="18sp"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginTop="24dp"
+                android:layout_marginTop="20dp"
                 android:layout_marginBottom="18dp"
                 />
 

@@ -105,7 +105,7 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                                 // Set bitmap to ImageView
                                 imageViews[loadedImageCount].setImageBitmap(bitmap);
                                 // Update image name TextView without the file extension
-                                String caption = "'\n" + imageName + "'";
+                                String caption = "\n\"" + imageName + "\"";
                                 imageTextViews[loadedImageCount].setText(caption);
                                 loadedImageCount++; // Increment the loaded image count
                                 if (loadedImageCount >= imageViews.length) {
@@ -136,6 +136,7 @@ public class GalleryDetailsActivity extends AppCompatActivity {
             BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
 
             StringBuilder licenses = new StringBuilder();
+            licenses.append("Image Attributions:\n\n");
             String line;
             while ((line = reader.readLine()) != null) {
                 licenses.append(line).append("\n");
