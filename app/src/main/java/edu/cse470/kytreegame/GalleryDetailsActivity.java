@@ -85,6 +85,11 @@ public class GalleryDetailsActivity extends AppCompatActivity {
             // Get all image files in the folder
             String[] imageFiles = assetManager.list(imagePath);
             if (imageFiles != null) {
+                // If there are no image files, hide the license TextView
+                if (imageFiles.length == 0) {
+                    licensesTextView.setVisibility(View.GONE);
+                }
+
                 // If there's only one image, load it once
                 if (imageFiles.length == 1) {
                     String fullImagePath = imagePath + imageFiles[0];
@@ -122,9 +127,12 @@ public class GalleryDetailsActivity extends AppCompatActivity {
                 imageViews[i].setVisibility(View.INVISIBLE);
                 imageTextViews[i].setVisibility(View.INVISIBLE);
             }
+            // Hide the license TextView
+            licensesTextView.setVisibility(View.GONE);
             Log.e("GalleryDetailsActivity", "Error loading image: " + e.getMessage()); // Log the error
         }
     }
+
 
     private void displayLicenses() {
         AssetManager assetManager = getAssets();
