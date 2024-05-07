@@ -18,7 +18,6 @@ public class GameSettingsActivity extends AppCompatActivity {
     private TextView highScoreLabelTextView;
     private TextView streakLabelTextView;
     private TextView streakTextView;
-
     private int currentStreak;
     private int highScore;
 
@@ -69,13 +68,7 @@ public class GameSettingsActivity extends AppCompatActivity {
         currentStreak = sharedPreferences.getInt("currentStreak", 0);
         highScore = sharedPreferences.getInt("highScore", 0);
 
-        if (currentStreak > 0){
-            editor.putInt("highScore", currentStreak);
-        }
-        else{
-            editor.putInt("highScore", 0);
-        }
-
+        editor.putInt("highScore", Math.max(currentStreak, 0));
         editor.apply();
         loadStats();
     }

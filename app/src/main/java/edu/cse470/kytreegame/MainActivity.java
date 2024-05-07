@@ -21,15 +21,11 @@ public class MainActivity extends AppCompatActivity {
         window.setStatusBarColor(ContextCompat.getColor(this, R.color.goldenrod_gold));
         window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.deep_blue)));
 
-
         Button startGameButton = findViewById(R.id.start_game_button);
         startGameButton.setOnClickListener(v -> startGame());
 
         Button galleryButton = findViewById(R.id.tree_gallery_button);
         galleryButton.setOnClickListener(v -> openGalleryActivity());
-
-
-
     }
 
     private void openGalleryActivity() {
