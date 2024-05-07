@@ -59,13 +59,23 @@
 
     <ImageView
         android:id="@+id/backToMainMenuButton"
-        android:layout_width="89dp"
-        android:layout_height="79dp"
+        android:layout_width="65dp"
+        android:layout_height="60dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginBottom="2dp"
         android:src="@drawable/backbutton" />
+
+    <ImageView
+        android:id="@+id/settingsButton"
+        android:layout_width="65dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/settingsbutton" />
 
 
     <LinearLayout

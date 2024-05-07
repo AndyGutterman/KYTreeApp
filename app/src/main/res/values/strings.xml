@@ -2,6 +2,8 @@
     <string name="app_name">KY Trees</string>
     <string name="image_description">Tree Image</string>
     <string name="start_game">Start Game</string>
-    <string name="tree_gallery">Gallery</string>
+    <string name="tree_gallery">Tree Gallery</string>
     <string name="native_tree_game_and_gallery">Kentucky Native Trees</string>
+    <string name="clear_my_streak">Clear win streak</string>
+    <string name="clear_my_high_score">Clear high score</string>
 </resources>

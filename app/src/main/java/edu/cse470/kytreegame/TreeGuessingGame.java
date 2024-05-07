@@ -85,6 +85,13 @@ public class TreeGuessingGame extends AppCompatActivity {
             finish();
         });
 
+        ImageView settingsButtonImageView = findViewById(R.id.settingsButton);
+        settingsButtonImageView.setOnClickListener(v -> {
+            Intent intent = new Intent(TreeGuessingGame.this, GameSettingsActivity.class);
+            startActivity(intent);
+            finish();
+        });
+
         random = new Random();
 
         try {
