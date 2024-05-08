@@ -1,4 +1,4 @@
-package edu.cse470.kytreegame;
+package edu.cse470.kytreegame.Gallery;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -16,6 +16,8 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
+
+import edu.cse470.kytreegame.R;
 
 public class GalleryActivity extends AppCompatActivity {
 

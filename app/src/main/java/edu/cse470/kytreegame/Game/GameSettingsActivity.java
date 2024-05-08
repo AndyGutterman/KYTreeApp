@@ -1,4 +1,4 @@
-package edu.cse470.kytreegame;
+package edu.cse470.kytreegame.Game;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
+
+import edu.cse470.kytreegame.R;
 
 public class GameSettingsActivity extends AppCompatActivity {
 
@@ -38,7 +40,7 @@ public class GameSettingsActivity extends AppCompatActivity {
         ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
 
         backButtonImageView.setOnClickListener(v -> {
-            Intent intent = new Intent(GameSettingsActivity.this, TreeGuessingGame.class);
+            Intent intent = new Intent(GameSettingsActivity.this, GameActivity.class);
             startActivity(intent);
             finish();
         });

@@ -24,9 +24,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TreeGuessingGame">
+            android:name=".Game.GameActivity">
         </activity>
-        <activity android:name=".GalleryActivity"
+        <activity android:name=".Gallery.GalleryActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,8 +34,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".GalleryDetailsActivity" />
-        <activity android:name=".GameSettingsActivity" />
+        <activity android:name=".Gallery.GalleryDetailsActivity" />
+        <activity android:name=".Game.GameSettingsActivity" />
     </application>
 
 </manifest>

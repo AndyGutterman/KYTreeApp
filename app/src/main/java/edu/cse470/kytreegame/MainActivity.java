@@ -10,6 +10,9 @@ import android.graphics.drawable.ColorDrawable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import edu.cse470.kytreegame.Gallery.GalleryActivity;
+import edu.cse470.kytreegame.Game.GameActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -34,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void startGame() {
         // Start the game activity or perform other actions
-        Intent intent = new Intent(this, TreeGuessingGame.class);
+        Intent intent = new Intent(this, GameActivity.class);
         startActivity(intent);
     }
 }

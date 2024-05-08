@@ -1,4 +1,4 @@
-package edu.cse470.kytreegame;
+package edu.cse470.kytreegame.Gallery;
 
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
@@ -19,6 +19,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+
+import edu.cse470.kytreegame.R;
 
 
 public class GalleryDetailsActivity extends AppCompatActivity {
