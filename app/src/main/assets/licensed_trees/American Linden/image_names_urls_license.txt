@@ -5,3 +5,17 @@ URL: https://commons.wikimedia.org/wiki/File:Tilia_americana_(American_Linden)_(
 Date: 2017-01-22T19:29:19Z
 License: CC BY-SA 2.0
 
+
+Image: Tilia americana NRCS-1.jpg
+Author: Herman, D.E., et al. 1996.
+Comment: Tilia americana L. - American basswood
+URL: https://commons.wikimedia.org/wiki/File:Tilia_americana_NRCS-1.jpg
+Date: 23:02, 29 September 2012
+License: Public Domain
+
+Image: Tilia americana (American Linden) (26563693994).jpg
+Author: Plant Image Library
+Comment: Tilia americana (American Linden) juvenile leaves
+URL: https://commons.wikimedia.org/wiki/File:Tilia_americana_(American_Linden)_(26563693994).jpg
+Date: 22 May 2016, 09:24
+License: CC BY-SA 2.0

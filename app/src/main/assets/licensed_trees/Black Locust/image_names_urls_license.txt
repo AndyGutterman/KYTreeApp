@@ -12,12 +12,6 @@ URL: https://commons.wikimedia.org/wiki/File:Black_Locust_Leaf_Close_Up.jpg
 Date: 2015-10-06T00:07:21Z
 License: CC BY-SA 4.0
 
-Image: Locust-railing.jpg
-Author: Jimmypader
-Comment: User created page with UploadWizard
-URL: https://commons.wikimedia.org/wiki/File:Locust-railing.jpg
-Date: 2014-03-18T03:04:24Z
-License: CC BY-SA 3.0
 
 Image: Robinia pseudacacia00.jpg
 Author: Androstachys
@@ -32,11 +26,4 @@ Comment: {{Information |Description={{en|1=Bark of Robinia pseudacacia - cultiva
 URL: https://commons.wikimedia.org/wiki/File:Robinia_pseudacacia02.jpg
 Date: 2010-11-17T16:00:11Z
 License: Public domain
-
-Image: Robinia pseudoacacia 'Frisia'.jpg
-Author: Colin
-Comment: 
-URL: https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_'Frisia'.jpg
-Date: 2011-10-08T16:19:30Z
-License: CC BY-SA 3.0
 
