@@ -1,61 +1,35 @@
-Image Name: Aesculus flava-leaf.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/1e/Aesculus_flava-leaf.jpg
-Date/Time: 2009-12-03T18:58:22Z
-User: Jaknouse
-Comment: {{Information
-|Description={{en|1=Leaf of yellow buckeye, ''Aesculus flava'', from a tree at Strouds Run State Park, Athens, Ohio}}
-|Source={{own}}
-|Author=[[User:Jaknouse|Jaknouse]]
-|Date=2007-07
-|Permission=
-|other_versions=
-}}
-
-[[Category:Aesculus]]
-[[
-Dimensions: 1542 x 1573
-File Size: 138880 bytes
+Image: Aesculus flava-leaf.jpg
+Author: Jaknouse
+Comment: {{Information |Description={{en|1=Leaf of yellow buckeye, ''Aesculus flava'', from a tree at Strouds Run State Park, Athens, Ohio}} |Source={{own}} |Author=[[User:Jaknouse|Jaknouse]] |Date=2007-07 |Permission= |other_versions= }} [[Category:Aesculus]] [[
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_flava-leaf.jpg
+Date: 2009-12-03T18:58:22Z
 License: CC BY-SA 3.0
 
-Image Name: Aesculus flava2.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/ee/Aesculus_flava2.jpg
-Date/Time: 2009-04-10T17:36:49Z
-User: Schlurcher
-Comment: {{Information
-|Description={{en|1=Aesculus flava tree.}}
-{{de|1=Bild einer Aesculus flava (Gelbe Pavie).
-Familie der Rosskastaniengew�chse. Heimat: Nordamerika
-Fotografiert im Ringpark in W�rzburg.}}
-|Source=Eigenes Werk (own work)
-|Author=[[User:Schlur
-Dimensions: 1536 x 2048
-File Size: 1292769 bytes
+Image: Aesculus flava2.jpg
+Author: Schlurcher 
+Comment: {{Information |Description={{en|1=Aesculus flava tree.}} {{de|1=Bild einer Aesculus flava (Gelbe Pavie). Familie der Rosskastaniengewächse. Heimat: Nordamerika Fotografiert im Ringpark in Würzburg.}} |Source=Eigenes Werk (own work) |Author=[[User:Schlur
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_flava2.jpg
+Date: 2009-04-10T17:36:49Z
 License: CC BY 4.0
 
-Image Name: Aesculus octandra bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c4/Aesculus_octandra_bark.jpg
-Date/Time: 2007-04-08T19:05:10Z
-User: Misantrophe
-Comment: Encoding Error
-Dimensions: 2304 x 1536
-File Size: 833893 bytes
+Image: Aesculus octandra bark.jpg
+Author: Misantrophe at English Wikipedia
+Comment: Author : Piotr Curious Głuszenia Sławiński photo of Yellow Buckeye growing in Lubań Śląski (artifically planted)
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_octandra_bark.jpg
+Date: 2007-04-08T19:05:10Z
 License: Public domain
 
-Image Name: Aesculus octandra flower.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d6/Aesculus_octandra_flower.jpg
-Date/Time: 2007-04-08T19:36:15Z
-User: Misantrophe
-Comment: Encoding Error
-Dimensions: 2304 x 1536
-File Size: 409499 bytes
+Image: Aesculus octandra flower.jpg
+Author: Misantrophe (talk) (Uploads)
+Comment: Flower or sprouting leaf of Yellow Buckeye , artifically planted in Lubań śląski (poland)
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_octandra_flower.jpg
+Date: 2007-04-08T19:36:15Z
 License: Public domain
 
-Image Name: Yellow buckeye fruits.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Yellow_buckeye_fruits.jpg
-Date/Time: 2015-08-01T02:46:17Z
-User: Animalparty
+Image: Yellow buckeye fruits.jpg
+Author: Velocicaptor at English Wikipedia
 Comment: Transferred from en.wikipedia
-Dimensions: 2560 x 1920
-File Size: 1678133 bytes
+URL: https://commons.wikimedia.org/wiki/File:Yellow_buckeye_fruits.jpg
+Date: 2015-08-01T02:46:17Z
 License: Public domain
 

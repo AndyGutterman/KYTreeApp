@@ -1,33 +1,14 @@
-Image Name: Chinkapin oak.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/4e/Chinkapin_oak.jpg
-Date/Time: 2006-07-04T03:38:15Z
-User: Chowbok
-Comment: {{Information
-|Description=Photo of an 150-year-old chinkapin oak
-|Source=own work
-|Date=2006-07-01
-|Author=[[User:Chowbok|Kim Scarborough]]
-|Permission=CC-By-SA-2.5
-|other_versions=
-}}
-
-, in Ann Arbor, Michigan.
-
-I took this.
-Dimensions: 1920 x 2560
-File Size: 3040230 bytes
+Image: Chinkapin oak.jpg
+Author: Kim Scarborough
+Comment: {{Information |Description=Photo of an 150-year-old chinkapin oak |Source=own work |Date=2006-07-01 |Author=[[User:Chowbok|Kim Scarborough]] |Permission=CC-By-SA-2.5 |other_versions= }} , in Ann Arbor, Michigan. I took this.
+URL: https://commons.wikimedia.org/wiki/File:Chinkapin_oak.jpg
+Date: 2006-07-04T03:38:15Z
 License: CC BY-SA 2.5
 
-Dimensions: 590 x 712
-File Size: 57231 bytes
-License: Public domain
-
-Image Name: Ruth the chinkapin oak.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/0/08/Ruth_the_chinkapin_oak.jpg
-Date/Time: 2022-09-25T16:50:33Z
-User: Tameraclark
+Image: Ruth the chinkapin oak.jpg
+Author: Tameraclark
 Comment: Uploaded while editing "Quercus muehlenbergii" on en.wikipedia.org
-Dimensions: 3024 x 4032
-File Size: 4673770 bytes
+URL: https://commons.wikimedia.org/wiki/File:Ruth_the_chinkapin_oak.jpg
+Date: 2022-09-25T16:50:33Z
 License: CC BY-SA 4.0
 

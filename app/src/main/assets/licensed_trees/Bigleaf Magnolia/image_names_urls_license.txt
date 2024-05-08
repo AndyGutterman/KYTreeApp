@@ -1,70 +1,42 @@
-Image Name: Bigleaf Magnolia Magnolia macrophylla Leaf 2500px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/Bigleaf_Magnolia_Magnolia_macrophylla_Leaf_2500px.jpg
-Date/Time: 2007-03-07T23:19:08Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of the {{MultiLink|Bigleaf Magnolia}} ({{BioLinkSpecies|Magnolia macrophylla}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
-| camera = Nikon D50
-| lens = Nik
-Dimensions: 2500 x 2000
-File Size: 2313884 bytes
+Image: Bigleaf Magnolia Magnolia macrophylla Leaf 2500px.jpg
+Author: Photo (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of the {{MultiLink|Bigleaf Magnolia}} ({{BioLinkSpecies|Magnolia macrophylla}}). Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1 | camera = Nikon D50 | lens = Nik
+URL: https://commons.wikimedia.org/wiki/File:Bigleaf_Magnolia_Magnolia_macrophylla_Leaf_2500px.jpg
+Date: 2007-03-07T23:19:08Z
 License: CC BY-SA 2.5
 
-Image Name: Bigleaf Magnolia Magnolia macrophylla Sapling 1550px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/8/8f/Bigleaf_Magnolia_Magnolia_macrophylla_Sapling_1550px.jpg
-Date/Time: 2007-03-07T23:21:27Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of the {{MultiLink|Bigleaf Magnolia}} ({{BioLinkSpecies|Magnolia macrophylla}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
-| camera = Nikon D50
-| lens = Nik
-Dimensions: 1550 x 2900
-File Size: 3501730 bytes
+Image: Bigleaf Magnolia Magnolia macrophylla Sapling 1550px.jpg
+Author: Photo (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of the {{MultiLink|Bigleaf Magnolia}} ({{BioLinkSpecies|Magnolia macrophylla}}). Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1 | camera = Nikon D50 | lens = Nik
+URL: https://commons.wikimedia.org/wiki/File:Bigleaf_Magnolia_Magnolia_macrophylla_Sapling_1550px.jpg
+Date: 2007-03-07T23:21:27Z
 License: CC BY-SA 2.5
 
-Image Name: M.macrophylla var. ashei 200706.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/3/33/M.macrophylla_var._ashei_200706.jpg
-Date/Time: 2010-02-02T10:18:38Z
-User: Kloisiie
-Comment: {{Information
-|Description={{en|Photo taken by me in Switzerland, May/June 2006.
-Shows a flower of Magnolia macrophylla var. ashei in female phase.}}
-|Source=Transferred from [http://en.wikipedia.org en.wikipedia]
-|Date={{Date|2007|07|15}} (original uploa
-Dimensions: 2048 x 1536
-File Size: 205261 bytes
+Image: M.macrophylla var. ashei 200706.jpg
+Author: Bjocar at English Wikipedia
+Comment: {{Information |Description={{en|Photo taken by me in Switzerland, May/June 2006. Shows a flower of Magnolia macrophylla var. ashei in female phase.}} |Source=Transferred from [http://en.wikipedia.org en.wikipedia] |Date={{Date|2007|07|15}} (original uploa
+URL: https://commons.wikimedia.org/wiki/File:M.macrophylla_var._ashei_200706.jpg
+Date: 2010-02-02T10:18:38Z
 License: CC BY-SA 3.0
 
-Image Name: MagnoliaMacrophylla.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/62/MagnoliaMacrophylla.jpg
-Date/Time: 2012-01-29T18:24:33Z
-User: BotMultichillT
-Comment: 
-{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
-== {{int:filedesc}} ==
-{{Information
-|description={{en|1=A picture of Magnolia macrophylla.}}
-|date=June 6, 2009
-|source=I created this
-Dimensions: 2112 x 2816
-File Size: 3955493 bytes
+Image: MagnoliaMacrophylla.jpg
+Author: Chhe (talk)
+Comment: {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} == {{int:filedesc}} == {{Information |description={{en|1=A picture of Magnolia macrophylla.}} |date=June 6, 2009 |source=I created this
+URL: https://commons.wikimedia.org/wiki/File:MagnoliaMacrophylla.jpg
+Date: 2012-01-29T18:24:33Z
 License: Public domain
 
-Image Name: Magnolia macrophyla ssp. ashei flower.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e3/Magnolia_macrophyla_ssp._ashei_flower.jpg
-Date/Time: 2020-04-14T18:50:13Z
-User: Akgarb
+Image: Magnolia macrophyla ssp. ashei flower.jpg
+Author: William (Ned) Friedman
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3843 x 3275
-File Size: 3060608 bytes
+URL: https://commons.wikimedia.org/wiki/File:Magnolia_macrophyla_ssp._ashei_flower.jpg
+Date: 2020-04-14T18:50:13Z
 License: CC BY-SA 4.0
 
-Image Name: Magnolia macrophyla ssp. ashei fruit.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d1/Magnolia_macrophyla_ssp._ashei_fruit.jpg
-Date/Time: 2020-04-14T19:10:39Z
-User: Akgarb
+Image: Magnolia macrophyla ssp. ashei fruit.jpg
+Author: William (Ned) Friedman
 Comment: Uploaded own work with UploadWizard
-Dimensions: 2313 x 2889
-File Size: 1495590 bytes
+URL: https://commons.wikimedia.org/wiki/File:Magnolia_macrophyla_ssp._ashei_fruit.jpg
+Date: 2020-04-14T19:10:39Z
 License: CC BY-SA 4.0
 

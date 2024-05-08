@@ -1,58 +1,42 @@
-Image Name: Carya laciniosa- Virginia.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/11/Carya_laciniosa-_Virginia.jpg
-Date/Time: 2023-10-02T22:59:32Z
-User: KGools
+Image: Carya laciniosa- Virginia.jpg
+Author: KGools
 Comment: Uploaded while editing "Carya laciniosa" on en.wikipedia.org
-Dimensions: 3120 x 3120
-File Size: 1701187 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa-_Virginia.jpg
+Date: 2023-10-02T22:59:32Z
 License: CC BY-SA 4.0
 
-Image Name: Carya laciniosa (Shellbark Hickory) (32521231364).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/1f/Carya_laciniosa_%28Shellbark_Hickory%29_%2832521231364%29.jpg
-Date/Time: 2019-12-16T03:44:26Z
-User: Ser Amantio di Nicolao
+Image: Carya laciniosa (Shellbark Hickory) (32521231364).jpg
+Author: Plant Image Library from Boston, USA
 Comment: Transferred from Flickr via #flickr2commons
-Dimensions: 1200 x 1800
-File Size: 2224497 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa_(Shellbark_Hickory)_(32521231364).jpg
+Date: 2019-12-16T03:44:26Z
 License: CC BY-SA 2.0
 
-Image Name: Carya laciniosa (Shellbark Hickory) (33978812346).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c4/Carya_laciniosa_%28Shellbark_Hickory%29_%2833978812346%29.jpg
-Date/Time: 2019-12-16T03:22:44Z
-User: Ser Amantio di Nicolao
+Image: Carya laciniosa (Shellbark Hickory) (33978812346).jpg
+Author: Plant Image Library from Boston, USA
 Comment: Transferred from Flickr via #flickr2commons
-Dimensions: 1800 x 1200
-File Size: 1104808 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa_(Shellbark_Hickory)_(33978812346).jpg
+Date: 2019-12-16T03:22:44Z
 License: CC BY-SA 2.0
 
-Image Name: Carya laciniosa (Shellbark Hickory) (34355481560).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e0/Carya_laciniosa_%28Shellbark_Hickory%29_%2834355481560%29.jpg
-Date/Time: 2019-12-16T03:32:28Z
-User: Ser Amantio di Nicolao
+Image: Carya laciniosa (Shellbark Hickory) (34355481560).jpg
+Author: Plant Image Library from Boston, USA
 Comment: Transferred from Flickr via #flickr2commons
-Dimensions: 1200 x 1800
-File Size: 819810 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa_(Shellbark_Hickory)_(34355481560).jpg
+Date: 2019-12-16T03:32:28Z
 License: CC BY-SA 2.0
 
-Image Name: Carya laciniosa (Shellbark Hickory) (34414586576).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/3/3f/Carya_laciniosa_%28Shellbark_Hickory%29_%2834414586576%29.jpg
-Date/Time: 2019-12-16T03:12:38Z
-User: Ser Amantio di Nicolao
+Image: Carya laciniosa (Shellbark Hickory) (34414586576).jpg
+Author: Plant Image Library from Boston, USA
 Comment: Transferred from Flickr via #flickr2commons
-Dimensions: 1800 x 1200
-File Size: 827378 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa_(Shellbark_Hickory)_(34414586576).jpg
+Date: 2019-12-16T03:12:38Z
 License: CC BY-SA 2.0
 
-Image Name: Carya laciniosa NRCS-001.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f9/Carya_laciniosa_NRCS-001.jpg
-Date/Time: 2008-11-29T10:59:37Z
-User: MPF
-Comment: {{Information
-|Description={{en|1=''[[Carya laciniosa]]'' leaves and bark
-}}
-|Source=http://plants.usda.gov/java/profile?symbol=CALA21&photoID=cala21_001_ahp.tif
-|Author=Robert H. Mohlenbrock. USDA SCS. ''Midwest wetland flora: Field office illustrated gu
-Dimensions: 1350 x 893
-File Size: 813615 bytes
+Image: Carya laciniosa NRCS-001.jpg
+Author: Robert H. Mohlenbrock. USDA SCS. Midwest wetland flora: Field office illustrated guide to plant species.
+Comment: {{Information |Description={{en|1=''[[Carya laciniosa]]'' leaves and bark }} |Source=http://plants.usda.gov/java/profile?symbol=CALA21&photoID=cala21_001_ahp.tif |Author=Robert H. Mohlenbrock. USDA SCS. ''Midwest wetland flora: Field office illustrated gu
+URL: https://commons.wikimedia.org/wiki/File:Carya_laciniosa_NRCS-001.jpg
+Date: 2008-11-29T10:59:37Z
 License: Public domain
 

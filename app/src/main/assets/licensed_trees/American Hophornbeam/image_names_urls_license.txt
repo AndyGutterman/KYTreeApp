@@ -1,66 +1,35 @@
-Image Name: Eastern Hophornbeam - Flickr - treegrow (3).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Eastern_Hophornbeam_-_Flickr_-_treegrow_%283%29.jpg
-Date/Time: 2016-07-06T15:43:51Z
-User: Josve05a
-Comment: == {{int:filedesc}} ==
-{{Information
-|Description=''Ostrya virginiana''.  Rock Creek Park, Washington, DC, USA
-|Source=[https://www.flickr.com/photos/treegrow/22542941319/ Eastern Hophornbeam]
-|Date=2015-10-31 15:40
-|Author=[https://www.flickr.com/peop...
-Dimensions: 3563 x 2672
-File Size: 1656263 bytes
+Image: Eastern Hophornbeam - Flickr - treegrow (3).jpg
+Author: Katja Schulz from Washington, D. C., USA
+Comment: == {{int:filedesc}} == {{Information |Description=''Ostrya virginiana''. Rock Creek Park, Washington, DC, USA |Source=[https://www.flickr.com/photos/treegrow/22542941319/ Eastern Hophornbeam] |Date=2015-10-31 15:40 |Author=[https://www.flickr.com/peop...
+URL: https://commons.wikimedia.org/wiki/File:Eastern_Hophornbeam_-_Flickr_-_treegrow_(3).jpg
+Date: 2016-07-06T15:43:51Z
 License: CC BY 2.0
 
-Image Name: Eastern Hophornbeam - Flickr - treegrow (4).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/af/Eastern_Hophornbeam_-_Flickr_-_treegrow_%284%29.jpg
-Date/Time: 2016-07-07T20:15:16Z
-User: Josve05a
-Comment: == {{int:filedesc}} ==
-{{Information
-|Description=''Ostrya virginiana''.  Cultivated. National Botanic Garden, Washington, DC, USA. 3 April 2011.
-|Source=[https://www.flickr.com/photos/treegrow/5594457306/ Eastern Hophornbeam]
-|Date=2011-04-06 00:33
-|A...
-Dimensions: 1800 x 1200
-File Size: 422899 bytes
+Image: Eastern Hophornbeam - Flickr - treegrow (4).jpg
+Author: Katja Schulz from Washington, D. C., USA
+Comment: == {{int:filedesc}} == {{Information |Description=''Ostrya virginiana''. Cultivated. National Botanic Garden, Washington, DC, USA. 3 April 2011. |Source=[https://www.flickr.com/photos/treegrow/5594457306/ Eastern Hophornbeam] |Date=2011-04-06 00:33 |A...
+URL: https://commons.wikimedia.org/wiki/File:Eastern_Hophornbeam_-_Flickr_-_treegrow_(4).jpg
+Date: 2016-07-07T20:15:16Z
 License: CC BY 2.0
 
-Image Name: Ironwood tree bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c1/Ironwood_tree_bark.jpg
-Date/Time: 2017-06-02T04:52:12Z
-User: 420Traveler
-Comment: {{subst:Upload marker added by en.wp UW}}
-{{Information
-|Description = {{en|Ironwood tree bark}}
-|Source = I phone today 
-|Date = 2017-05-29
-|Author = [[User:Tripp155|Tripp155]]
-}}
-Dimensions: 3024 x 4032
-File Size: 3401483 bytes
+Image: Ironwood tree bark.jpg
+Author: 420Traveler
+Comment: {{subst:Upload marker added by en.wp UW}} {{Information |Description = {{en|Ironwood tree bark}} |Source = I phone today |Date = 2017-05-29 |Author = [[User:Tripp155|Tripp155]] }}
+URL: https://commons.wikimedia.org/wiki/File:Ironwood_tree_bark.jpg
+Date: 2017-06-02T04:52:12Z
 License: CC BY-SA 4.0
 
-Image Name: Ostrya virginiana 2.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/ee/Ostrya_virginiana_2.jpg
-Date/Time: 2012-10-10T11:56:44Z
-User: Eric in SF
+Image: Ostrya virginiana 2.jpg
+Author: Eric Hunt
 Comment: User created page with UploadWizard
-Dimensions: 1214 x 1822
-File Size: 575254 bytes
+URL: https://commons.wikimedia.org/wiki/File:Ostrya_virginiana_2.jpg
+Date: 2012-10-10T11:56:44Z
 License: CC BY-SA 3.0
 
-Image Name: Ostrya virginiana Blue Ridge.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Ostrya_virginiana_Blue_Ridge.jpg
-Date/Time: 2015-02-15T20:25:28Z
-User: Masebrock
-Comment: {{Information
-|Description={{en|1=A large ''[[:en:Ostrya virginiana|Ostrya virginiana]]'' at [[:en:Great Smoky Mountains National Park|Great Smoky Mountains National Park]].}}
-|Source={{own}}
-|Date=2012-09-22
-|Author=Mason Brock ([[:en:User:Masebrock|M...
-Dimensions: 2521 x 2152
-File Size: 2676020 bytes
+Image: Ostrya virginiana Blue Ridge.jpg
+Author: Mason Brock (Masebrock)
+Comment: {{Information |Description={{en|1=A large ''[[:en:Ostrya virginiana|Ostrya virginiana]]'' at [[:en:Great Smoky Mountains National Park|Great Smoky Mountains National Park]].}} |Source={{own}} |Date=2012-09-22 |Author=Mason Brock ([[:en:User:Masebrock|M...
+URL: https://commons.wikimedia.org/wiki/File:Ostrya_virginiana_Blue_Ridge.jpg
+Date: 2015-02-15T20:25:28Z
 License: Public domain
-
 

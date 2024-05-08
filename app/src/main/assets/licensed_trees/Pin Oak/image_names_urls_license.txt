@@ -1,45 +1,28 @@
-Image Name: 2016-04-15 15 31 48 Pin Oak catkins at Franklin Farm Park in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/fd/2016-04-15_15_31_48_Pin_Oak_catkins_at_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg
-Date/Time: 2016-07-10T20:30:33Z
-User: Famartin
+Image: 2016-04-15 15 31 48 Pin Oak catkins at Franklin Farm Park in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg
+Author: Famartin
 Comment: User created page with UploadWizard
-Dimensions: 3264 x 2448
-File Size: 1861739 bytes
+URL: https://commons.wikimedia.org/wiki/File:2016-04-15_15_31_48_Pin_Oak_catkins_at_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+Date: 2016-07-10T20:30:33Z
 License: CC BY-SA 4.0
 
-Image Name: Bark Quercus palustris.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/b/b5/Bark_Quercus_palustris.jpg
-Date/Time: 2011-08-31T18:09:20Z
-User: Dodshe
-Comment: {{Information
-|Description    ={{en|1=bark of Quercus palustris}}
-{{de|1=Rinde von Quercus palustris (Sumpf-Eiche)}}
-{{es|1=corteza de Quercus palustris}}
-|Source         ={{own}}
-|Author         =[[User:Dodshe|Dodshe]]
-|Date           =31.8.2011
-|Permiss
-Dimensions: 702 x 951
-File Size: 582893 bytes
+Image: Bark Quercus palustris.jpg
+Author: Dodshe
+Comment: {{Information |Description ={{en|1=bark of Quercus palustris}} {{de|1=Rinde von Quercus palustris (Sumpf-Eiche)}} {{es|1=corteza de Quercus palustris}} |Source ={{own}} |Author =[[User:Dodshe|Dodshe]] |Date =31.8.2011 |Permiss
+URL: https://commons.wikimedia.org/wiki/File:Bark_Quercus_palustris.jpg
+Date: 2011-08-31T18:09:20Z
 License: CC BY-SA 3.0
 
-Image Name: Pin Oak Northampton MA - August 2013.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/54/Pin_Oak_Northampton_MA_-_August_2013.jpg
-Date/Time: 2016-04-17T06:30:24Z
-User: FastilyClone
+Image: Pin Oak Northampton MA - August 2013.jpg
+Author: Msact
 Comment: Transferred from [[w:File:Pin Oak Northampton MA - August 2013.jpg|enwp]]
-Dimensions: 1712 x 2288
-File Size: 1897980 bytes
+URL: https://commons.wikimedia.org/wiki/File:Pin_Oak_Northampton_MA_-_August_2013.jpg
+Date: 2016-04-17T06:30:24Z
 License: CC BY-SA 3.0
 
-Image Name: Pin oak quercus palustris.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/15/Pin_oak_quercus_palustris.jpg
-Date/Time: 2007-08-06T17:39:47Z
-User: Bruce Marlin
-Comment: {{information
-|Description= Pin Oak - ''Quercus palustris''. Also commonly called swamp oak, water oak, and swamp Spanish oak. Fagaceae -- Beech family. 22-year-old specimen at The Morton Arboretum, Lisle, Illinois, USA.
-|Source= Own work http://www.cirru
-Dimensions: 654 x 800
-File Size: 313602 bytes
+Image: Pin oak quercus palustris.jpg
+Author: Bruce Marlin
+Comment: {{information |Description= Pin Oak - ''Quercus palustris''. Also commonly called swamp oak, water oak, and swamp Spanish oak. Fagaceae -- Beech family. 22-year-old specimen at The Morton Arboretum, Lisle, Illinois, USA. |Source= Own work http://www.cirru
+URL: https://commons.wikimedia.org/wiki/File:Pin_oak_quercus_palustris.jpg
+Date: 2007-08-06T17:39:47Z
 License: CC BY-SA 2.5
 

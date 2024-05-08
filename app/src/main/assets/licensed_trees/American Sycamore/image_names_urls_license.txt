@@ -1,26 +1,35 @@
-Image Name: 2020-06-04 16 44 33 An American sycamore with a severe infection of Sycamore anthracnose along Tranquility Lane in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/47/2020-06-04_16_44_33_An_American_sycamore_with_a_severe_infection_of_Sycamore_anthracnose_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg
-Date/Time: 2020-06-05T04:37:58Z
-User: Famartin
-Comment: Uploaded own work with UploadWizard
-Dimensions: 3024 x 4032
-File Size: 6432772 bytes
+Image: Sycamore Platanus occidentalis.jpg
+Author: Bruce Marlin
+Comment: {{information |Description= American Sycamore Tree, ''Platanus occidentalis''. Specimen tree at Morton Arboretum, Lisle, Illinois, USA. |Source= Own work http://www.cirrusimage.com/trees.htm |Author= [[User:Bruce Marlin|Bruce Marlin]] |Date= 06/18/2007 |
+URL: https://commons.wikimedia.org/wiki/File:Sycamore_Platanus_occidentalis.jpg
+Date: 2007-07-04T13:47:44Z
+License: CC BY-SA 2.5
+
+Image: Buttonball Sycamore in Sunderland, MA (March 2019).jpg
+Author: Marty Aligata
+Comment: User created page with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Buttonball_Sycamore_in_Sunderland,_MA_(March_2019).jpg
+Date: 2019-11-23T23:59:13Z
 License: CC BY-SA 4.0
 
-Image Name: Buttonball Sycamore in Sunderland, MA (March 2019).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c7/Buttonball_Sycamore_in_Sunderland%2C_MA_%28March_2019%29.jpg
-Date/Time: 2019-11-23T23:59:13Z
-User: Msact
-Comment: User created page with UploadWizard
-Dimensions: 1704 x 2272
-File Size: 3012201 bytes
-License: CC BY-SA 4.0
+Image: American sycamore (Platanus occidentalis) 2.jpg
+Author: Jeff Turner from Santa Clarita, CA, United States
+Comment: {{Information |Description=American sycamore (Platanus occidentalis) seeds |Source=[http://www.flickr.com/photos/40518938@N00/2553677042/ Hanging On For Dear Life] |Date=2008-05-31 08:37 |Author=[http://www.flickr.com/people/40518938@N00 Jeff Turner] from
+URL: https://commons.wikimedia.org/wiki/File:American_sycamore_(Platanus_occidentalis)_2.jpg
+Date: 2009-07-27T08:40:46Z
+License: CC BY 2.0
 
-Image Name: Platanus occidentalis 20838411752 c5e9abdf64 o.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c6/Platanus_occidentalis_20838411752_c5e9abdf64_o.jpg
-Date/Time: 2016-03-19T22:54:47Z
-User: Oaktree b
-Comment: User created page with UploadWizard
-Dimensions: 600 x 896
-File Size: 130284 bytes
-License: Public domain
+Image: Platanus occidentalis and Muscicapa rubra Wellcome L0049864.jpg
+Author: Wellcome Library, London
+Comment: =={{int:filedesc}}== {{Artwork |artist = |author = |title = Platanus occidentalis and Muscicapa rubra |description = Platanus occidentalis (the Western Plane Tree) and Muscicapa rubra (the Summer Redbird). <p...
+URL: https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_and_Muscicapa_rubra_Wellcome_L0049864.jpg
+Date: 2014-10-14T15:53:28Z
+License: CC BY 4.0
+
+Image: American sycamore bark.jpg
+Author: Jim Thomas
+Comment: {{Information |Description=Close-up photo showing the bark of an American Sycamore tree. |Source=Americansycamore.jpg, uploaded to Wikipedia by ScottyBoy900Q, cropped by wikimedia user Jomegat. |Date=19 Oct, 2006 |Author=Jim Thomas |Permission={{GFDL-self
+URL: https://commons.wikimedia.org/wiki/File:American_sycamore_bark.jpg
+Date: 2006-10-19T17:19:20Z
+License: CC BY-SA 3.0
+

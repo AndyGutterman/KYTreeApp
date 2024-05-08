@@ -1,9 +1,35 @@
-Image Name: Amelanchier arborea sarvis close.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a5/Amelanchier_arborea_sarvis_close.jpg
-Date/Time: 2012-03-21T01:31:38Z
-User: Dcrjsr
+Image: Amelanchier arborea sarvis close.jpg
+Author: Dcrjsr
 Comment: 
-Dimensions: 1920 x 1570
-File Size: 1378244 bytes
+URL: https://commons.wikimedia.org/wiki/File:Amelanchier_arborea_sarvis_close.jpg
+Date: 2012-03-21T01:31:38Z
 License: CC BY 3.0
+
+Image: Amelanchier arborea leaves.JPG
+Author: Dcrjsr
+Comment: 
+URL: https://commons.wikimedia.org/wiki/File:Amelanchier_arborea_leaves.JPG
+Date: 2012-04-22T23:01:36Z
+License: CC BY 3.0
+
+Image: AmelanchierA1.jpg
+Author: Douglas Goldman
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:AmelanchierA1.jpg
+Date: 2023-04-25T11:58:26Z
+License: CC BY-SA 4.0
+
+Image: Amelanchier arborea in Hackfalls Arboretum (3).jpg
+Author: Krzysztof Golik
+Comment: User created page with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Amelanchier_arborea_in_Hackfalls_Arboretum_(3).jpg
+Date: 2018-12-27T22:56:38Z
+License: CC BY-SA 4.0
+
+Image: Amelanchier x grandiflora.jpg
+Author: BlueCanoe
+Comment: {{Information |Description ={{en|1=Hybrid serviceberry (''Amelanchier'' x ''grandiflora'') at the Center for Urban Horticulture, University of Washington, Seattle, Washington, USA. A hybrid between ''Amelanchier arborea'' and ''Amelanchier laevis''.[h
+URL: https://commons.wikimedia.org/wiki/File:Amelanchier_x_grandiflora.jpg
+Date: 2011-04-19T05:39:34Z
+License: CC BY-SA 3.0
 

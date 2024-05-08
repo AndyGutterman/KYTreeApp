@@ -1,51 +1,35 @@
-Image Name: 2014-11-02 14 12 30 Bald Cypress foliage during autumn along Hunters Ridge Drive in Hopewell Township, New Jersey.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d4/2014-11-02_14_12_30_Bald_Cypress_foliage_during_autumn_along_Hunters_Ridge_Drive_in_Hopewell_Township%2C_New_Jersey.jpg
-Date/Time: 2014-11-26T21:58:26Z
-User: Famartin
+Image: 2014-11-02 14 12 30 Bald Cypress foliage during autumn along Hunters Ridge Drive in Hopewell Township, New Jersey.jpg
+Author: Famartin
 Comment: User created page with UploadWizard
-Dimensions: 3264 x 2448
-File Size: 3665749 bytes
+URL: https://commons.wikimedia.org/wiki/File:2014-11-02_14_12_30_Bald_Cypress_foliage_during_autumn_along_Hunters_Ridge_Drive_in_Hopewell_Township,_New_Jersey.jpg
+Date: 2014-11-26T21:58:26Z
 License: CC BY-SA 4.0
 
-Image Name: Bald Cypress (Taxodium distichum) growing on the Guadalupe River, Kerr County, Texas, USA (14 April 2012).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/27/Bald_Cypress_%28Taxodium_distichum%29_growing_on_the_Guadalupe_River%2C_Kerr_County%2C_Texas%2C_USA_%2814_April_2012%29.jpg
-Date/Time: 2020-06-17T06:15:40Z
-User: Wilafa
+Image: Bald Cypress (Taxodium distichum) growing on the Guadalupe River, Kerr County, Texas, USA (14 April 2012).jpg
+Author: William L. Farr
 Comment: Uploaded own work with UploadWizard
-Dimensions: 1800 x 900
-File Size: 2317560 bytes
+URL: https://commons.wikimedia.org/wiki/File:Bald_Cypress_(Taxodium_distichum)_growing_on_the_Guadalupe_River,_Kerr_County,_Texas,_USA_(14_April_2012).jpg
+Date: 2020-06-17T06:15:40Z
 License: CC BY-SA 4.0
 
-Image Name: Bald Cypress Leaves 2264px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e3/Bald_Cypress_Leaves_2264px.jpg
-Date/Time: 2006-07-02T04:22:55Z
-User: Ram-Man
-Comment: {{Information
-|Description=Picture of some leaves on a [[:en:Taxodium distichum|Bald Cypress]] (''Taxodium distichum'').  Photo taken in [[:en:Chester County, Pennsylvania|Chester County, Pennsylvania]].
-|Source=Own Picture
-|Date=Saturday, July 1, 2006
-|A
-Dimensions: 2264 x 1996
-File Size: 1443770 bytes
+Image: Bald Cypress Leaves 2264px.jpg
+Author: Photo by and (c)2006 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Picture of some leaves on a [[:en:Taxodium distichum|Bald Cypress]] (''Taxodium distichum''). Photo taken in [[:en:Chester County, Pennsylvania|Chester County, Pennsylvania]]. |Source=Own Picture |Date=Saturday, July 1, 2006 |A
+URL: https://commons.wikimedia.org/wiki/File:Bald_Cypress_Leaves_2264px.jpg
+Date: 2006-07-02T04:22:55Z
 License: CC BY-SA 2.5
 
-Image Name: Bald Cypress swamp and Spanish Moss.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/Bald_Cypress_swamp_and_Spanish_Moss.jpg
-Date/Time: 2013-09-26T03:39:12Z
-User: Lago Mar
+Image: Bald Cypress swamp and Spanish Moss.jpg
+Author: Lago Mar
 Comment: User created page with UploadWizard
-Dimensions: 3264 x 1836
-File Size: 2068821 bytes
+URL: https://commons.wikimedia.org/wiki/File:Bald_Cypress_swamp_and_Spanish_Moss.jpg
+Date: 2013-09-26T03:39:12Z
 License: CC BY-SA 3.0
 
-Image Name: Bald cypress Atchafalaya Basin.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/Bald_cypress_Atchafalaya_Basin.jpg
-Date/Time: 2007-04-01T05:25:49Z
-User: DanMS
-Comment: {{Information
-|    Description = {{en|A bald cypress ''(Taxodium distichum)'' in the Atchafalaya Basin. Louisiana, USA.}}
-|         Source = U.S. Army Corps of Engineers Digital Visual Library<br />[http://images.usace.army.mil/images/Hires/0655-13.jpg Im
-Dimensions: 1001 x 1500
-File Size: 649245 bytes
+Image: Bald cypress Atchafalaya Basin.jpg
+Author: U.S. Army Corps of Engineers, photographer not specified or unknown
+Comment: {{Information | Description = {{en|A bald cypress ''(Taxodium distichum)'' in the Atchafalaya Basin. Louisiana, USA.}} | Source = U.S. Army Corps of Engineers Digital Visual Library<br />[http://images.usace.army.mil/images/Hires/0655-13.jpg Im
+URL: https://commons.wikimedia.org/wiki/File:Bald_cypress_Atchafalaya_Basin.jpg
+Date: 2007-04-01T05:25:49Z
 License: Public domain
 

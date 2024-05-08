@@ -1,20 +1,28 @@
-Image Name: American Hornbeam Leaves 600.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e7/American_Hornbeam_Leaves_600.jpg
-Date/Time: 2005-07-17T03:15:40Z
-User: Ram-Man
-Comment: Leaves on a small branch of the American Hornbeam (''[[w:Carpinus caroliniana|Carpinus caroliniana]]'').  Photo by Derek Ramsey ([[w:User:Ram-Man|Ram-Man]])
-
-Species identification performed by the [http://www.dcnr.state.pa.us/ Pennsylvania Department of 
-Dimensions: 600 x 400
-File Size: 91075 bytes
+Image: American Hornbeam Leaves 600.jpg
+Author: Photo by and (c)2005 Derek Ramsey (Ram-Man)
+Comment: Leaves on a small branch of the American Hornbeam (''[[w:Carpinus caroliniana|Carpinus caroliniana]]''). Photo by Derek Ramsey ([[w:User:Ram-Man|Ram-Man]]) Species identification performed by the [http://www.dcnr.state.pa.us/ Pennsylvania Department of
+URL: https://commons.wikimedia.org/wiki/File:American_Hornbeam_Leaves_600.jpg
+Date: 2005-07-17T03:15:40Z
 License: CC BY-SA 2.5
 
-Image Name: Carpinus caroliniana bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/55/Carpinus_caroliniana_bark.jpg
-Date/Time: 2013-12-07T17:57:48Z
-User: Rob Duval
+Image: Carpinus caroliniana bark.jpg
+Author: Rob Duval
 Comment: User created page with UploadWizard
-Dimensions: 800 x 600
-File Size: 189970 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carpinus_caroliniana_bark.jpg
+Date: 2013-12-07T17:57:48Z
 License: CC BY-SA 3.0
+
+Image: Carpinus caroliniana 3.JPG
+Author: Fepup
+Comment: {{Information |Description={{en|1=Carpinus caroliniana}} Photograph taken May 18, 2009 near Duluth, Georgia |Source=Own work by uploader |Author=[[User:Fepup|Fepup]] |Date=2009-05-20 |Permission= |other_versions= }} <!--{{ImageUpload|full}}--> [[Category
+URL: https://commons.wikimedia.org/wiki/File:Carpinus_caroliniana_3.JPG
+Date: 2009-05-21T00:23:31Z
+License: Public domain
+
+Image: Carpinus caroliniana fallen leaves.jpg
+Author: Nadiatalent
+Comment: User created page with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Carpinus_caroliniana_fallen_leaves.jpg
+Date: 2014-10-19T12:00:01Z
+License: CC BY-SA 4.0
 

@@ -1,81 +1,42 @@
-Image Name: Eastern Hemlock Branch 253271179.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/0/0f/Eastern_Hemlock_Branch_253271179.jpg
-Date/Time: 2023-01-23T22:48:36Z
-User: FishGuyNoah
-Comment: {{Information
-|description={{en|eastern hemlock (''Tsuga canadensis'')}}
-|date=2023-01-23
-|source=https://www.inaturalist.org/photos/253271179
-|author=[https://www.inaturalist.org/users/6295544 Noah Poropat]
-|permission=
-|other versions=
-}}
-{{Location|43.8334783429|-79.5963216667}}
-{{iNaturalist|147212215}}
-{{iNaturalistreview}}
-
-[[Category:Tsuga canadensis]]
-[[Category:Uploaded with iNaturalist2Commons]]
-Dimensions: 1536 x 2048
-File Size: 781692 bytes
+Image: Eastern Hemlock Branch 253271179.jpg
+Author: Noah Poropat
+Comment: {{Information |description={{en|eastern hemlock (''Tsuga canadensis'')}} |date=2023-01-23 |source=https://www.inaturalist.org/photos/253271179 |author=[https://www.inaturalist.org/users/6295544 Noah Poropat] |permission= |other versions= }} {{Location|43.8334783429|-79.5963216667}} {{iNaturalist|147212215}} {{iNaturalistreview}} [[Category:Tsuga canadensis]] [[Category:Uploaded with iNaturalist2Commons]]
+URL: https://commons.wikimedia.org/wiki/File:Eastern_Hemlock_Branch_253271179.jpg
+Date: 2023-01-23T22:48:36Z
 License: CC BY 4.0
 
-Image Name: Hemlock's deciduous nature.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/92/Hemlock%27s_deciduous_nature.jpg
-Date/Time: 2013-10-11T00:36:53Z
-User: DigbyDalton
+Image: Hemlock's deciduous nature.jpg
+Author: DigbyDalton
 Comment: User created page with UploadWizard
-Dimensions: 1280 x 1024
-File Size: 309604 bytes
+URL: https://commons.wikimedia.org/wiki/File:Hemlock's_deciduous_nature.jpg
+Date: 2013-10-11T00:36:53Z
 License: CC BY-SA 3.0
 
-Image Name: Img tsuga canadensis sargentii 1891.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/b/b0/Img_tsuga_canadensis_sargentii_1891.jpg
-Date/Time: 2007-05-12T21:26:39Z
-User: Circeus
-Comment: ''[[Tsuga canadensis]]'' 'Sargentii'
-
-Photo taken by [[en:User:Henryhartley]] on May 22, 2004 at [[Longwood Gardens]]. Uploaded on en: on 15:20, May 13, 2005
-
-{{GFDL-user-w|en|English Wikipedia|Henryhartley}}
-Dimensions: 700 x 467
-File Size: 98854 bytes
+Image: Img tsuga canadensis sargentii 1891.jpg
+Author: Henryhartley
+Comment: ''[[Tsuga canadensis]]'' 'Sargentii' Photo taken by [[en:User:Henryhartley]] on May 22, 2004 at [[Longwood Gardens]]. Uploaded on en: on 15:20, May 13, 2005 {{GFDL-user-w|en|English Wikipedia|Henryhartley}}
+URL: https://commons.wikimedia.org/wiki/File:Img_tsuga_canadensis_sargentii_1891.jpg
+Date: 2007-05-12T21:26:39Z
 License: CC BY-SA 3.0
 
-Image Name: Stand of Eastern Hemlock and White Pine in Tiadaghton State Forest, Pennsylvania.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/41/Stand_of_Eastern_Hemlock_and_White_Pine_in_Tiadaghton_State_Forest%2C_Pennsylvania.jpg
-Date/Time: 2014-07-20T06:44:23Z
-User: Karmos
-Comment: {{Information
-|Description    ={{en|1=Hemlock–white pine forest along the Pine Trail, Tiadaghton State Forest, Lycoming County.}}
-|Source         =https://www.flickr.com/photos/nicholas_t/13982107643/in/photolist-nixXtr-ngvw2D-neKxhJ-ngPLDG-niy5SK/
-|...
-Dimensions: 5184 x 3456
-File Size: 17208280 bytes
+Image: Stand of Eastern Hemlock and White Pine in Tiadaghton State Forest, Pennsylvania.jpg
+Author: Nicholas A. Tonelli
+Comment: {{Information |Description ={{en|1=Hemlockâ€“white pine forest along the Pine Trail, Tiadaghton State Forest, Lycoming County.}} |Source =https://www.flickr.com/photos/nicholas_t/13982107643/in/photolist-nixXtr-ngvw2D-neKxhJ-ngPLDG-niy5SK/ |...
+URL: https://commons.wikimedia.org/wiki/File:Stand_of_Eastern_Hemlock_and_White_Pine_in_Tiadaghton_State_Forest,_Pennsylvania.jpg
+Date: 2014-07-20T06:44:23Z
 License: CC BY 2.0
 
-Image Name: TsugaCanadensisBark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/13/TsugaCanadensisBark.jpg
-Date/Time: 2011-10-28T18:42:04Z
-User: Forstbirdo
-Comment: == Summary ==
-{{Information
- |Description    = A photograph of the bark of Tsuga canadensis.
- |Source         = I ([[User:Chhe|Chhe]] ([[User talk:Chhe|talk]])) created this work entirely by myself.
- |Date           = April 10, 2010
- |Author         = [[U
-Dimensions: 3000 x 4000
-File Size: 4573680 bytes
+Image: TsugaCanadensisBark.jpg
+Author: Chhe at English Wikipedia
+Comment: == Summary == {{Information |Description = A photograph of the bark of Tsuga canadensis. |Source = I ([[User:Chhe|Chhe]] ([[User talk:Chhe|talk]])) created this work entirely by myself. |Date = April 10, 2010 |Author = [[U
+URL: https://commons.wikimedia.org/wiki/File:TsugaCanadensisBark.jpg
+Date: 2011-10-28T18:42:04Z
 License: Public domain
 
-Image Name: Tsuga canadensis adelges.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/0/08/Tsuga_canadensis_adelges.jpg
-Date/Time: 2007-05-12T21:23:11Z
-User: Circeus
-Comment: [[Eastern Hemlock]] with Woolly Adelgid infestation - US Forest Service photo originally from [http://www.fs.fed.us/na/morgantown/fhp/hwa/pneedles1.jpg] (site has been taken offline)
-
-{{PD-USGov-USDA-FS}}
-Dimensions: 594 x 391
-File Size: 40078 bytes
+Image: Tsuga canadensis adelges.jpg
+Author: US Forest Service
+Comment: [[Eastern Hemlock]] with Woolly Adelgid infestation - US Forest Service photo originally from [http://www.fs.fed.us/na/morgantown/fhp/hwa/pneedles1.jpg] (site has been taken offline) {{PD-USGov-USDA-FS}}
+URL: https://commons.wikimedia.org/wiki/File:Tsuga_canadensis_adelges.jpg
+Date: 2007-05-12T21:23:11Z
 License: Public domain
 

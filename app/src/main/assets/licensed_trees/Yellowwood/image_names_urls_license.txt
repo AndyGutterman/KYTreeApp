@@ -1,31 +1,21 @@
-Image Name: Cladrastis kentukea Yellowwood Branch 2000px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a7/Cladrastis_kentukea_Yellowwood_Branch_2000px.jpg
-Date/Time: 2006-09-10T05:05:23Z
-User: Ram-Man
-Comment: {{Information
-|Description=This is an uncategorized photograph.  I will add the full description soon. 
-|Source=Own Picture.
-|Date=Saturday, September 9, 2006
-|Author=Photo (c)2006 Derek Ramsey ([[:en:User:Ram-Man|Ram-Man]])
-|Permission=You may '''NOT''' 
-Dimensions: 2000 x 2871
-File Size: 2989908 bytes
+Image: Cladrastis kentukea Yellowwood Branch 2000px.jpg
+Author: Photo (c)2006 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=This is an uncategorized photograph. I will add the full description soon. |Source=Own Picture. |Date=Saturday, September 9, 2006 |Author=Photo (c)2006 Derek Ramsey ([[:en:User:Ram-Man|Ram-Man]]) |Permission=You may '''NOT'''
+URL: https://commons.wikimedia.org/wiki/File:Cladrastis_kentukea_Yellowwood_Branch_2000px.jpg
+Date: 2006-09-10T05:05:23Z
 License: CC BY-SA 2.5
 
-Image Name: Yellow WoodTree Bark and low branching-Cladrastis kentukea, family Fabaceae.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2d/Yellow_WoodTree_Bark_and_low_branching-Cladrastis_kentukea%2C_family_Fabaceae.jpg
-Date/Time: 2012-09-01T01:47:31Z
-User: MichaelSchwing
-Comment: {{Information
-|Description=
-|Source={{own}}
-|Date=
-|Author= [[User:MichaelSchwing|MichaelSchwing]]
-|Permission=
-|other_versions=
-}}
-
-Dimensions: 479 x 359
-File Size: 40754 bytes
+Image: Yellow WoodTree Bark and low branching-Cladrastis kentukea, family Fabaceae.jpg
+Author: MichaelSchwing
+Comment: {{Information |Description= |Source={{own}} |Date= |Author= [[User:MichaelSchwing|MichaelSchwing]] |Permission= |other_versions= }}
+URL: https://commons.wikimedia.org/wiki/File:Yellow_WoodTree_Bark_and_low_branching-Cladrastis_kentukea,_family_Fabaceae.jpg
+Date: 2012-09-01T01:47:31Z
 License: CC BY 3.0
+
+Image: Cladrastis kentukea kz02.jpg
+Author: Krzysztof Ziarnek, Kenraiz
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Cladrastis_kentukea_kz02.jpg
+Date: 2023-06-12T19:53:23Z
+License: CC BY-SA 4.0
 

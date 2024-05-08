@@ -1,37 +1,28 @@
-Image Name: 2013-05-10 13 16 53 New foliage of White Oak along the Mount Misery Trail in Brendan T. Byrne State Forest, New Jersey.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a7/2013-05-10_13_16_53_New_foliage_of_White_Oak_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg
-Date/Time: 2013-06-01T03:15:17Z
-User: Famartin
+Image: 2013-05-10 13 16 53 New foliage of White Oak along the Mount Misery Trail in Brendan T. Byrne State Forest, New Jersey.jpg
+Author: Famartin
 Comment: User created page with UploadWizard
-Dimensions: 2256 x 1440
-File Size: 1832117 bytes
+URL: https://commons.wikimedia.org/wiki/File:2013-05-10_13_16_53_New_foliage_of_White_Oak_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest,_New_Jersey.jpg
+Date: 2013-06-01T03:15:17Z
 License: CC BY-SA 3.0
 
-Image Name: Ancient White Oak in Bronte, Oakville, Ontario.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ancient_White_Oak_in_Bronte%2C_Oakville%2C_Ontario.jpg
-Date/Time: 2021-12-10T18:25:41Z
-User: Bay & Gables
+Image: Ancient White Oak in Bronte, Oakville, Ontario.jpg
+Author: Bay & Gables
 Comment: Uploaded own work with UploadWizard
-Dimensions: 4000 x 3000
-File Size: 5185024 bytes
+URL: https://commons.wikimedia.org/wiki/File:Ancient_White_Oak_in_Bronte,_Oakville,_Ontario.jpg
+Date: 2021-12-10T18:25:41Z
 License: CC BY-SA 4.0
 
-Image Name: Charter Oak in Hartford CT.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/b/b3/Charter_Oak_in_Hartford_CT.jpg
-Date/Time: 2006-02-08T21:00:38Z
-User: Leifern
-Comment: Depiction of the Charter Oak in Hartford, CT
-[[Category:History of Connecticut]]
-Dimensions: 555 x 421
-File Size: 111518 bytes
+Image: Charter Oak in Hartford CT.jpg
+Author: Unknown
+Comment: Depiction of the Charter Oak in Hartford, CT [[Category:History of Connecticut]]
+URL: https://commons.wikimedia.org/wiki/File:Charter_Oak_in_Hartford_CT.jpg
+Date: 2006-02-08T21:00:38Z
 License: Public domain
 
-Image Name: Keeler Oak Tree - distance photo, May 2013.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e6/Keeler_Oak_Tree_-_distance_photo%2C_May_2013.jpg
-Date/Time: 2013-07-10T11:11:39Z
-User: File Upload Bot (Magnus Manske)
+Image: Keeler Oak Tree - distance photo, May 2013.jpg
+Author: Marty Aligata at English Wikipedia
 Comment: Transfered from en.wikipedia by [[User:Quadell]] using CommonsHelper
-Dimensions: 2090 x 1680
-File Size: 1157005 bytes
+URL: https://commons.wikimedia.org/wiki/File:Keeler_Oak_Tree_-_distance_photo,_May_2013.jpg
+Date: 2013-07-10T11:11:39Z
 License: CC BY-SA 3.0
 

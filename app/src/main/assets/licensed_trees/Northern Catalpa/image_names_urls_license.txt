@@ -1,84 +1,42 @@
-Image Name: Catalpa speciosa in flower along Nevada State Route 289...
-URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/2014-06-12_10_43_09_Catalpa_speciosa_in_flower_along_Nevada_State_Route_289_%28Winnemucca_Boulevard%29_near_U.S._Route_95_%28West_Winnemucca_Boulevard_and_Melarkey_Street%29_in_Winnemucca%2C_Nevada-cropped.jpg
-Date/Time: 2014-06-19T04:35:43Z
-User: Famartin
+Image: 2014-06-12 10 43 09 Catalpa speciosa in flower along Nevada State Route 289 (Winnemucca Boulevard) near U.S. Route 95 (West Winnemucca Boulevard and Melarkey Street) in Winnemucca, Nevada-cropped.jpg
+Author: Famartin
 Comment: User created page with UploadWizard
-Dimensions: 2016 x 2476
-File Size: 3254990 bytes
+URL: https://commons.wikimedia.org/wiki/File:2014-06-12_10_43_09_Catalpa_speciosa_in_flower_along_Nevada_State_Route_289_(Winnemucca_Boulevard)_near_U.S._Route_95_(West_Winnemucca_Boulevard_and_Melarkey_Street)_in_Winnemucca,_Nevada-cropped.jpg
+Date: 2014-06-19T04:35:43Z
 License: CC BY-SA 3.0
 
-Image Name: Catalpa speciosa 20060624.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/7d/Catalpa_speciosa_20060624.jpg
-Date/Time: 2006-06-27T03:33:11Z
-User: Carnildo
-Comment: {{Information
-|Description=Catalpa speciosa (Northern Catalpa), photographed at the University of Idaho Arboreturm and Botanical Garden
-|Source=Own work
-|Date=June 24, 2006
-|Author=Mark Wagner
-|Permission=Creative Commons Attribution
-|other_versions=
-}}
-Dimensions: 1326 x 1638
-File Size: 741293 bytes
+Image: Catalpa speciosa 20060624.jpg
+Author: Mark Wagner
+Comment: {{Information |Description=Catalpa speciosa (Northern Catalpa), photographed at the University of Idaho Arboreturm and Botanical Garden |Source=Own work |Date=June 24, 2006 |Author=Mark Wagner |Permission=Creative Commons Attribution |other_versions= }}
+URL: https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_20060624.jpg
+Date: 2006-06-27T03:33:11Z
 License: CC BY 2.5
 
-Image Name: Catalpa speciosa leaf 20060624.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/0/03/Catalpa_speciosa_leaf_20060624.jpg
-Date/Time: 2006-06-27T03:35:27Z
-User: Carnildo
-Comment: {{Information
-|Description=Catalpa speciosa (Northern Catalpa) leaf detail, photographed at the University of Idaho Arboreturm and Botanical Garden
-|Source=Own work
-|Date=June 24, 2006
-|Author=Mark Wagner
-|Permission=Creative Commons Attribution
-|other_ve
-Dimensions: 992 x 1388
-File Size: 281706 bytes
+Image: Catalpa speciosa leaf 20060624.jpg
+Author: Mark Wagner
+Comment: {{Information |Description=Catalpa speciosa (Northern Catalpa) leaf detail, photographed at the University of Idaho Arboreturm and Botanical Garden |Source=Own work |Date=June 24, 2006 |Author=Mark Wagner |Permission=Creative Commons Attribution |other_ve
+URL: https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_leaf_20060624.jpg
+Date: 2006-06-27T03:35:27Z
 License: CC BY 2.5
 
-Image Name: Cataspec.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/93/Cataspec.jpg
-Date/Time: 2006-12-13T21:24:49Z
-User: Rosarinagazo
-Comment: Imagen de flores y frutos de [[Catalpa]]
-http://en.wikipedia.org/wiki/Image:Cataspec.jpg
-Author: USGS
-(''Catalpa speciosa'' flowers, leaf & bark) 
-[[Category:Trees]]
-Dimensions: 250 x 348
-File Size: 41525 bytes
+Image: Cataspec.jpg
+Author: Unknown
+Comment: Imagen de flores y frutos de [[Catalpa]] http://en.wikipedia.org/wiki/Image:Cataspec.jpg Author: USGS (''Catalpa speciosa'' flowers, leaf & bark) [[Category:Trees]]
+URL: https://commons.wikimedia.org/wiki/File:Cataspec.jpg
+Date: 2006-12-13T21:24:49Z
 License: Public domain
 
-Image Name: Flowering Northern Catalpa.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/ac/Flowering_Northern_Catalpa.jpg
-Date/Time: 2009-05-30T20:45:28Z
-User: Wissembourg
-Comment: {{Information
- |Description    = A Northern Catalpa tree flowering in Dallas, Tex.
- |Source         = I created this work entirely by myself.
- |Date           = May, 2009
- |Author         = ~~~
- |other_versions = 
-}}
-Dimensions: 1186 x 949
-File Size: 335551 bytes
+Image: Flowering Northern Catalpa.jpg
+Author: Wissembourg (talk)
+Comment: {{Information |Description = A Northern Catalpa tree flowering in Dallas, Tex. |Source = I created this work entirely by myself. |Date = May, 2009 |Author = ~~~ |other_versions = }}
+URL: https://commons.wikimedia.org/wiki/File:Flowering_Northern_Catalpa.jpg
+Date: 2009-05-30T20:45:28Z
 License: CC BY-SA 3.0
 
-Image Name: Northern Catalpa beanpods.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/0/00/Northern_Catalpa_beanpods.jpg
-Date/Time: 2006-08-12T07:22:03Z
-User: MONGO
-Comment: {{Information
-|Description= Bean pod and leave details of the Northern [[:en:Catalpa]] tree.
-|Source=
-|Date=
-|Author=
-|Permission=
-|other_versions=
-}}
-Dimensions: 1750 x 1532
-File Size: 768248 bytes
+Image: Northern Catalpa beanpods.jpg
+Author: Unknown
+Comment: {{Information |Description= Bean pod and leave details of the Northern [[:en:Catalpa]] tree. |Source= |Date= |Author= |Permission= |other_versions= }}
+URL: https://commons.wikimedia.org/wiki/File:Northern_Catalpa_beanpods.jpg
+Date: 2006-08-12T07:22:03Z
 License: Public domain
 

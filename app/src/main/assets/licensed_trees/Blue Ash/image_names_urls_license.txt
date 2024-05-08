@@ -1,0 +1,35 @@
+Image: Fraxinus quadrangulata.JPG
+Author: Mason Brock (Masebrock)
+Comment: Transferred from en.wikipedia
+URL: https://commons.wikimedia.org/wiki/File:Fraxinus_quadrangulata.JPG
+Date: 2014-06-27T12:31:12Z
+License: Public domain
+
+Image: Fraxinus quadrangulata trunk.jpg
+Author: Calvinnathanhobbes
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Fraxinus_quadrangulata_trunk.jpg
+Date: 2021-12-11T05:28:22Z
+License: CC BY-SA 4.0
+
+Image: Fraxinus quadrangulata bark.jpg
+Author: Richard Webb, Bugwood.org, USA
+Comment: {{Information |Description={{en|1=''[[Fraxinus quadrangulata]]'' bark }} |Source=[http://www.forestryimages.org/browse/detail.cfm?imgnum=1480192 Forestryimages] |Author=Richard Webb, Bugwood.org, USA |Date=Undated |Permission={{cc-by-3.0-us}} |other_versi
+URL: https://commons.wikimedia.org/wiki/File:Fraxinus_quadrangulata_bark.jpg
+Date: 2008-12-01T23:12:41Z
+License: CC BY 3.0 us
+
+Image: Fraxinus quadrangulata (blue ash tree) 7.jpg
+Author: James St. John
+Comment: Uploaded a work by James St. John from https://www.flickr.com/photos/47445767@N05/53340622674/ with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Fraxinus_quadrangulata_(blue_ash_tree)_7.jpg
+Date: 2023-11-28T21:07:23Z
+License: CC BY 2.0
+
+Image: Fraxinus quadrangulata (blue ash tree) 4.jpg
+Author: James St. John
+Comment: Uploaded a work by James St. John from https://www.flickr.com/photos/47445767@N05/53340515993/ with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Fraxinus_quadrangulata_(blue_ash_tree)_4.jpg
+Date: 2023-11-28T21:07:36Z
+License: CC BY 2.0
+

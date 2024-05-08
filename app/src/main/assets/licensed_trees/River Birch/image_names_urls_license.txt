@@ -1,27 +1,35 @@
-Image Name: Betula nigra (river birch) (27880297709).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/60/Betula_nigra_%28river_birch%29_%2827880297709%29.jpg
-Date/Time: 2019-11-12T04:55:09Z
-User: Ser Amantio di Nicolao
+Image: Betula nigra (river birch) (27880297709).jpg
+Author: James St. John
 Comment: Transferred from Flickr via #flickr2commons
-Dimensions: 2290 x 2000
-File Size: 4728921 bytes
+URL: https://commons.wikimedia.org/wiki/File:Betula_nigra_(river_birch)_(27880297709).jpg
+Date: 2019-11-12T04:55:09Z
 License: CC BY 2.0
 
-Image Name: Betula nigra bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/5c/Betula_nigra_bark.jpg
-Date/Time: 2024-04-12T01:33:37Z
-User: Awinch1001
+Image: Betula nigra bark.jpg
+Author: Awinch1001
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3024 x 4032
-File Size: 7679290 bytes
+URL: https://commons.wikimedia.org/wiki/File:Betula_nigra_bark.jpg
+Date: 2024-04-12T01:33:37Z
 License: CC0
 
-Image Name: Mature river birch.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/94/Mature_river_birch.jpg
-Date/Time: 2024-04-12T01:33:37Z
-User: Awinch1001
+Image: Mature river birch.jpg
+Author: Awinch1001
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3024 x 4032
-File Size: 7405509 bytes
+URL: https://commons.wikimedia.org/wiki/File:Mature_river_birch.jpg
+Date: 2024-04-12T01:33:37Z
 License: CC0
+
+Image: River Birch (31193307151).jpg
+Author: Katja Schulz from Washington, D. C., USA
+Comment: Transferred from Flickr via #flickr2commons
+URL: https://commons.wikimedia.org/wiki/File:River_Birch_(31193307151).jpg
+Date: 2019-08-11T00:53:58Z
+License: CC BY 2.0
+
+Image: Betula nigra - River Birch.jpg
+Author: Fritzflohrreynolds
+Comment: User created page with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Betula_nigra_-_River_Birch.jpg
+Date: 2014-02-26T03:26:56Z
+License: CC BY-SA 3.0
 

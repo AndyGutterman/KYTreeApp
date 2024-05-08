@@ -1,26 +1,35 @@
-Image Name: Gymnocladus-dioicus.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/Gymnocladus-dioicus.jpg
-Date/Time: 2012-09-02T22:21:46Z
-User: MGA73bot2
-Comment: 
-{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
-== {{int:filedesc}} ==
-{{Information
-|description={{en|1=''Gymnocladus dioicus'' fruits, self made image taken in mid August.}}
-|dat...
-Dimensions: 1716 x 2442
-File Size: 1315901 bytes
+Image: Gymnocladus-dioicus.jpg
+Author: Hardyplants at English Wikipedia
+Comment: {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} == {{int:filedesc}} == {{Information |description={{en|1=''Gymnocladus dioicus'' fruits, self made image taken in mid August.}} |dat...
+URL: https://commons.wikimedia.org/wiki/File:Gymnocladus-dioicus.jpg
+Date: 2012-09-02T22:21:46Z
 License: Public domain
 
-Image Name: Kentucky Coffee-tree Gymnocladus dioicus 3264px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/ce/Kentucky_Coffee-tree_Gymnocladus_dioicus_3264px.jpg
-Date/Time: 2007-03-11T02:14:15Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of the {{MultiLink|Kentucky Coffee-tree}} ({{BioLinkSpecies|Gymnocladus dioicus}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
-| camera = 8700
-| focallength 
-Dimensions: 3264 x 2448
-File Size: 3010717 bytes
+Image: Kentucky Coffee-tree Gymnocladus dioicus 3264px.jpg
+Author: Photo (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of the {{MultiLink|Kentucky Coffee-tree}} ({{BioLinkSpecies|Gymnocladus dioicus}}). Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1 | camera = 8700 | focallength
+URL: https://commons.wikimedia.org/wiki/File:Kentucky_Coffee-tree_Gymnocladus_dioicus_3264px.jpg
+Date: 2007-03-11T02:14:15Z
 License: CC BY-SA 2.5
+
+Image: Gymnocladus dioicus.JPG
+Author: Bruce Marlin
+Comment: {{Information |Description={{en|1=Kentucky Coffee Tree, ''Gymnocladus dioicus''. Morton Arboretum acc. 586-81-1. }} |Source=Own work http://www.cirrusimage.com/tree_Kentucky_Coffee.htm |Author=[[User:Bruce Marlin|Bruce Marlin]] |Date=05/31/2007 |Permissi
+URL: https://commons.wikimedia.org/wiki/File:Gymnocladus_dioicus.JPG
+Date: 2009-08-03T17:09:40Z
+License: CC BY 3.0
+
+Image: Gymnocladus dioicus seeds.jpg
+Author: Gmihail at Serbian Wikipedia
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Gymnocladus_dioicus_seeds.jpg
+Date: 2021-04-14T14:57:42Z
+License: CC BY-SA 3.0 rs
+
+Image: Gymnocladus dioicus Jevremovac.jpg
+Author: Gmihail at Serbian Wikipedia
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Gymnocladus_dioicus_Jevremovac.jpg
+Date: 2021-04-14T14:57:40Z
+License: CC BY-SA 3.0 rs
 

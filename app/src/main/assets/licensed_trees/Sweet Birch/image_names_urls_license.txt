@@ -1,15 +1,28 @@
-Image Name: BetulaLentaBark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/6f/BetulaLentaBark.jpg
-Date/Time: 2012-01-29T18:18:12Z
-User: BotMultichillT
-Comment: 
-{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
-== {{int:filedesc}} ==
-{{Information
-|description={{en|1=A picture of the bark of Betula lenta.}}
-|date=June 6, 2009
-|source=I created 
-Dimensions: 2816 x 2112
-File Size: 3506135 bytes
+Image: BetulaLentaBark.jpg
+Author: Chhe (talk)
+Comment: {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} == {{int:filedesc}} == {{Information |description={{en|1=A picture of the bark of Betula lenta.}} |date=June 6, 2009 |source=I created
+URL: https://commons.wikimedia.org/wiki/File:BetulaLentaBark.jpg
+Date: 2012-01-29T18:18:12Z
 License: Public domain
+
+Image: Betula lenta 1.jpg
+Author: Lynk media
+Comment: {{Information |Description= Betula Lenta |Source=self-made |Date= |Author= [[User:Lynk media|Lynk media]] }} [[Category:Betula lenta]]
+URL: https://commons.wikimedia.org/wiki/File:Betula_lenta_1.jpg
+Date: 2007-09-28T14:10:44Z
+License: CC BY-SA 3.0
+
+Image: Black Birch Tree at Westmoor Park, West Hartford, CT (November 2022).jpg
+Author: Msact
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Black_Birch_Tree_at_Westmoor_Park,_West_Hartford,_CT_(November_2022).jpg
+Date: 2024-04-21T01:52:49Z
+License: CC BY-SA 4.0
+
+Image: Betula lenta Liliental 01.jpg
+Author: Adrian Thomale
+Comment: == {{int:filedesc}} == {{Information |Description ={{de|1=Zuckerbirke im [[:de:Liliental|Liliental]] im [[:de:Kaiserstuhl (Baden)|Kaiserstuhl]] bei [[:de:Ihringen|Ihringen]].}} |Source ={{own}} |Author =Adrian Thomale |Date...
+URL: https://commons.wikimedia.org/wiki/File:Betula_lenta_Liliental_01.jpg
+Date: 2014-11-18T13:28:05Z
+License: CC BY-SA 3.0
 

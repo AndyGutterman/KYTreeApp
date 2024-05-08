@@ -1,39 +1,21 @@
-Image Name: Liriodendron-tulipifera-bud.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c1/Liriodendron-tulipifera-bud.jpg
-Date/Time: 2009-06-04T17:42:57Z
-User: Sten
-Comment: {{Information
-|Description={{da|1=[[:da:Almindelig Tulipantr�|Almindelig Tulipantr�]] (''Liriodendron tulipifera''): Blomsterknop. Kew Garden.}}
-{{en|1=''Liriodendron tulipifera'': Flower bud. Kew Garden.}}
-|Source=Own work by uploader
-|Author=[[User:St
-Dimensions: 1360 x 908
-File Size: 727039 bytes
+Image: Liriodendron-tulipifera-bud.jpg
+Author: Sten Porse
+Comment: {{Information |Description={{da|1=[[:da:Almindelig Tulipantræ|Almindelig Tulipantræ]] (''Liriodendron tulipifera''): Blomsterknop. Kew Garden.}} {{en|1=''Liriodendron tulipifera'': Flower bud. Kew Garden.}} |Source=Own work by uploader |Author=[[User:St
+URL: https://commons.wikimedia.org/wiki/File:Liriodendron-tulipifera-bud.jpg
+Date: 2009-06-04T17:42:57Z
 License: CC BY-SA 3.0
 
-Image Name: Liriodendron tulipifera12.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/5c/Liriodendron_tulipifera12.jpg
-Date/Time: 2007-05-23T13:26:40Z
-User: KENPEI
-Comment: Encoding Error
-Dimensions: 2304 x 1712
-File Size: 492093 bytes
+Image: Liriodendron tulipifera12.jpg
+Author: KENPEI
+Comment: ;Scientific name: Liriodendron tulipifera *{{ja|ユリノキ}} Place:Osaka-fu Japan {{Information| |Description = Liriodendron tulipifera |Source = KENPEI's photo |Date = 2007-05-20 |Author = KENPEI |Permission =GFDL,Creative Commons Attribution Share
+URL: https://commons.wikimedia.org/wiki/File:Liriodendron_tulipifera12.jpg
+Date: 2007-05-23T13:26:40Z
 License: CC BY-SA 3.0
 
-Image Name: Liriodendron tulipifera JPG5a.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/af/Liriodendron_tulipifera_JPG5a.jpg
-Date/Time: 2007-12-08T13:03:13Z
-User: Jean-Pol GRANDMONT
-Comment: {{Information
-|Description='''Tulipier de Virginie''' ([[Liriodendron tulipifera]]).
-|Source=travail personnel
-|Date=6.11.2007
-|Author= [[User:Jean-Pol GRANDMONT|Jean-Pol GRANDMONT]]
-|Permission=see below
-|other_versions=
-}}
-
-Dimensions: 1500 x 2250
-File Size: 2896368 bytes
+Image: Liriodendron tulipifera JPG5a.jpg
+Author: Jean-Pol GRANDMONT
+Comment: {{Information |Description='''Tulipier de Virginie''' ([[Liriodendron tulipifera]]). |Source=travail personnel |Date=6.11.2007 |Author= [[User:Jean-Pol GRANDMONT|Jean-Pol GRANDMONT]] |Permission=see below |other_versions= }}
+URL: https://commons.wikimedia.org/wiki/File:Liriodendron_tulipifera_JPG5a.jpg
+Date: 2007-12-08T13:03:13Z
 License: CC BY 3.0
 

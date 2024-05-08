@@ -1,41 +1,28 @@
-Image Name: Black Walnut Juglans nigra Nut 2400px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/74/Black_Walnut_Juglans_nigra_Nut_2400px.jpg
-Date/Time: 2018-07-07T08:13:24Z
-User: Archaeodontosaurus
+Image: Black Walnut Juglans nigra Nut 2400px.jpg
+Author: Photo by and (c)2007 Derek Ramsey (Ram-Man).  Location credit to the Chanticleer Garden.
 Comment: Corrections
-Dimensions: 2400 x 2000
-File Size: 3455016 bytes
+URL: https://commons.wikimedia.org/wiki/File:Black_Walnut_Juglans_nigra_Nut_2400px.jpg
+Date: 2018-07-07T08:13:24Z
 License: CC BY-SA 3.0
 
-[[Category:Juglans nigra (fruit)]]
-Dimensions: 3091 x 3057
-File Size: 5026141 bytes
-License: CC0
-
-Image Name: Black walnut cracked open to expose meat.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/61/Black_walnut_cracked_open_to_expose_meat.jpg
-Date/Time: 2022-12-03T20:06:56Z
-User: Geo Lightspeed7
+Image: Black walnut cracked open to expose meat.jpg
+Author: Geo Lightspeed7
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3264 x 2448
-File Size: 1918320 bytes
+URL: https://commons.wikimedia.org/wiki/File:Black_walnut_cracked_open_to_expose_meat.jpg
+Date: 2022-12-03T20:06:56Z
 License: CC BY-SA 4.0
 
-Image Name: Black walnut fruits on the ground.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/75/Black_walnut_fruits_on_the_ground.jpg
-Date/Time: 2022-12-10T00:40:12Z
-User: Geo Lightspeed7
+Image: Black walnut fruits on the ground.jpg
+Author: Geo Lightspeed7
 Comment: Uploaded own work with UploadWizard
-Dimensions: 2448 x 3264
-File Size: 4131090 bytes
+URL: https://commons.wikimedia.org/wiki/File:Black_walnut_fruits_on_the_ground.jpg
+Date: 2022-12-10T00:40:12Z
 License: CC BY-SA 4.0
 
-Image Name: Black walnut tree.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/b/b1/Black_walnut_tree.jpg
-Date/Time: 2021-10-10T21:29:19Z
-User: Geo Lightspeed7
+Image: Black walnut tree.jpg
+Author: Geo Lightspeed7
 Comment: Uploaded own work with UploadWizard
-Dimensions: 2448 x 3264
-File Size: 3902175 bytes
+URL: https://commons.wikimedia.org/wiki/File:Black_walnut_tree.jpg
+Date: 2021-10-10T21:29:19Z
 License: CC BY-SA 4.0
 

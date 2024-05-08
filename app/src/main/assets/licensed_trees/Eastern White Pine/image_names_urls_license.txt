@@ -1,46 +1,36 @@
-Image Name: InsectsAffectingWhitePine.jpg
-URL: https://upload.wikimedia.org/wikipedia/en/9/9d/InsectsAffectingWhitePine.jpg
-Date/Time: 2008-01-29T18:19:23Z
-User: Camazine
-Comment: {{Information
-|Description = Pest insects affecting white pine.  This illustrations shows: 1. Nearly full grown larva of imperial moth, Basilona imperralis Drury; 2. Masses of the pine bark louwe, Chermes pinicorticis Fitch; 3. Pupal cells of white pine w
-Dimensions: 845 x 1200
-File Size: 537058 bytes
+Image: InsectsAffectingWhitePine.jpg
+Author: L. H. Joutel
+
+Comment: {{Information |Description = Pest insects affecting white pine. This illustrations shows: 1. Nearly full grown larva of imperial moth, Basilona imperralis Drury; 2. Masses of the pine bark louwe, Chermes pinicorticis Fitch; 3. Pupal cells of white pine w
+URL: https://commons.wikimedia.org/wiki/File:InsectsAffectingWhitePine.jpg
+Date: 2008-01-29T18:19:23Z
 License: PD-US
 
-Image Name: Large eastern white Pine in Southern Ontario, Canada.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Large_eastern_white_Pine_in_Southern_Ontario%2C_Canada.jpg
-Date/Time: 2021-04-09T15:13:46Z
-User: Bay & Gables
+Image: Large eastern white Pine in Southern Ontario, Canada.jpg
+Author: Bay & Gables
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3000 x 4000
-File Size: 4195047 bytes
+URL: https://commons.wikimedia.org/wiki/File:Large_eastern_white_Pine_in_Southern_Ontario,_Canada.jpg
+Date: 2021-04-09T15:13:46Z
 License: CC BY-SA 4.0
 
-Image Name: Malecones.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/3/3f/Malecones.jpg
-Date/Time: 2016-06-23T01:33:38Z
-User: DigbyDalton
+Image: Malecones.jpg
+Author: DigbyDalton
 Comment: User created page with UploadWizard
-Dimensions: 1280 x 720
-File Size: 157163 bytes
+URL: https://commons.wikimedia.org/wiki/File:Malecones.jpg
+Date: 2016-06-23T01:33:38Z
 License: CC BY-SA 4.0
 
-Image Name: Mature White Pine.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c3/Mature_White_Pine.jpg
-Date/Time: 2020-03-30T18:06:20Z
-User: Bernini123
+Image: Mature White Pine.jpg
+Author: Bernini123
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3072 x 4096
-File Size: 3972943 bytes
+URL: https://commons.wikimedia.org/wiki/File:Mature_White_Pine.jpg
+Date: 2020-03-30T18:06:20Z
 License: CC BY-SA 4.0
 
-Image Name: Pinus Strobus 'Diggy'.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/66/Pinus_Strobus_%27Diggy%27.jpg
-Date/Time: 2024-04-09T00:00:43Z
-User: Awinch1001
+Image: Pinus Strobus 'Diggy'.jpg
+Author: Awinch1001
 Comment: Uploaded own work with UploadWizard
-Dimensions: 3024 x 4032
-File Size: 7175433 bytes
+URL: https://commons.wikimedia.org/wiki/File:Pinus_Strobus_'Diggy'.jpg
+Date: 2024-04-09T00:00:43Z
 License: CC0
 

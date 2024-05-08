@@ -1,29 +1,21 @@
-Image Name: Chestnut Oak.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/64/Chestnut_Oak.jpg
-Date/Time: 2007-10-25T18:36:36Z
-User: Denniss
+Image: Chestnut Oak.jpg
+Author: Mwanner
 Comment: 
-Dimensions: 1536 x 2048
-File Size: 1032516 bytes
+URL: https://commons.wikimedia.org/wiki/File:Chestnut_Oak.jpg
+Date: 2007-10-25T18:36:36Z
 License: CC BY-SA 3.0
 
-Image Name: Chestnut Oak Bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/b/b6/Chestnut_Oak_Bark.jpg
-Date/Time: 2007-10-25T18:34:27Z
-User: Denniss
+Image: Chestnut Oak Bark.jpg
+Author: Mwanner
 Comment: 
-Dimensions: 1536 x 2048
-File Size: 915691 bytes
+URL: https://commons.wikimedia.org/wiki/File:Chestnut_Oak_Bark.jpg
+Date: 2007-10-25T18:34:27Z
 License: CC BY-SA 3.0
 
-Image Name: Chestnut oak rock.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/ef/Chestnut_oak_rock.jpg
-Date/Time: 2014-03-21T11:16:31Z
-User: FSV
+Image: Chestnut oak rock.jpg
+Author: Jaknouse at English Wikipedia
 Comment: from [[w:File:Chestnut oak rock.jpg|File:Chestnut oak rock.jpg]]
-Dimensions: 816 x 616
-File Size: 151983 bytes
+URL: https://commons.wikimedia.org/wiki/File:Chestnut_oak_rock.jpg
+Date: 2014-03-21T11:16:31Z
 License: CC BY-SA 3.0
-
-
 

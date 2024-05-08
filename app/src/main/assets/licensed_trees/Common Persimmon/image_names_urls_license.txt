@@ -1,60 +1,35 @@
-Image Name: Common Persimmon Bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/ce/Common_Persimmon_Bark.jpg
-Date/Time: 2022-09-24T19:55:22Z
-User: Don-vip
+Image: Common Persimmon Bark.jpg
+Author: Jryandoherty
 Comment: Cropped 3 % vertically using [[Commons:CropTool|CropTool]] with precise mode.
-Dimensions: 6000 x 3876
-File Size: 5461136 bytes
+URL: https://commons.wikimedia.org/wiki/File:Common_Persimmon_Bark.jpg
+Date: 2022-09-24T19:55:22Z
 License: CC BY-SA 4.0
 
-Image Name: D. virginiana giant.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/aa/D._virginiana_giant.jpg
-Date/Time: 2021-05-25T19:18:35Z
-User: FUchesco
+Image: D. virginiana giant.jpg
+Author: Courtesy of USDA Forest Service, United States, Indiana. 1/1/1935. Provided By National Agricultural Library, USDA-NRCS PLANTS Database
 Comment: Uploaded a work by Courtesy of USDA Forest Service, United States, Indiana. 1/1/1935. Provided By National Agricultural Library, USDA-NRCS PLANTS Database from https://plants.sc.egov.usda.gov/ImageLibrary/large/divi5_017_lvp.jpg with UploadWizard
-Dimensions: 996 x 1396
-File Size: 705753 bytes
+URL: https://commons.wikimedia.org/wiki/File:D._virginiana_giant.jpg
+Date: 2021-05-25T19:18:35Z
 License: Public domain
 
-Image Name: Diospyros virginiana-fruit.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Diospyros_virginiana-fruit.jpg
-Date/Time: 2020-10-15T02:34:01Z
-User: Peterwchen
-Comment: {{Information
-|description   ={{en|1=[[Wikipedia:Diospyros_virginiana| American persimmon]] fruit. [[Wikipedia:Morton Arboretum|]], [[Wikipedia:United States|USA]]}}
-|date          =2020-10-14
-|source        ={{own}}
-|author        =[[User:Peterwchen|]]
-}}
-{{Location|41.815691|-88.0819323}}
-[[Category:Morton Arboretum]]
-[[Category:Diospyros virginiana]]
-Dimensions: 1200 x 900
-File Size: 172685 bytes
+Image: Diospyros virginiana-fruit.jpg
+Author: Peterwchen
+Comment: {{Information |description ={{en|1=[[Wikipedia:Diospyros_virginiana| American persimmon]] fruit. [[Wikipedia:Morton Arboretum|]], [[Wikipedia:United States|USA]]}} |date =2020-10-14 |source ={{own}} |author =[[User:Peterwchen|]] }} {{Location|41.815691|-88.0819323}} [[Category:Morton Arboretum]] [[Category:Diospyros virginiana]]
+URL: https://commons.wikimedia.org/wiki/File:Diospyros_virginiana-fruit.jpg
+Date: 2020-10-15T02:34:01Z
 License: CC BY-SA 4.0
 
-Image Name: Persimmon.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c7/Persimmon.jpg
-Date/Time: 2007-09-21T21:11:23Z
-User: Xocolatl
+Image: Persimmon.jpg
+Author: Gphoto
 Comment: Reverted to version as of 14:36, 25 October 2006
-Dimensions: 1024 x 681
-File Size: 848297 bytes
+URL: https://commons.wikimedia.org/wiki/File:Persimmon.jpg
+Date: 2007-09-21T21:11:23Z
 License: CC BY-SA 3.0
 
-Image Name: Persimmon 0375.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a6/Persimmon_0375.jpg
-Date/Time: 2006-01-21T12:03:15Z
-User: Rasbak
-Comment: Picture from English Wikipedia
-
-American persimmon blossom
-
-Image copyleft:
-Image taken by me, released under GFDL [[User:Pollinator|Pollinator]] 02:50, 28 May 2004 (UTC)   {{GFDL}}
-
-Uploade 01:54, 26 May 2004  by user. . Pollinator (Talk) . . 300x259 (15
-Dimensions: 300 x 259
-File Size: 14355 bytes
+Image: Persimmon 0375.jpg
+Author: Unknown
+Comment: Picture from English Wikipedia American persimmon blossom Image copyleft: Image taken by me, released under GFDL [[User:Pollinator|Pollinator]] 02:50, 28 May 2004 (UTC) {{GFDL}} Uploade 01:54, 26 May 2004 by user. . Pollinator (Talk) . . 300x259 (15
+URL: https://commons.wikimedia.org/wiki/File:Persimmon_0375.jpg
+Date: 2006-01-21T12:03:15Z
 License: CC BY-SA 3.0
 

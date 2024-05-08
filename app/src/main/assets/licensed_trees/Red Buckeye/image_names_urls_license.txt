@@ -1,64 +1,35 @@
-Image Name: Aesculus pavia 2.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/c/c0/Aesculus_pavia_2.jpg
-Date/Time: 2012-12-09T12:21:08Z
-User: Eric in SF
+Image: Aesculus pavia 2.jpg
+Author: Eric Hunt
 Comment: User created page with UploadWizard
-Dimensions: 4288 x 2848
-File Size: 15396210 bytes
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_pavia_2.jpg
+Date: 2012-12-09T12:21:08Z
 License: CC BY-SA 3.0
 
-Image Name: Aesculus pavia 3.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/77/Aesculus_pavia_3.jpg
-Date/Time: 2018-09-24T11:19:57Z
-User: Eric in SF
+Image: Aesculus pavia 3.jpg
+Author: Eric Hunt 
 Comment: User created page with UploadWizard
-Dimensions: 6000 x 4000
-File Size: 21637436 bytes
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_pavia_3.jpg
+Date: 2018-09-24T11:19:57Z
 License: CC BY-SA 4.0
 
-Image Name: Aesculus pavia Texas.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/54/Aesculus_pavia_Texas.jpg
-Date/Time: 2020-02-05T06:33:53Z
-User: Masebrock
-Comment: {{Information
-|Description={{en|1=''[[:en::Aesculus pavia|Aesculus pavia]]'', at [[:en:Lost Maples State Natural Area|Lost Maples State Natural Area]], [[:en:Bandera County, Texas|Bandera County, Texas]].}}
-|Source={{own}}
-|Date=2019-05-24
-|Author=Mason Brock ([[:en:User:Masebrock|Masebrock]])
-|Permission=No copyright
-|other_versions=
-}}
-
-== {{int:license-header}} ==
-{{PD-user-en|Masebrock}}
-
-[[Category:Aesculus pavia]]
-[[Category:Bandera County, Texas]]
-Dimensions: 2040 x 2304
-File Size: 1430601 bytes
+Image: Aesculus pavia Texas.jpg
+Author: Mason Brock (Masebrock)
+Comment: {{Information |Description={{en|1=''[[:en::Aesculus pavia|Aesculus pavia]]'', at [[:en:Lost Maples State Natural Area|Lost Maples State Natural Area]], [[:en:Bandera County, Texas|Bandera County, Texas]].}} |Source={{own}} |Date=2019-05-24 |Author=Mason Brock ([[:en:User:Masebrock|Masebrock]]) |Permission=No copyright |other_versions= }} == {{int:license-header}} == {{PD-user-en|Masebrock}} [[Category:Aesculus pavia]] [[Category:Bandera County, Texas]]
+URL: https://commons.wikimedia.org/wiki/File:Aesculus_pavia_Texas.jpg
+Date: 2020-02-05T06:33:53Z
 License: Public domain
 
-Image Name: Red Buckeye Aesculus pavia Flowers 2000px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Buckeye_Aesculus_pavia_Flowers_2000px.jpg
-Date/Time: 2007-05-09T03:26:40Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of the flowers of the {{MultiLink|Red Buckeye}} ({{BioLinkSpecies|Aesculus pavia}}).  Photo taken at the [[:en:Mt. Cuba Center|Mt. Cuba Center]] where it was identified.{{Ram-Man Camera 1
-| camera = Nikon D50
-| lens =
-Dimensions: 2000 x 2700
-File Size: 1966635 bytes
+Image: Red Buckeye Aesculus pavia Flowers 2000px.jpg
+Author: Photo by and (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of the flowers of the {{MultiLink|Red Buckeye}} ({{BioLinkSpecies|Aesculus pavia}}). Photo taken at the [[:en:Mt. Cuba Center|Mt. Cuba Center]] where it was identified.{{Ram-Man Camera 1 | camera = Nikon D50 | lens =
+URL: https://commons.wikimedia.org/wiki/File:Red_Buckeye_Aesculus_pavia_Flowers_2000px.jpg
+Date: 2007-05-09T03:26:40Z
 License: GFDL 1.2
 
-Image Name: Red Buckeye Aesculus pavia Leaf Cluster 2800px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Red_Buckeye_Aesculus_pavia_Leaf_Cluster_2800px.jpg
-Date/Time: 2007-05-10T16:41:42Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of a leaf cluster on the {{MultiLink|Red Buckeye}} ({{BioLinkSpecies|Aesculus pavia}}).  Photo taken at the [[:en:Mt. Cuba Center|Mt. Cuba Center]] where it was identified.{{Ram-Man Camera 1
-| camera = Nikon D50
-| len
-Dimensions: 2800 x 2000
-File Size: 2667456 bytes
+Image: Red Buckeye Aesculus pavia Leaf Cluster 2800px.jpg
+Author: Photo by and (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of a leaf cluster on the {{MultiLink|Red Buckeye}} ({{BioLinkSpecies|Aesculus pavia}}). Photo taken at the [[:en:Mt. Cuba Center|Mt. Cuba Center]] where it was identified.{{Ram-Man Camera 1 | camera = Nikon D50 | len
+URL: https://commons.wikimedia.org/wiki/File:Red_Buckeye_Aesculus_pavia_Leaf_Cluster_2800px.jpg
+Date: 2007-05-10T16:41:42Z
 License: GFDL 1.2
 

@@ -1,10 +1,7 @@
-Image Name: Tilia americana (American Linden) (28268263222).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/74/Tilia_americana_%28American_Linden%29_%2828268263222%29.jpg
-Date/Time: 2017-01-22T19:29:19Z
-User: INeverCry
+Image: Tilia americana (American Linden) (28268263222).jpg
+Author: Plant Image Library
 Comment: Transferred from Flickr via [[Commons:Flickr2Commons|Flickr2Commons]]
-Dimensions: 1279 x 1600
-File Size: 409249 bytes
+URL: https://commons.wikimedia.org/wiki/File:Tilia_americana_(American_Linden)_(28268263222).jpg
+Date: 2017-01-22T19:29:19Z
 License: CC BY-SA 2.0
-
 

@@ -1,47 +1,28 @@
-Image Name: 2014-11-02 14 15 16 Scarlet Oak foliage during autumn on Hunters Ridge Drive in Hopewell Township, New Jersey.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/2014-11-02_14_15_16_Scarlet_Oak_foliage_during_autumn_on_Hunters_Ridge_Drive_in_Hopewell_Township%2C_New_Jersey.jpg
-Date/Time: 2014-11-26T21:59:03Z
-User: Famartin
+Image: 2014-11-02 14 15 16 Scarlet Oak foliage during autumn on Hunters Ridge Drive in Hopewell Township, New Jersey.jpg
+Author: Famartin
 Comment: User created page with UploadWizard
-Dimensions: 3264 x 2448
-File Size: 5429721 bytes
+URL: https://commons.wikimedia.org/wiki/File:2014-11-02_14_15_16_Scarlet_Oak_foliage_during_autumn_on_Hunters_Ridge_Drive_in_Hopewell_Township,_New_Jersey.jpg
+Date: 2014-11-26T21:59:03Z
 License: CC BY-SA 4.0
 
-Image Name: 20141108Quercus coccinea4.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/20141108Quercus_coccinea4.jpg
-Date/Time: 2014-11-11T11:10:11Z
-User: AnRo0002
-Comment: == {{int:filedesc}} ==
-{{Information
-|Description={{de|Scharlach-Eiche (''Quercus coccinea'') in Hockenheim}}
-|Source={{own}}
-|Author=[[User:AnRo0002|AnRo0002]]
-|Date=2014-11-07
-|Permission=
-|other_versions=
-}}
-
-== {{int:license-header}} ==
-{{self|Cc-z...
-Dimensions: 2000 x 1500
-File Size: 1453203 bytes
+Image: 20141108Quercus coccinea4.jpg
+Author: AnRo0002
+Comment: == {{int:filedesc}} == {{Information |Description={{de|Scharlach-Eiche (''Quercus coccinea'') in Hockenheim}} |Source={{own}} |Author=[[User:AnRo0002|AnRo0002]] |Date=2014-11-07 |Permission= |other_versions= }} == {{int:license-header}} == {{self|Cc-z...
+URL: https://commons.wikimedia.org/wiki/File:20141108Quercus_coccinea4.jpg
+Date: 2014-11-11T11:10:11Z
 License: CC0
 
-Image Name: Quercus coccineum spring foliage and flower.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/f/fc/Quercus_coccineum_spring_foliage_and_flower.jpg
-Date/Time: 2013-05-29T08:03:24Z
-User: Ptelea
+Image: Quercus coccineum spring foliage and flower.jpg
+Author: Ptelea
 Comment: User created page with UploadWizard
-Dimensions: 1890 x 1418
-File Size: 297782 bytes
+URL: https://commons.wikimedia.org/wiki/File:Quercus_coccineum_spring_foliage_and_flower.jpg
+Date: 2013-05-29T08:03:24Z
 License: CC BY-SA 3.0
 
-Image Name: ScarletOak.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/ScarletOak.jpg
-Date/Time: 2022-11-27T22:20:05Z
-User: Tamparitus
+Image: ScarletOak.jpg
+Author: Tamparitus
 Comment: Uploaded while editing "Quercus coccinea" on en.wikipedia.org
-Dimensions: 1512 x 2016
-File Size: 1865598 bytes
+URL: https://commons.wikimedia.org/wiki/File:ScarletOak.jpg
+Date: 2022-11-27T22:20:05Z
 License: CC BY-SA 4.0
 

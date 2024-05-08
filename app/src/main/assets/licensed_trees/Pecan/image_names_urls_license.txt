@@ -1,124 +1,98 @@
-Image Name: C. illinoinensis giant.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/94/C._illinoinensis_giant.jpg
-Date/Time: 2021-05-25T19:08:01Z
-User: FUchesco
+Image: C. illinoinensis giant.jpg
+Author: W.G. Baxter, USDA Forest Service, United States, Oklahoma. Provided By National Agricultural Library, USDA-NRCS PLANTS Database
 Comment: Uploaded a work by W.G. Baxter, USDA Forest Service, United States, Oklahoma. Provided By National Agricultural Library, USDA-NRCS PLANTS Database from https://plants.sc.egov.usda.gov/ImageLibrary/large/cail2_008_lvp.jpg with UploadWizard
-Dimensions: 900 x 1729
-File Size: 431087 bytes
+URL: https://commons.wikimedia.org/wiki/File:C._illinoinensis_giant.jpg
+Date: 2021-05-25T19:08:01Z
 License: Public domain
 
-Image Name: Carya illinoinensis.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/62/Carya_illinoinensis.jpg
-Date/Time: 2018-11-23T05:16:35Z
-User: Dicklyon
+Image: Carya illinoinensis.jpg
+Author: Bruce Marlin
 Comment: straightened
-Dimensions: 925 x 1255
-File Size: 887860 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis.jpg
+Date: 2018-11-23T05:16:35Z
 License: CC BY 3.0
 
-Image Name: Carya illinoinensis MHNT.BOT.2011.3.85.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Carya_illinoinensis_MHNT.BOT.2011.3.85.jpg
-Date/Time: 2013-02-17T09:09:10Z
-User: Ercé
-Comment: {{Information
-|Description    ={{en|1=x}}
-|Source         ={{own}}
-|Author         =[[User:Ercé|Ercé]]
-|Date           =
-|Permission     =
-|other_versions =
-}}
-Dimensions: 5375 x 3583
-File Size: 9887290 bytes
+Image: Carya illinoinensis MHNT.BOT.2011.3.85.jpg
+Author: 
+Roger Culos
+Comment: {{Information |Description ={{en|1=x}} |Source ={{own}} |Author =[[User:ErcÃ©|ErcÃ©]] |Date = |Permission = |other_versions = }}
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis_MHNT.BOT.2011.3.85.jpg
+Date: 2013-02-17T09:09:10Z
 License: CC BY-SA 3.0
 
-Image Name: Carya illinoinensis bud.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/5e/Carya_illinoinensis_bud.jpg
-Date/Time: 2020-05-19T21:33:38Z
-User: Akgarb
+Image: Carya illinoinensis bud.jpg
+Author: William (Ned) Friedman
 Comment: Uploaded own work with UploadWizard
-Dimensions: 1395 x 1765
-File Size: 817514 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis_bud.jpg
+Date: 2020-05-19T21:33:38Z
 License: CC BY-SA 4.0
 
-Image Name: Cluster of young pecan.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/4f/Cluster_of_young_pecan.jpg
-Date/Time: 2018-08-15T10:16:04Z
-User: SnickeringBear
+Image: Cluster of young pecan.jpg
+Author: SnickeringBear
 Comment: User created page with UploadWizard
-Dimensions: 2592 x 1944
-File Size: 2301250 bytes
+URL: https://commons.wikimedia.org/wiki/File:Cluster_of_young_pecan.jpg
+Date: 2018-08-15T10:16:04Z
 License: CC BY-SA 4.0
 
-Image Name: Pecan-nuts-on-tree.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2c/Pecan-nuts-on-tree.jpg
-Date/Time: 2005-05-22T08:04:40Z
-User: Pmg
-Comment: Picture of ripe pecan-nuts. {{GFDL}}
+Image: Pecan-nuts-on-tree.jpg
+Author: 
 
-Dimensions: 800 x 600
-File Size: 173759 bytes
+
+
+This image was originally posted to Flickr by Dobbi at https://flickr.com/photos/78223339@N00/15025997. It was reviewed on 7 April 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.
+7 April 2007
+Relicensed by the photographer for WikiMedia.
+Comment: Picture of ripe pecan-nuts. {{GFDL}}
+URL: https://commons.wikimedia.org/wiki/File:Pecan-nuts-on-tree.jpg
+Date: 2005-05-22T08:04:40Z
 License: CC BY 2.0
 
-Image Name: C. illinoinensis giant.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/94/C._illinoinensis_giant.jpg
-Date/Time: 2021-05-25T19:08:01Z
-User: FUchesco
+Image: C. illinoinensis giant.jpg
+Author: W.G. Baxter, USDA Forest Service, United States, Oklahoma. Provided By National Agricultural Library, USDA-NRCS PLANTS Database
 Comment: Uploaded a work by W.G. Baxter, USDA Forest Service, United States, Oklahoma. Provided By National Agricultural Library, USDA-NRCS PLANTS Database from https://plants.sc.egov.usda.gov/ImageLibrary/large/cail2_008_lvp.jpg with UploadWizard
-Dimensions: 900 x 1729
-File Size: 431087 bytes
+URL: https://commons.wikimedia.org/wiki/File:C._illinoinensis_giant.jpg
+Date: 2021-05-25T19:08:01Z
 License: Public domain
 
-Image Name: Carya illinoinensis.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/62/Carya_illinoinensis.jpg
-Date/Time: 2018-11-23T05:16:35Z
-User: Dicklyon
+Image: Carya illinoinensis.jpg
+Author: Bruce Marlin
 Comment: straightened
-Dimensions: 925 x 1255
-File Size: 887860 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis.jpg
+Date: 2018-11-23T05:16:35Z
 License: CC BY 3.0
 
-Image Name: Carya illinoinensis MHNT.BOT.2011.3.85.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Carya_illinoinensis_MHNT.BOT.2011.3.85.jpg
-Date/Time: 2013-02-17T09:09:10Z
-User: Ercé
-Comment: {{Information
-|Description    ={{en|1=x}}
-|Source         ={{own}}
-|Author         =[[User:Ercé|Ercé]]
-|Date           =
-|Permission     =
-|other_versions =
-}}
-Dimensions: 5375 x 3583
-File Size: 9887290 bytes
+Image: Carya illinoinensis MHNT.BOT.2011.3.85.jpg
+Author: 
+Roger Culos
+Comment: {{Information |Description ={{en|1=x}} |Source ={{own}} |Author =[[User:ErcÃ©|ErcÃ©]] |Date = |Permission = |other_versions = }}
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis_MHNT.BOT.2011.3.85.jpg
+Date: 2013-02-17T09:09:10Z
 License: CC BY-SA 3.0
 
-Image Name: Carya illinoinensis bud.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/5e/Carya_illinoinensis_bud.jpg
-Date/Time: 2020-05-19T21:33:38Z
-User: Akgarb
+Image: Carya illinoinensis bud.jpg
+Author: William (Ned) Friedman
 Comment: Uploaded own work with UploadWizard
-Dimensions: 1395 x 1765
-File Size: 817514 bytes
+URL: https://commons.wikimedia.org/wiki/File:Carya_illinoinensis_bud.jpg
+Date: 2020-05-19T21:33:38Z
 License: CC BY-SA 4.0
 
-Image Name: Cluster of young pecan.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/4f/Cluster_of_young_pecan.jpg
-Date/Time: 2018-08-15T10:16:04Z
-User: SnickeringBear
+Image: Cluster of young pecan.jpg
+Author: SnickeringBear
 Comment: User created page with UploadWizard
-Dimensions: 2592 x 1944
-File Size: 2301250 bytes
+URL: https://commons.wikimedia.org/wiki/File:Cluster_of_young_pecan.jpg
+Date: 2018-08-15T10:16:04Z
 License: CC BY-SA 4.0
 
-Image Name: Pecan-nuts-on-tree.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2c/Pecan-nuts-on-tree.jpg
-Date/Time: 2005-05-22T08:04:40Z
-User: Pmg
-Comment: Picture of ripe pecan-nuts. {{GFDL}}
+Image: Pecan-nuts-on-tree.jpg
+Author: 
 
-Dimensions: 800 x 600
-File Size: 173759 bytes
+
+
+This image was originally posted to Flickr by Dobbi at https://flickr.com/photos/78223339@N00/15025997. It was reviewed on 7 April 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.
+7 April 2007
+Relicensed by the photographer for WikiMedia.
+Comment: Picture of ripe pecan-nuts. {{GFDL}}
+URL: https://commons.wikimedia.org/wiki/File:Pecan-nuts-on-tree.jpg
+Date: 2005-05-22T08:04:40Z
 License: CC BY 2.0
 

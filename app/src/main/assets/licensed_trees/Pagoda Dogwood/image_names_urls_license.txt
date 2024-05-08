@@ -1,53 +1,28 @@
-Image Name: Cornus alternifolia - Krauss.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/65/Cornus_alternifolia_-_Krauss.jpg
-Date/Time: 2006-06-05T23:33:15Z
-User: Eugene van der Pijll
+Image: Cornus alternifolia - Krauss.jpg
+Author: Unknown
 Comment: cleaned-up version
-Dimensions: 444 x 511
-File Size: 43973 bytes
+URL: https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_-_Krauss.jpg
+Date: 2006-06-05T23:33:15Z
 License: Public domain
 
-Image Name: Cornus alternifolia 005.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/Cornus_alternifolia_005.jpg
-Date/Time: 2007-07-21T01:26:08Z
-User: IvanTortuga
-Comment: {{Information
-|Description=Unknown Plant on lake michigan (will be filling these all in, in the next few days.
-|Source=self-made
-|Date=7/19/2007
-|Author= [[User:IvanTortuga|IvanTortuga]]
-}}
-{{pd-self}}
-Dimensions: 3888 x 2592
-File Size: 3241024 bytes
+Image: Cornus alternifolia 005.jpg
+Author: Cody Hough
+Comment: {{Information |Description=Unknown Plant on lake michigan (will be filling these all in, in the next few days. |Source=self-made |Date=7/19/2007 |Author= [[User:IvanTortuga|IvanTortuga]] }} {{pd-self}}
+URL: https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_005.jpg
+Date: 2007-07-21T01:26:08Z
 License: CC BY-SA 3.0
 
-Image Name: Jk-cornus alternifoliaflower.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a0/Jk-cornus_alternifoliaflower.jpg
-Date/Time: 2009-06-09T23:17:38Z
-User: Jaknouse
-Comment: {{Information
-|Description={{en|1=Flowers of the pagodatree dogwood, Cornus alternifolia.  Foto taken at Kings Switch Tunnel, western Athens County, Ohio}}
-|Source=Own work by uploader
-|Author=[[User:Jaknouse|Jaknouse]]
-|Date=May 2009
-|Permission=
-|other_
-Dimensions: 1599 x 1536
-File Size: 830270 bytes
+Image: Jk-cornus alternifoliaflower.jpg
+Author: Jaknouse
+Comment: {{Information |Description={{en|1=Flowers of the pagodatree dogwood, Cornus alternifolia. Foto taken at Kings Switch Tunnel, western Athens County, Ohio}} |Source=Own work by uploader |Author=[[User:Jaknouse|Jaknouse]] |Date=May 2009 |Permission= |other_
+URL: https://commons.wikimedia.org/wiki/File:Jk-cornus_alternifoliaflower.jpg
+Date: 2009-06-09T23:17:38Z
 License: CC BY-SA 3.0
 
-Image Name: Pagodaseedlings.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2d/Pagodaseedlings.jpg
-Date/Time: 2012-09-02T19:29:12Z
-User: MGA73bot2
-Comment: 
-{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
-== {{int:filedesc}} ==
-{{Information
-|description={{en|1=Self made picture of seedlings of Pagoda Dogwood, take spring of 2008.}}
-|d...
-Dimensions: 2131 x 1542
-File Size: 1805472 bytes
+Image: Pagodaseedlings.jpg
+Author: Hardyplants at English Wikipedia
+Comment: {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} == {{int:filedesc}} == {{Information |description={{en|1=Self made picture of seedlings of Pagoda Dogwood, take spring of 2008.}} |d...
+URL: https://commons.wikimedia.org/wiki/File:Pagodaseedlings.jpg
+Date: 2012-09-02T19:29:12Z
 License: Public domain
 

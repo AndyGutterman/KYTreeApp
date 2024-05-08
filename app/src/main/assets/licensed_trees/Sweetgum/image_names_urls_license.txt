@@ -1,39 +1,28 @@
-Image Name: Amberboom (Liquidambar styraciflua). Detail. (d.j.b.).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/5/5c/Amberboom_%28Liquidambar_styraciflua%29._Detail._%28d.j.b.%29.jpg
-Date/Time: 2019-04-27T05:24:09Z
-User: Famberhorst
+Image: Amberboom (Liquidambar styraciflua). Detail. (d.j.b.).jpg
+Author: Dominicus Johannes Bergsma
 Comment: Ander formaat.
-Dimensions: 2590 x 4115
-File Size: 6088858 bytes
+URL: https://commons.wikimedia.org/wiki/File:Amberboom_(Liquidambar_styraciflua)._Detail._(d.j.b.).jpg
+Date: 2019-04-27T05:24:09Z
 License: CC BY-SA 4.0
 
-Image Name: American Sweetgum Liquidambar styraciflua Fruit Leaves 2500px.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e2/American_Sweetgum_Liquidambar_styraciflua_Fruit_Leaves_2500px.jpg
-Date/Time: 2007-11-24T23:52:25Z
-User: Ram-Man
-Comment: {{Information
-|Description=Photograph of the {{MultiLink|Something}} ({{BioLinkSpecies|Some species}}).  Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1
-| camera = Nikon D50
-| lens = Sigma
-| focallengt
-Dimensions: 2500 x 2000
-File Size: 1779743 bytes
+Image: American Sweetgum Liquidambar styraciflua Fruit Leaves 2500px.jpg
+Author: Photo (c)2007 Derek Ramsey (Ram-Man)
+Comment: {{Information |Description=Photograph of the {{MultiLink|Something}} ({{BioLinkSpecies|Some species}}). Photo taken at the [[:en:Tyler Arboretum|Tyler Arboretum]] where it was identified.{{Ram-Man Camera 1 | camera = Nikon D50 | lens = Sigma | focallengt
+URL: https://commons.wikimedia.org/wiki/File:American_Sweetgum_Liquidambar_styraciflua_Fruit_Leaves_2500px.jpg
+Date: 2007-11-24T23:52:25Z
 License: GFDL 1.2
 
-Image Name: American sweetgum tree balls (spiny seed pods) -- Liquidambar styraciflua.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/American_sweetgum_tree_balls_%28spiny_seed_pods%29_--_Liquidambar_styraciflua.jpg
-Date/Time: 2020-05-02T21:39:25Z
-User: Jim Evans
+Image: American sweetgum tree balls (spiny seed pods) -- Liquidambar styraciflua.jpg
+Author: Jim Evans
 Comment: sharpened
-Dimensions: 2448 x 1536
-File Size: 699923 bytes
+URL: https://commons.wikimedia.org/wiki/File:American_sweetgum_tree_balls_(spiny_seed_pods)_--_Liquidambar_styraciflua.jpg
+Date: 2020-05-02T21:39:25Z
 License: CC BY-SA 4.0
 
-Image Name: Autumn Leaves (Liquidambar Styraciflua) (2966992728).jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/7/7c/Autumn_Leaves_%28Liquidambar_Styraciflua%29_%282966992728%29.jpg
-Date/Time: 2014-04-18T14:13:15Z
-User: Ziad
+Image: Autumn Leaves (Liquidambar Styraciflua) (2966992728).jpg
+Author: Rob Young from United Kingdom
 Comment: Transferred from Flickr via Flickr2commons
-Dimensions: 2000 x 3008
-File Size: 2819966 bytes
+URL: https://commons.wikimedia.org/wiki/File:Autumn_Leaves_(Liquidambar_Styraciflua)_(2966992728).jpg
+Date: 2014-04-18T14:13:15Z
 License: CC BY 2.0
+

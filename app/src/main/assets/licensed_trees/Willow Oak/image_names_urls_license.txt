@@ -1,9 +1,42 @@
-Image Name: Tree in Mississippi.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/4/4e/Tree_in_Mississippi.jpg
-Date/Time: 2019-06-30T00:38:50Z
-User: Freekhou5
+Image: Tree in Mississippi.jpg
+Author: Freekhou5
 Comment: User created page with UploadWizard
-Dimensions: 3024 x 4032
-File Size: 4783842 bytes
+URL: https://commons.wikimedia.org/wiki/File:Tree_in_Mississippi.jpg
+Date: 2019-06-30T00:38:50Z
+License: CC BY-SA 4.0
+
+Image: Willow oak in Prospect Park (03933p).jpg
+Author: Rhododendrites
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Willow_oak_in_Prospect_Park_(03933p).jpg
+Date: 2022-11-27T01:52:22Z
+License: CC BY-SA 4.0
+
+Image: QuercusPhellos14.jpg
+Author: DouglasGoldman
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:QuercusPhellos14.jpg
+Date: 2023-12-14T13:01:59Z
+License: CC BY-SA 4.0
+
+Image: QuercusPhellos11.jpg
+Author: DouglasGoldman
+Comment: Uploaded own work with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:QuercusPhellos11.jpg
+Date: 2023-12-14T13:01:57Z
+License: CC BY-SA 4.0
+
+Image: Willow Oak Quercus phellos Bark Wide.JPG
+Author: Photo by and (c)2016 Avery Ramsey
+Comment: User created page with UploadWizard
+URL: https://commons.wikimedia.org/wiki/File:Willow_Oak_Quercus_phellos_Bark_Wide.JPG
+Date: 2016-04-26T01:17:47Z
+License: CC BY-SA 4.0
+
+Image: Quercus phellos 1zz.jpg
+Author: Photo by David J. Stang
+Comment: {{Information |Description ={{en|1=Location taken: Merrifield Garden Center, Fairfax VA USA. Names: <i>Quercus phellos</i> L., Fűzlevelű tölgy, Oak, Oak Spp., Oaks, Weiden Eiche, Weiden-Eiche, Willow Oa Classification: Plantae > Magnoliophyta > M...
+URL: https://commons.wikimedia.org/wiki/File:Quercus_phellos_1zz.jpg
+Date: 2017-07-19T10:04:51Z
 License: CC BY-SA 4.0
 

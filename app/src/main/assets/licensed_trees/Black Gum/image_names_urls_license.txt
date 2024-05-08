@@ -1,51 +1,28 @@
-Image Name: NyssaSylvaticaTrunk.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2d/NyssaSylvaticaTrunk.jpg
-Date/Time: 2012-01-29T17:50:15Z
-User: BotMultichillT
-Comment: 
-{{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}}
-== {{int:filedesc}} ==
-{{Information
-|description={{en|1=A picture of the trunk of Nyssa sylvatica.}}
-|date=July 12, 2009
-|source=I cre
-Dimensions: 2112 x 2816
-File Size: 5569237 bytes
+Image: NyssaSylvaticaTrunk.jpg
+Author: Chhe (talk)
+Comment: {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} == {{int:filedesc}} == {{Information |description={{en|1=A picture of the trunk of Nyssa sylvatica.}} |date=July 12, 2009 |source=I cre
+URL: https://commons.wikimedia.org/wiki/File:NyssaSylvaticaTrunk.jpg
+Date: 2012-01-29T17:50:15Z
 License: Public domain
 
-Image Name: Nyssa sylvatica JPG1b.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Nyssa_sylvatica_JPG1b.jpg
-Date/Time: 2007-11-16T13:41:31Z
-User: Jean-Pol GRANDMONT
-Comment: {{Information
-|Description='''Tupelo noir''' ([[Nyssa sylvatica]]).
-|Source=travail personnel
-|Date=2007
-|Author= [[User:Jean-Pol GRANDMONT|Jean-Pol GRANDMONT]]
-|Permission=see below
-|other_versions=
-}}
-
-Dimensions: 2625 x 1750
-File Size: 1765271 bytes
+Image: Nyssa sylvatica JPG1b.jpg
+Author: Jean-Pol GRANDMONT
+Comment: {{Information |Description='''Tupelo noir''' ([[Nyssa sylvatica]]). |Source=travail personnel |Date=2007 |Author= [[User:Jean-Pol GRANDMONT|Jean-Pol GRANDMONT]] |Permission=see below |other_versions= }}
+URL: https://commons.wikimedia.org/wiki/File:Nyssa_sylvatica_JPG1b.jpg
+Date: 2007-11-16T13:41:31Z
 License: CC BY-SA 3.0
 
-
-Image Name: Nyssa sylvatica v sylvatica.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/Nyssa_sylvatica_v_sylvatica.jpg
-Date/Time: 2018-11-04T20:36:12Z
-User: Eric in SF
+Image: Nyssa sylvatica v sylvatica.jpg
+Author: Eric Hunt
 Comment: User created page with UploadWizard
-Dimensions: 3988 x 3988
-File Size: 23492413 bytes
+URL: https://commons.wikimedia.org/wiki/File:Nyssa_sylvatica_v_sylvatica.jpg
+Date: 2018-11-04T20:36:12Z
 License: CC BY-SA 4.0
 
-Image Name: Nyssa sylvatica with mature fruit.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/e/e9/Nyssa_sylvatica_with_mature_fruit.jpg
-Date/Time: 2019-07-04T18:43:43Z
-User: OgreBot
+Image: Nyssa sylvatica with mature fruit.jpg
+Author: Matthew C Perry
 Comment: (BOT): Reverting to most recent version before archival
-Dimensions: 576 x 357
-File Size: 26124 bytes
+URL: https://commons.wikimedia.org/wiki/File:Nyssa_sylvatica_with_mature_fruit.jpg
+Date: 2019-07-04T18:43:43Z
 License: Public domain
 

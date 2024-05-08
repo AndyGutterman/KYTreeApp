@@ -1,55 +1,35 @@
-Image Name: Celtis Laevigata.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/10/Celtis_Laevigata.jpg
-Date/Time: 2018-10-16T22:58:29Z
-User: Toshea2006
+Image: Celtis Laevigata.jpg
+Author: Toshea2006
 Comment: Cross-wiki upload from en.wikipedia.org
-Dimensions: 2448 x 3264
-File Size: 1581175 bytes
+URL: https://commons.wikimedia.org/wiki/File:Celtis_Laevigata.jpg
+Date: 2018-10-16T22:58:29Z
 License: CC BY-SA 4.0
 
-Image Name: Celtis laevigata bark.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/2/2d/Celtis_laevigata_bark.jpg
-Date/Time: 2019-06-22T21:22:14Z
-User: Brucewinter
+Image: Celtis laevigata bark.jpg
+Author: Brucewinter
 Comment: User created page with UploadWizard
-Dimensions: 675 x 900
-File Size: 179092 bytes
+URL: https://commons.wikimedia.org/wiki/File:Celtis_laevigata_bark.jpg
+Date: 2019-06-22T21:22:14Z
 License: CC BY-SA 4.0
 
-Image Name: Celtis laevigata fruit.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/6/60/Celtis_laevigata_fruit.jpg
-Date/Time: 2019-06-22T21:22:14Z
-User: Brucewinter
+Image: Celtis laevigata fruit.jpg
+Author: Brucewinter
 Comment: User created page with UploadWizard
-Dimensions: 675 x 900
-File Size: 52925 bytes
+URL: https://commons.wikimedia.org/wiki/File:Celtis_laevigata_fruit.jpg
+Date: 2019-06-22T21:22:14Z
 License: CC BY-SA 4.0
 
-Image Name: Celtis laevigata leaf.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/9/95/Celtis_laevigata_leaf.jpg
-Date/Time: 2019-06-22T21:22:14Z
-User: Brucewinter
+Image: Celtis laevigata leaf.jpg
+Author: Brucewinter
 Comment: User created page with UploadWizard
-Dimensions: 675 x 900
-File Size: 52509 bytes
+URL: https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg
+Date: 2019-06-22T21:22:14Z
 License: CC BY-SA 4.0
 
-Image Name: Sugarberry Celtis laevigata 2009-04-05.jpg
-URL: https://upload.wikimedia.org/wikipedia/commons/1/11/Sugarberry_Celtis_laevigata_2009-04-05.jpg
-Date/Time: 2009-11-29T16:25:45Z
-User: Gaberlunzi
-Comment: {{Information
-|Description={{en|1=Sugarberry (Celtis laevigata) in Crowley Park, Richardson, Texas.}}
-|Source={{own}}
-|Author=[[User:Gaberlunzi|Gaberlunzi]] (Richard Murphy)
-|Date=2009-04-05
-|Permission=
-|other_versions=
-}}
-
-[[Category:Trees]]
-[[Category:
-Dimensions: 3872 x 2592
-File Size: 4130115 bytes
+Image: Sugarberry Celtis laevigata 2009-04-05.jpg
+Author: Gaberlunzi (Richard Murphy)
+Comment: {{Information |Description={{en|1=Sugarberry (Celtis laevigata) in Crowley Park, Richardson, Texas.}} |Source={{own}} |Author=[[User:Gaberlunzi|Gaberlunzi]] (Richard Murphy) |Date=2009-04-05 |Permission= |other_versions= }} [[Category:Trees]] [[Category:
+URL: https://commons.wikimedia.org/wiki/File:Sugarberry_Celtis_laevigata_2009-04-05.jpg
+Date: 2009-11-29T16:25:45Z
 License: CC BY-SA 3.0
 
