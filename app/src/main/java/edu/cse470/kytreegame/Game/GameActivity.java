@@ -3,6 +3,7 @@ package edu.cse470.kytreegame.Game;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
+import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.ColorDrawable;
@@ -60,7 +61,33 @@ public class GameActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.tree_guessing_game);
+
+        // Check screen size and hide one ImageView on smaller devices
+        Configuration configuration = getResources().getConfiguration();
+        int screenSize = configuration.screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK;
+        if (screenSize == Configuration.SCREENLAYOUT_SIZE_SMALL || screenSize == Configuration.SCREENLAYOUT_SIZE_NORMAL) {
+            findViewById(R.id.treeImageView2).setVisibility(View.GONE);
+
+            feedbackTextView = findViewById(R.id.feedbackTextView);
+            // Set smaller text size for feedback text view
+            feedbackTextView.setTextSize(8);
+
+            //findViewById(R.id.streakTextView).setVisibility(View.GONE);
+            //findViewById(R.id.streakLabelTextView).setVisibility(View.GONE);
+            //findViewById(R.id.highScoreTextView).setVisibility(View.GONE);
+            //findViewById(R.id.highScoreLabelTextView).setVisibility(View.GONE);
+
+            button1 = findViewById(R.id.button1);
+            button2 = findViewById(R.id.button2);
+            button3 = findViewById(R.id.button3);
+
+            // Set smaller text size for buttons
+            button1.setTextSize(9);
+            button2.setTextSize(9);
+            button3.setTextSize(9);
+        }
 
         Window window = getWindow();
         window.setStatusBarColor(ContextCompat.getColor(this, R.color.coffee_statusbar));
@@ -107,6 +134,7 @@ public class GameActivity extends AppCompatActivity {
         loadStats();
         startGame();
     }
+
 
     private void loadStats(){
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);

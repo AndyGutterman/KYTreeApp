@@ -6,4 +6,8 @@
     <string name="native_tree_game_and_gallery">Kentucky Native Trees</string>
     <string name="clear_my_streak">Clear win streak</string>
     <string name="clear_my_high_score">Clear high score</string>
+    <string name="button1_text">Button 2</string>
+    <string name="button2_text">Button 2</string>
+    <string name="button3_text">Button 2</string>
+
 </resources>
