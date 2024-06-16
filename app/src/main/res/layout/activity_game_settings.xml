@@ -1,92 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <!-- Guideline for bottom section (Streak section) -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/leftVertGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.15" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/rightVertGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.85" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/HighScoreGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.44" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/StreakGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.56" />
+
+    <!-- High Score Label -->
     <TextView
         android:id="@+id/highScoreLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="HIGH SCORE"
         android:textColor="@color/white"
-        android:textSize="36sp"
+        android:textSize="24sp"
         android:textStyle="bold"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="100dp"
-        />
+        app:layout_constraintBottom_toTopOf="@+id/highScoreTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- High Score Text -->
     <TextView
         android:id="@+id/highScoreTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/highScoreLabelTextView"
-        android:layout_marginStart="75dp"
-        android:layout_marginTop="31dp"
         android:text=""
         android:textColor="@color/white"
-        android:textSize="36sp"
-        android:textStyle="bold" />
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintBottom_toTopOf="@id/clearHighScoreButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- Clear High Score Button -->
+    <Button
+        android:id="@+id/clearHighScoreButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/goldenrod_gold"
+        android:text="Clear High Score"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        app:layout_constraintBottom_toTopOf="@id/HighScoreGuideline"
+        app:layout_constraintEnd_toEndOf="@id/rightVertGuide"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide" />
+
+    <!-- Streak Label -->
     <TextView
         android:id="@+id/streakLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="THIS STREAK"
         android:textColor="@color/white"
-        android:textSize="36sp"
+        android:textSize="24sp"
         android:textStyle="bold"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="100dp"
-        android:layout_marginEnd="32dp"
-        />
+        app:layout_constraintBottom_toTopOf="@+id/streakTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/StreakGuideline" />
 
-
+    <!-- Streak Text -->
     <TextView
         android:id="@+id/streakTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/streakLabelTextView"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="30dp"
-        android:layout_marginEnd="75dp"
         android:text=""
         android:textColor="@color/white"
-        android:textSize="36sp"
-        android:textStyle="bold" />
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="@id/streakLabelTextView"
+        app:layout_constraintStart_toStartOf="@id/streakLabelTextView"
+        app:layout_constraintTop_toBottomOf="@id/streakLabelTextView" />
 
-    <Button
-        android:id="@+id/clearHighScoreButton"
-        android:layout_width="210dp"
-        android:layout_height="wrap_content"
-        android:text="@string/clear_my_high_score"
-        android:textSize="18sp"
-        android:layout_marginTop="420dp"
-        android:layout_marginBottom="24dp"
-        android:backgroundTint="@color/goldenrod_gold"
-        android:layout_centerHorizontal="true"/>
-
+    <!-- Clear Streak Button -->
     <Button
         android:id="@+id/clearStreakButton"
-        android:layout_width="210dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="@string/clear_my_streak"
-        android:textSize="18sp"
-        android:layout_below="@id/clearHighScoreButton"
+        android:layout_marginTop="16dp"
         android:backgroundTint="@color/goldenrod_gold"
-        android:layout_centerHorizontal="true"/>
+        android:text="Clear Streak"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toEndOf="@id/rightVertGuide"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintTop_toBottomOf="@id/streakTextView" />
 
+    <!-- Back Button Guideline -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/BackButtonGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.95" />
 
+    <!-- Back Button -->
     <ImageView
         android:id="@+id/backToMainMenuButton"
         android:layout_width="65dp"
         android:layout_height="60dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginBottom="2dp"
-        android:src="@drawable/backbutton" />
+        android:src="@drawable/backbutton"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintEnd_toEndOf="@id/leftVertGuide"
+        app:layout_constraintTop_toTopOf="@id/BackButtonGuideline"
+        app:layout_constraintBottom_toBottomOf="@id/BackButtonGuideline"
+        app:layout_constraintHorizontal_bias="0.5" />
 
-
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,8 +2,11 @@ package edu.cse470.kytreegame.Game;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.res.Configuration;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.TypedValue;
+import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -20,6 +23,10 @@ public class GameSettingsActivity extends AppCompatActivity {
     private TextView highScoreLabelTextView;
     private TextView streakLabelTextView;
     private TextView streakTextView;
+
+    private Button clearHighScoreButton;
+    private Button clearStreakButton;
+
     private int currentStreak;
     private int highScore;
 
@@ -45,13 +52,19 @@ public class GameSettingsActivity extends AppCompatActivity {
             finish();
         });
 
-        Button clearHighScoreButton = findViewById(R.id.clearHighScoreButton);
-        Button clearStreakButton = findViewById(R.id.clearStreakButton);
+        clearHighScoreButton = findViewById(R.id.clearHighScoreButton);
+        clearStreakButton = findViewById(R.id.clearStreakButton);
 
         clearHighScoreButton.setOnClickListener(v -> resetHighScore());
         clearStreakButton.setOnClickListener(v -> resetStreak());
 
         loadStats();
+
+        Configuration configuration = getResources().getConfiguration();
+        int screenSize = configuration.screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK;
+        if (screenSize == Configuration.SCREENLAYOUT_SIZE_SMALL || screenSize == Configuration.SCREENLAYOUT_SIZE_NORMAL) {
+            adjustLayoutForSmallDevices();
+        }
     }
 
     private void loadStats(){
@@ -60,8 +73,8 @@ public class GameSettingsActivity extends AppCompatActivity {
         currentStreak = sharedPreferences.getInt("currentStreak", 0);
         streakTextView.setText(String.valueOf(currentStreak));
         highScoreTextView.setText(String.valueOf(highScore));
-        highScoreLabelTextView.setText(" HIGH\nSCORE");
-        streakLabelTextView.setText("    THIS\n STREAK");
+        highScoreLabelTextView.setText(" HIGH SCORE");
+        streakLabelTextView.setText("    CURRENT STREAK");
     }
 
     private void resetHighScore(){
@@ -83,4 +96,12 @@ public class GameSettingsActivity extends AppCompatActivity {
         loadStats();
     }
 
+    private void adjustLayoutForSmallDevices() {
+        highScoreTextView.setTextSize(10);
+        highScoreLabelTextView.setTextSize(10);
+        streakTextView.setTextSize(10);
+        streakLabelTextView.setTextSize(10);
+        clearHighScoreButton.setTextSize(10);
+        clearStreakButton.setTextSize(10);
+    }
 }
