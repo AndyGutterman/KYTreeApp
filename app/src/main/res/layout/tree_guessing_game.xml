@@ -1,161 +1,206 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-
-<RelativeLayout
+<androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/TenVertGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.01" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/NinetyVertGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.99" />
 
     <TextView
         android:id="@+id/highScoreLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="HIGH SCORE"
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:layout_marginTop="750dp"
-        android:layout_alignParentStart="true"
+        app:layout_constraintTop_toTopOf="@id/button1"
+        app:layout_constraintStart_toEndOf="@id/TenVertGuide"
         />
 
     <TextView
         android:id="@+id/highScoreTextView"
-        android:layout_below="@id/highScoreLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/highScoreLabelTextView"
+        app:layout_constraintStart_toEndOf="@id/TenVertGuide"
         android:layout_marginTop="4dp"
-        android:layout_marginStart="20dp"
-        android:layout_alignParentStart="true"
+        android:layout_marginStart="22dp"
+        android:gravity="center"
         />
 
     <TextView
         android:id="@+id/streakLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="STREAK"
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="750dp"
-        />
+        app:layout_constraintTop_toTopOf="@id/button1"
+        app:layout_constraintEnd_toStartOf="@id/NinetyVertGuide"
+         />
 
     <TextView
         android:id="@+id/streakTextView"
-        android:layout_below="@id/streakLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="0"
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="28dp"
+        app:layout_constraintTop_toBottomOf="@id/streakLabelTextView"
+        app:layout_constraintEnd_toEndOf="@id/NinetyVertGuide"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="22dp"
+        android:gravity="center"
         />
-
 
 
     <ImageView
         android:id="@+id/backToMainMenuButton"
         android:layout_width="65dp"
         android:layout_height="60dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
+        android:src="@drawable/backbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         android:layout_marginStart="0dp"
-        android:layout_marginBottom="2dp"
-        android:src="@drawable/backbutton" />
+        android:layout_marginBottom="2dp"/>
 
     <ImageView
         android:id="@+id/settingsButton"
         android:layout_width="65dp"
         android:layout_height="60dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
+        android:src="@drawable/settingsbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginStart="0dp"
-        android:layout_marginBottom="2dp"
-        android:src="@drawable/settingsbutton" />
+        android:layout_marginBottom="2dp"/>
+
+    <ImageView
+        android:id="@+id/treeImageView1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/image_description"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintDimensionRatio="H,420:330"
+        app:layout_constraintWidth_percent="0.9"
+        app:layout_constraintHeight_percent="0.3"
+    />
+
+    <ImageView
+        android:id="@+id/treeImageView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/image_description"
+        app:layout_constraintTop_toBottomOf="@id/treeImageView1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintDimensionRatio="H,420:330"
+        app:layout_constraintWidth_percent="0.9"
+        app:layout_constraintHeight_percent="0.3"
+    />
 
 
-    <LinearLayout
-        android:id="@+id/imagesLinearLayout"
-        android:layout_width="match_parent"
+    <TextView
+        android:id="@+id/feedbackTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="#FF0000"
+        android:textSize="24sp"
+        android:ellipsize="end"
+        app:layout_constraintTop_toBottomOf="@id/treeImageView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/BottomButtonGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.7" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/leftVertGuide"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:gravity="center_horizontal"
-        android:layout_marginTop ="4dp"
-        android:layout_alignParentTop="true">
+        app:layout_constraintGuide_percent="0.2" />
 
-        <ImageView
-            android:id="@+id/treeImageView1"
-            android:layout_width="420dp"
-            android:layout_height="330dp"
-            android:scaleType="fitCenter"
-            android:contentDescription="@string/image_description" />
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/rightVertGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.8" />
 
+    <!-- Buttons -->
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:onClick="onTreeButtonClick"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
+        app:layout_constraintTop_toBottomOf="@id/feedbackTextView"
+        android:layout_marginTop="52dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintHorizontal_bias="0.5" />
 
-        <ImageView
-            android:id="@+id/treeImageView2"
-            android:layout_width="420dp"
-            android:layout_height="330dp"
-            android:scaleType="fitCenter"
-            android:layout_marginTop="8dp"
-            android:contentDescription="@string/image_description" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:onClick="onTreeButtonClick"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
+        app:layout_constraintTop_toBottomOf="@id/button1"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintHorizontal_bias="0.5" />
 
-        <LinearLayout
-            android:id="@+id/buttonsLinearLayout"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:orientation="vertical"
-            android:gravity="center"
-            android:paddingBottom="4dp"
-            android:layout_above="@id/backToMainMenuButton">
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:onClick="onTreeButtonClick"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
+        app:layout_constraintTop_toBottomOf="@id/button2"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintHorizontal_bias="0.5" />
 
-            <TextView
-                android:id="@+id/feedbackTextView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:layout_marginBottom="15dp"
-                android:gravity="center"
-                android:text=""
-                android:textColor="#FF0000"
-                android:textSize="24sp" />
-
-            <Button
-                android:id="@+id/button1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:onClick="onTreeButtonClick"
-                android:text=""
-                android:textSize="18sp" />
-
-            <Button
-                android:id="@+id/button2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:onClick="onTreeButtonClick"
-                android:text=""
-                android:textSize="18sp" />
-
-            <Button
-                android:id="@+id/button3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:onClick="onTreeButtonClick"
-                android:text=""
-                android:textSize="18sp" />
-
-        </LinearLayout>
-    </LinearLayout>
-
-
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
