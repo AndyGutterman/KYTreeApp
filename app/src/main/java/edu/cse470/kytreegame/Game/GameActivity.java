@@ -16,6 +16,8 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.text.Spannable;
+import android.text.SpannableStringBuilder;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -65,19 +67,17 @@ public class GameActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.tree_guessing_game);
 
-        // Check screen size and hide one ImageView on smaller devices
         Configuration configuration = getResources().getConfiguration();
         int screenSize = configuration.screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK;
 
-
-
         if (screenSize == Configuration.SCREENLAYOUT_SIZE_SMALL || screenSize == Configuration.SCREENLAYOUT_SIZE_NORMAL) {
+            Log.d("ScreenSizeCheck", "Small or Normal screen size detected");
             adjustLayoutForSmallDevices();
+        } else {
+            Log.d("ScreenSizeCheck", "Large or Extra Large screen size detected");
         }
-
 
         Window window = getWindow();
         window.setStatusBarColor(ContextCompat.getColor(this, R.color.coffee_statusbar));
@@ -85,20 +85,14 @@ public class GameActivity extends AppCompatActivity {
 
         highScoreLabelTextView = findViewById(R.id.highScoreLabelTextView);
         highScoreTextView = findViewById(R.id.highScoreTextView);
-
         streakLabelTextView = findViewById(R.id.streakLabelTextView);
         streakTextView = findViewById(R.id.streakTextView);
-
         treeImageView1 = findViewById(R.id.treeImageView1);
         treeImageView2 = findViewById(R.id.treeImageView2);
-
         feedbackTextView = findViewById(R.id.feedbackTextView);
-
         button1 = findViewById(R.id.button1);
         button2 = findViewById(R.id.button2);
         button3 = findViewById(R.id.button3);
-
-
 
         ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
         backButtonImageView.setOnClickListener(v -> {
@@ -129,53 +123,40 @@ public class GameActivity extends AppCompatActivity {
 
 
     private void adjustLayoutForSmallDevices() {
-        Guideline guidelineBottom = findViewById(R.id.BottomButtonGuideline);
-        ConstraintLayout.LayoutParams params = (ConstraintLayout.LayoutParams) guidelineBottom.getLayoutParams();
         findViewById(R.id.treeImageView2).setVisibility(View.GONE);
+
+        ImageView treeImageView1 = findViewById(R.id.treeImageView1);
+        ConstraintLayout.LayoutParams treeImageView1Params = (ConstraintLayout.LayoutParams) treeImageView1.getLayoutParams();
+        treeImageView1Params.matchConstraintPercentHeight = 0.50f;
+        treeImageView1.setLayoutParams(treeImageView1Params);
+
 
         highScoreLabelTextView = findViewById(R.id.highScoreLabelTextView);
         highScoreLabelTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 7);
-
         highScoreTextView = findViewById(R.id.highScoreTextView);
         highScoreTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 10);
 
         streakLabelTextView = findViewById(R.id.streakLabelTextView);
         streakLabelTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 7);
-
         streakTextView = findViewById(R.id.streakTextView);
         streakTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 10);
-
-
-
-        TextView feedbackTextView = findViewById(R.id.feedbackTextView);
-        feedbackTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 10);
-
-
-        params.guidePercent = 0.72f;
-        guidelineBottom.setLayoutParams(params);
-
-
-
 
 
         button1 = findViewById(R.id.button1);
         button2 = findViewById(R.id.button2);
         button3 = findViewById(R.id.button3);
-
-//        streakLabelTextView.setTextSize(8);
-//        streakTextView.setTextSize(8);
-//
-//        highScoreLabelTextView.setTextSize(8);
-//        highScoreTextView.setTextSize(8);
-
-        // Set smaller text size for buttons
         button1.setTextSize(8);
         button2.setTextSize(8);
         button3.setTextSize(8);
 
-        ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
-        ImageView settingsButtonImageView = findViewById(R.id.settingsButton);
+        feedbackTextView = findViewById(R.id.feedbackTextView);
+        feedbackTextView.setAutoSizeTextTypeUniformWithConfiguration(
+                8,  // minTextSize
+                32,  // maxTextSize
+                1,   // stepGranularity
+                TypedValue.COMPLEX_UNIT_SP);
 
+        ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
         ViewGroup.LayoutParams backButtonParams = backButtonImageView.getLayoutParams();
         backButtonParams.width = (int) TypedValue.applyDimension(
                 TypedValue.COMPLEX_UNIT_DIP, 40, getResources().getDisplayMetrics());
@@ -183,6 +164,7 @@ public class GameActivity extends AppCompatActivity {
                 TypedValue.COMPLEX_UNIT_DIP, 35, getResources().getDisplayMetrics());
         backButtonImageView.setLayoutParams(backButtonParams);
 
+        ImageView settingsButtonImageView = findViewById(R.id.settingsButton);
         ViewGroup.LayoutParams settingsButtonParams = settingsButtonImageView.getLayoutParams();
         settingsButtonParams.width = (int) TypedValue.applyDimension(
                 TypedValue.COMPLEX_UNIT_DIP, 40, getResources().getDisplayMetrics());
@@ -200,7 +182,7 @@ public class GameActivity extends AppCompatActivity {
         streakTextView.setText(String.valueOf(currentStreak));
         highScoreTextView.setText(String.valueOf(highScore));
         highScoreLabelTextView.setText(" HIGH\nSCORE");
-        streakLabelTextView.setText("    THIS\n STREAK");
+        streakLabelTextView.setText("    THIS\nSTREAK");
     }
 
     private void startGame() {

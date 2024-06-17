@@ -6,29 +6,30 @@
     android:padding="16dp">
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/TenVertGuide"
+        android:id="@+id/HighScoreVertGuide"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.01" />
+        app:layout_constraintGuide_percent="0.1" />
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/NinetyVertGuide"
+        android:id="@+id/StreakVertGuide"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.99" />
+        app:layout_constraintGuide_percent="0.9" />
 
     <TextView
         android:id="@+id/highScoreLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="HIGH SCORE"
+        android:text=""
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="@id/button1"
-        app:layout_constraintStart_toEndOf="@id/TenVertGuide"
+        app:layout_constraintStart_toEndOf="@id/HighScoreVertGuide"
+        app:layout_constraintEnd_toEndOf="@id/HighScoreVertGuide"
         />
 
     <TextView
@@ -40,9 +41,8 @@
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/highScoreLabelTextView"
-        app:layout_constraintStart_toEndOf="@id/TenVertGuide"
-        android:layout_marginTop="4dp"
-        android:layout_marginStart="22dp"
+        app:layout_constraintStart_toEndOf="@id/HighScoreVertGuide"
+        app:layout_constraintEnd_toEndOf="@id/HighScoreVertGuide"
         android:gravity="center"
         />
 
@@ -50,12 +50,13 @@
         android:id="@+id/streakLabelTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="STREAK"
+        android:text=""
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="@id/button1"
-        app:layout_constraintEnd_toStartOf="@id/NinetyVertGuide"
+        app:layout_constraintStart_toEndOf="@id/StreakVertGuide"
+        app:layout_constraintEnd_toEndOf="@id/StreakVertGuide"
          />
 
     <TextView
@@ -67,9 +68,8 @@
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/streakLabelTextView"
-        app:layout_constraintEnd_toEndOf="@id/NinetyVertGuide"
-        android:layout_marginTop="4dp"
-        android:layout_marginEnd="22dp"
+        app:layout_constraintStart_toEndOf="@id/StreakVertGuide"
+        app:layout_constraintEnd_toEndOf="@id/StreakVertGuide"
         android:gravity="center"
         />
 
@@ -99,21 +99,18 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:scaleType="fitCenter"
-        android:contentDescription="@string/image_description"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintDimensionRatio="H,420:330"
-        app:layout_constraintWidth_percent="0.9"
+        app:layout_constraintWidth_percent=".9"
         app:layout_constraintHeight_percent="0.3"
-    />
+        />
 
     <ImageView
         android:id="@+id/treeImageView2"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:scaleType="fitCenter"
-        android:contentDescription="@string/image_description"
         app:layout_constraintTop_toBottomOf="@id/treeImageView1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -122,51 +119,45 @@
         app:layout_constraintHeight_percent="0.3"
     />
 
-
     <TextView
         android:id="@+id/feedbackTextView"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="15dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp"
         android:gravity="center"
-        android:text=""
         android:textColor="#FF0000"
-        android:textSize="24sp"
-        android:ellipsize="end"
+        android:maxLines="1"
+        android:ellipsize="none"
         app:layout_constraintTop_toBottomOf="@id/treeImageView2"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
-
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/BottomButtonGuideline"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.7" />
-
+        app:layout_constraintEnd_toEndOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="24sp"
+        android:autoSizeMaxTextSize="32sp"
+        android:autoSizeStepGranularity="1sp"/>
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/leftVertGuide"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.2" />
+        app:layout_constraintGuide_percent="0.19" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/rightVertGuide"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.8" />
+        app:layout_constraintGuide_percent="0.81" />
 
-    <!-- Buttons -->
     <Button
         android:id="@+id/button1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text=""
         android:textSize="18sp"
+        android:maxLines="1"
         android:onClick="onTreeButtonClick"
         app:layout_constraintStart_toStartOf="@id/leftVertGuide"
         app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
@@ -181,6 +172,7 @@
         android:layout_height="wrap_content"
         android:text=""
         android:textSize="18sp"
+        android:maxLines="1"
         android:onClick="onTreeButtonClick"
         app:layout_constraintStart_toStartOf="@id/leftVertGuide"
         app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
@@ -195,6 +187,7 @@
         android:layout_height="wrap_content"
         android:text=""
         android:textSize="18sp"
+        android:maxLines="1"
         android:onClick="onTreeButtonClick"
         app:layout_constraintStart_toStartOf="@id/leftVertGuide"
         app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
