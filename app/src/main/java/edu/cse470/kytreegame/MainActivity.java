@@ -4,7 +4,9 @@ import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.TypedValue;
 import android.view.View;
+import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
@@ -33,6 +35,19 @@ public class MainActivity extends AppCompatActivity {
             appNameTextView.setTextSize(18);
             startButton.setTextSize(16);
             galleryButton.setTextSize(16);
+
+            ViewGroup.MarginLayoutParams params = (ViewGroup.MarginLayoutParams) startButton.getLayoutParams();
+            params.topMargin = (int) TypedValue.applyDimension(
+                    TypedValue.COMPLEX_UNIT_DIP, 4, getResources().getDisplayMetrics());
+            params.bottomMargin = (int) TypedValue.applyDimension(
+                    TypedValue.COMPLEX_UNIT_DIP, 4, getResources().getDisplayMetrics());
+
+            startButton.setLayoutParams(params);
+
+            ViewGroup.MarginLayoutParams appNameTextViewParams = (ViewGroup.MarginLayoutParams) appNameTextView.getLayoutParams();
+            appNameTextViewParams.topMargin = (int) TypedValue.applyDimension(
+                    TypedValue.COMPLEX_UNIT_DIP, 4, getResources().getDisplayMetrics());
+            appNameTextView.setLayoutParams(appNameTextViewParams);
         }
 
         Window window = getWindow();

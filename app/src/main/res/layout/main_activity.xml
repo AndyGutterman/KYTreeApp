@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -10,58 +9,57 @@
         android:id="@+id/logo_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/playstore"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="24dp"
+        android:adjustViewBounds="true"
         android:scaleType="centerInside"
-        android:adjustViewBounds="true" />
+        android:src="@drawable/playstore"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/native_trees_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
         android:text="@string/native_tree_game_and_gallery"
         android:textColor="@android:color/white"
-        android:textSize="32sp"
-        app:layout_constraintTop_toBottomOf="@id/logo_image"
-        app:layout_constraintStart_toStartOf="parent"
+        android:textSize="42sp"
         app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="8dp"
-        />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logo_image" />
 
 
     <Button
         android:id="@+id/start_game_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/start_game"
-        android:textColor="@color/white"
-        android:textSize="28sp"
-        app:layout_constraintTop_toBottomOf="@id/native_trees_textview"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="12dp"
         android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="24dp"
         android:backgroundTint="@color/goldenrod_gold"
-        android:singleLine="true" />
+        android:singleLine="true"
+        android:text="@string/start_game"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/native_trees_textview" />
 
     <Button
         android:id="@+id/tree_gallery_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/tree_gallery"
-        android:textColor="@color/white"
-        android:textSize="28sp"
-        app:layout_constraintTop_toBottomOf="@id/start_game_button"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="16dp"
         android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
         android:backgroundTint="@color/goldenrod_gold"
-        android:singleLine="true" />
+        android:singleLine="true"
+        android:text="@string/tree_gallery"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/start_game_button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
