@@ -16,12 +16,9 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.text.Spannable;
-import android.text.SpannableStringBuilder;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.constraintlayout.widget.Guideline;
 import androidx.core.content.ContextCompat;
 
 import java.io.IOException;
@@ -182,7 +179,7 @@ public class GameActivity extends AppCompatActivity {
         streakTextView.setText(String.valueOf(currentStreak));
         highScoreTextView.setText(String.valueOf(highScore));
         highScoreLabelTextView.setText(" HIGH\nSCORE");
-        streakLabelTextView.setText("    THIS\nSTREAK");
+        streakLabelTextView.setText("    THIS\n STREAK");
     }
 
     private void startGame() {

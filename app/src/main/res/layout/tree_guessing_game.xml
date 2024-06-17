@@ -119,12 +119,12 @@
         app:layout_constraintHeight_percent="0.3"
     />
 
+
     <TextView
         android:id="@+id/feedbackTextView"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="42dp"
         android:layout_marginTop="14dp"
-        android:layout_marginBottom="14dp"
         android:gravity="center"
         android:textColor="#FF0000"
         android:maxLines="1"
@@ -136,6 +136,7 @@
         android:autoSizeMinTextSize="24sp"
         android:autoSizeMaxTextSize="32sp"
         android:autoSizeStepGranularity="1sp"/>
+
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/leftVertGuide"
@@ -149,8 +150,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.81" />
+        app:layout_constraintGuide_percent="0.8" />
 
+    <!-- Buttons -->
     <Button
         android:id="@+id/button1"
         android:layout_width="0dp"
@@ -162,7 +164,7 @@
         app:layout_constraintStart_toStartOf="@id/leftVertGuide"
         app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
         app:layout_constraintTop_toBottomOf="@id/feedbackTextView"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="42dp"
         android:layout_marginBottom="8dp"
         app:layout_constraintHorizontal_bias="0.5" />
 
@@ -185,15 +187,14 @@
         android:id="@+id/button3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="18sp"
+        android:layout_marginTop="8dp"
         android:maxLines="1"
         android:onClick="onTreeButtonClick"
-        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        android:text=""
+        android:textSize="18sp"
         app:layout_constraintEnd_toStartOf="@id/rightVertGuide"
-        app:layout_constraintTop_toBottomOf="@id/button2"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="8dp"
-        app:layout_constraintHorizontal_bias="0.5" />
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@id/leftVertGuide"
+        app:layout_constraintTop_toBottomOf="@id/button2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
