@@ -1,4 +1,4 @@
-<!-- activity_gallery_details.xml -->
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,14 +9,17 @@
         android:id="@+id/treeNameTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
         android:padding="8dp"
-        android:textSize="24sp"
-        android:gravity="center" />
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="9sp"
+        android:autoSizeMaxTextSize="32sp"
+        android:autoSizeStepGranularity="1sp"        android:gravity="center" />
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@android:color/darker_gray"
+        android:background="@android:color/white"
         android:layout_marginTop="4dp"
         android:layout_marginBottom="20dp"/>
 
@@ -25,14 +28,11 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <!-- LinearLayout to display images -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-
-            <!-- ImageViews for displaying images -->
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_width="wrap_content"
@@ -47,15 +47,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="50dp"
-                />
-
-
+                android:layout_marginBottom="50dp" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -70,14 +70,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="50dp"
-                />
-
+                android:layout_marginBottom="50dp" />
 
             <ImageView
                 android:id="@+id/imageView3"
@@ -92,14 +93,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="50dp"
-                />
-
+                android:layout_marginBottom="50dp" />
 
             <ImageView
                 android:id="@+id/imageView4"
@@ -108,19 +110,21 @@
                 android:layout_weight="1"
                 android:scaleType="fitCenter"
                 android:layout_gravity="center" />
+
             <TextView
                 android:id="@+id/imageNameTextView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="50dp"
-                />
-
+                android:layout_marginBottom="50dp" />
 
             <ImageView
                 android:id="@+id/imageView5"
@@ -129,19 +133,21 @@
                 android:layout_weight="1"
                 android:scaleType="fitCenter"
                 android:layout_gravity="center" />
+
             <TextView
                 android:id="@+id/imageNameTextView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="50dp"
-                />
-
+                android:layout_marginBottom="50dp" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -150,40 +156,40 @@
                 android:layout_weight="1"
                 android:scaleType="fitCenter"
                 android:layout_gravity="center" />
+
             <TextView
                 android:id="@+id/imageNameTextView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="18dp"
-                />
-
-
+                android:layout_marginBottom="18dp" />
 
             <View
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="@android:color/darker_gray"
-                />
-
+                android:background="@android:color/darker_gray" />
 
             <TextView
                 android:id="@+id/licensesTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6sp"                
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
                 android:text=""
-                android:textSize="18sp"
                 android:textColor="@android:color/white"
                 android:gravity="center"
-                android:layout_marginBottom="18dp"
-                />
-
+                android:layout_marginBottom="18dp" />
 
         </LinearLayout>
     </ScrollView>
