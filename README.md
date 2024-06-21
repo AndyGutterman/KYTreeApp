@@ -1,18 +1,8 @@
-# KY Native Tree Guessing Game
+## KY Native Tree Guessing Game
 
-A fun and educational game where you guess the native trees of Kentucky!
+A fun and educational game where you guess the native trees of Kentucky! Designed to test your knowledge..
 
-## Table of Contents
-- [About the Game](#about-the-game)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-
-
-## About the Game
-This is a mobile app designed to test your knowledge of native trees found in Kentucky. 
-I created this with the goal of combining educational content with an engaging gamified experience.
+I created this mobile app with the goal of combining educational content with an engaging gamified experience.
 
 ## Features
 - Guess the native tree based on provided images.
