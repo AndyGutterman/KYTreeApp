@@ -15,13 +15,12 @@ to be added
 
 ## Installation
 - Clone the repository:
-- git clone https://github.com/your-username/ky-tree-game.git
 - Open the project in Android Studio.
 - Build and run the project on an Android device or emulator.
 
 ## Usage
 - Launch the app.
 - Start the game by tapping the "Start Game" button on the main screen.
-- Choose the correct tree name among the options provided.
-- Navigate to the tree gallery to explore all available native tree names.
+1.  Choose the correct tree name among the options provided.
+2.  Navigate to the tree gallery to explore all available native tree names.
 
