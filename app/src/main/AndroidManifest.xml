@@ -16,26 +16,30 @@
 
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name=".Game.GameActivity">
+            android:name=".Game.GameActivity"
+            android:screenOrientation="portrait">
         </activity>
         <activity android:name=".Gallery.GalleryActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Gallery.GalleryDetailsActivity" />
-        <activity android:name=".Game.GameSettingsActivity" />
+        <activity android:name=".Gallery.GalleryDetailsActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity android:name=".Game.GameSettingsActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
     </application>
-
 </manifest>
