@@ -29,7 +29,7 @@ public class GalleryActivity extends AppCompatActivity {
         List<String> treeNames = getTreeNames();
 
         ListView listView = findViewById(R.id.listView);
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.list_item_layout, treeNames);
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.list_item_layout, R.id.textView, treeNames);
         listView.setAdapter(adapter);
 
         Window window = getWindow();
