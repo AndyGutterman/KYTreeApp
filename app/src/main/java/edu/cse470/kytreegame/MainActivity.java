@@ -5,7 +5,6 @@ import android.content.res.Configuration;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.TypedValue;
-import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.Button;
@@ -23,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_activity);
+        Button startButton = findViewById(R.id.start_game_button);
 
         Configuration configuration = getResources().getConfiguration();
         int screenSize = configuration.screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK;
@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
             TextView appNameTextView = findViewById(R.id.native_trees_textview);
             Button galleryButton = findViewById(R.id.tree_gallery_button);
-            Button startButton = findViewById(R.id.start_game_button);
 
             appNameTextView.setTextSize(18);
             startButton.setTextSize(16);
@@ -54,8 +53,7 @@ public class MainActivity extends AppCompatActivity {
         window.setStatusBarColor(ContextCompat.getColor(this, R.color.goldenrod_gold));
         window.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.deep_blue)));
 
-        Button startGameButton = findViewById(R.id.start_game_button);
-        startGameButton.setOnClickListener(v -> startGame());
+        startButton.setOnClickListener(v -> startGame());
 
         Button galleryButton = findViewById(R.id.tree_gallery_button);
         galleryButton.setOnClickListener(v -> openGalleryActivity());
