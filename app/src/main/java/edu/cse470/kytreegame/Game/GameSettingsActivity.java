@@ -1,17 +1,17 @@
 package edu.cse470.kytreegame.Game;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.util.TypedValue;
-import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import androidx.activity.OnBackPressedCallback;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
@@ -46,11 +46,7 @@ public class GameSettingsActivity extends AppCompatActivity {
 
         ImageView backButtonImageView = findViewById(R.id.backToMainMenuButton);
 
-        backButtonImageView.setOnClickListener(v -> {
-            Intent intent = new Intent(GameSettingsActivity.this, GameActivity.class);
-            startActivity(intent);
-            finish();
-        });
+        backButtonImageView.setOnClickListener(v -> navigateBackToGame());
 
         clearHighScoreButton = findViewById(R.id.clearHighScoreButton);
         clearStreakButton = findViewById(R.id.clearStreakButton);
@@ -65,8 +61,18 @@ public class GameSettingsActivity extends AppCompatActivity {
         if (screenSize == Configuration.SCREENLAYOUT_SIZE_SMALL || screenSize == Configuration.SCREENLAYOUT_SIZE_NORMAL) {
             adjustLayoutForSmallDevices();
         }
+
+        // Handle back button press using OnBackPressedDispatcher
+        OnBackPressedCallback callback = new OnBackPressedCallback(true) {
+            @Override
+            public void handleOnBackPressed() {
+                navigateBackToGame();
+            }
+        };
+        getOnBackPressedDispatcher().addCallback(this, callback);
     }
 
+    @SuppressLint("SetTextI18n")
     private void loadStats(){
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         highScore = sharedPreferences.getInt("highScore", 0);
@@ -103,5 +109,11 @@ public class GameSettingsActivity extends AppCompatActivity {
         streakLabelTextView.setTextSize(10);
         clearHighScoreButton.setTextSize(10);
         clearStreakButton.setTextSize(10);
+    }
+
+    private void navigateBackToGame() {
+        Intent intent = new Intent(GameSettingsActivity.this, GameActivity.class);
+        startActivity(intent);
+        finish();
     }
 }
