@@ -11,9 +11,10 @@ I created this mobile app with the goal of combining educational content with an
 - Responsive design for various screen sizes.
 
 ## Screenshots
-![Main Menu](demo_images/main_menu.png)
-![Gameplay](demo_images/gameplay.png)
-![Gallery](demo_images/gallery.png)
+![Main Menu](demo_images/main_menu.png){: style="width:300px; height:auto;"}
+![Gameplay](demo_images/gameplay.png){: style="width:300px; height:auto;"}
+![Gallery](demo_images/gallery.png){: style="width:300px; height:auto;"}
+
 
 ## Installation
 - Clone the repository:
