@@ -29,4 +29,4 @@ I created this mobile app with the goal of combining educational content with an
 2.  Navigate to the tree gallery to explore all available native tree names.
 
 
-**Images sourced using wikimedia API, license may vary but all attributions are included in the  
+**Images sourced using wikimedia API, license may vary but all attributions are included in the gallery.
